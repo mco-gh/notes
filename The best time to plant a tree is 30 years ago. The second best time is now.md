@@ -1,0 +1,1 @@
+The best time to plant a tree is 30 years ago. The second best time is now.

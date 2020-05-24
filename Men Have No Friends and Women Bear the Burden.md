@@ -1,0 +1,200 @@
+Men Have No Friends and Women Bear the Burden
+
+# Men Have No Friends and Women Bear the Burden
+
+## **
+
+Toxic masculinity—and the persistent idea that feelings are a "female thing"—has left a generation of straight men stranded on emotionally-stunted island, unable to forge intimate relationships with other men. It's women who are paying the price.
+
+
+
+By[Melanie Hamlett](https://www.harpersbazaar.com/author/222635/Melanie-Hamlett/)
+
+/May 2, 2019
+
+Kylie-Anne Kelly can’t remember the exact moment she became her boyfriend’s one and only, his *what would I do without you*, but she does remember neglecting her own needs to the point of hospitalization. “I talked him through his aspirations, validated his opinions, and supported his career. I had to be his emotional guru because he was too afraid to admit he had any emotions at all,” recalls the 24-year-old English teacher, who was studying for her PhD at the time. Kelly’s boyfriend refused to talk to other men or a therapist about his feelings, so he’d often get into “funks,” picking pointless fights when something was bothering him. Eventually, Kelly became his default therapist, soothing his anxieties as he fretted over work or family problems. After three years together, when exhaustion and anxiety landed her in the hospital and her boyfriend claimed he was “too busy” to visit, they broke up.
+
+Advertisement - Continue Reading Below
+
+Kelly’s story, though extreme, is a common example of modern American relationships. Women continue to bear the burden of men’s emotional lives, and why wouldn’t they? For generations, men have been taught to reject traits like gentleness and sensitivity, leaving them without the tools to deal with internalized anger and frustration. Meanwhile, the female savior trope continues to be romanticized on the silver screen (thanks Disney!), making it seem totally normal—even ideal—to find the man within the beast.
+
+Unlike women, who are encouraged to foster deep platonic intimacy from a young age, American men—with their puffed up chests, fist bumps, and awkward side hugs—grow up believing that they should not only behave like stoic robots in front of other men, but that women are the only people they are allowed to turn to for emotional support—if anyone at all. And as modern relationships continue to put pressure on "the one" to be *[The Only One](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.npr.org_2018_02_12_584531641_when-2Ddid-2Dmarriage-2Dbecome-2Dso-2Dhard&d=DwMFaQ&c=B73tqXN8Ec0ocRmZHMCntw&r=ZUED9jmIFTnBCzvXECcpYAfmyomm4MAqkiW6tyUygOs&m=hkZhGYY3QI6rVy7zm0ayL7tngsb0iy7Gc_PEfRGufQk&s=iQkmUgFKG0M-Yx2-cievVyuGGEY5f2cHaYzd9FuuHsc&e=)* (where men cast their wives and girlfriends to play best friend, lover, career advisor, stylist, social secretary, emotional cheerleader, mom—to him, their future kids, or both—and eventually, on-call therapist minus the $200/hour fee), this form of emotional gold digging is not only detrimental to men, [it's exhausting](https://www.psychologytoday.com/us/blog/culture-shrink/201709/why-are-women-so-exhausted) an entire generation of women.
+
+The idea of an “emotional gold digger” was first touched on in 2016 by writer Erin Rodgers with [*a tweet *](https://twitter.com/erinmrodgers/status/738195765030313985?lang=en)that continues to be re-posted on social media—both by women who married self-described feminist men, and by those with more conservative husbands. It has gained more traction recently as women, feeling increasingly [burdened](https://www.harpersbazaar.com/culture/features/a12063822/emotional-labor-gender-equality/) by unpaid emotional labor, have wised up to the toll of toxic masculinity, which keeps men [*isolated *](https://www.bostonglobe.com/magazine/2017/03/09/the-biggest-threat-facing-middle-age-men-isn-smoking-obesity-loneliness/k6saC9FnnHQCUbf5mJ8okL/story.html)and incapable of leaning on each other. Across the spectrum, women seem to be complaining about the same thing: While they read countless self-help books, listen to podcasts, seek out career advisors, turn to female friends for advice and support, or spend a small fortune on therapists to deal with old wounds and current problems, the men in their lives simply rely on them.
+
+Related Story
+
+[![hbz-feature-fed-up-1506386675.png](../_resources/e3ec372132112f23a5cf1ffff79d4da3.png)  Women Aren't Nags—We're Just Fed Up](https://www.harpersbazaar.com/culture/features/a12063822/emotional-labor-gender-equality/)
+
+It’s for this reason that artist Lindsay Johnson jokingly calls herself everyone’s “Beck and Call Girl.” Not only does she take care of her husband and children, she just moved in with her mom to take care of her as well, because she knows her brothers won’t. Both recently divorced, her brothers are already turning to her (but never to each other) to provide the support their wives used to.
+
+Advertisement - Continue Reading Below
+
+“Men drain the emotional life out of women,” says the 41-year-old, who lives in Nashville, Tennessee. “I love ‘em, but good lord, they’ve become the bane of my existence.” Johnson admits she enables her brothers by saying yes all the time—partly out of guilt, but also partly because she loves being needed—“to feel important,” Johnson explains. “It’s a catch 22, eventually it becomes too much and I end up exhausted and resentful.”
+
+Like Johnson, most of the women I spoke to for this piece believe that their ego and self-worth are often wrapped up in being a man’s crutch. But the older women get, the less willing they seem to be a man’s everything—not only because we become more confident, wise, and, well, *tired* with age, but because our responsibilities pile up with each passing year. All the retired women I know are busier than ever, taking care of spouses, ailing friends, grandchildren, and parents, then doing some volunteering on the side. Meanwhile, things only get worse for women’s *[aging partners.](https://www.upworthy.com/loneliness-is-killing-millions-of-american-men-here-s-why?c=ufb2)*
+
+“Men don’t usually put the effort into maintaining friendships once they’re married,” Johnson says. “The guys at work are the only people other than me that my husband even talks to, so when some of these men retire, they expect their wives to be their source of entertainment and even get jealous that they have a life.” Johnson jokes that women her mom’s age seem to be waiting for their husbands to die so they can finally start their life. “I’ll get a call saying so-and-so kicked the bucket and sure enough, his widow is on a cruise around the world a week later with her girlfriends.”
+
+But unlike women in our mothers’ generation, Gen X’ers and millennials are starting to hold their partners accountable—or they’re simply leaving. Ruby Marez, a comedian in her early 30’s living in Los Angeles, got so fed up with functioning as an unpaid therapist that she gave her then-boyfriend of five years an ultimatum: Get a shrink or we’re done. “He had no excuse not to go since his job paid for it. But here I was, a struggling freelancer with no benefits, always finding a way to prioritize therapy and yoga.” He refused for two years, then finally agreed after multiple arguments, though it took prodding and reminding from her. He rarely went, says Marez, often blaming the therapist for scheduling conflicts; and only conceded to couples counseling after she did all the work to find the therapist and set up the appointments. A little wiser, Marez broke up with her most recent romantic prospect after he said he didn’t need therapy, *because he had her for that*.
+
+Advertisement - Continue Reading Below
+
+“Men are taught that feelings are a female thing,” muses Johnson, whose husband often complains about her wanting to "talk deep." Though Johnson brags about how wonderful her husband is—grateful he doesn’t exhaust her with his neediness like a lot of her married friends—she does wish men were encouraged to examine and explore their emotions in a safe setting, like therapy, before they boil over. “I’m tired of having to replace another broken bedside table because he didn’t realize he needed to talk about his feelings,” she admits.
+
+Johnson’s not alone. The persistent idea that seeking therapy is a [*form of weakness*](https://tonic.vice.com/en_us/article/43nzag/men-dont-go-therapy-mental-health) has produced a generation of men suffering from symptoms like [anger, irritability, and aggressiveness](https://www.menshealth.com/health/a19534007/why-so-angry/), because not only are they [less likely](https://www.apa.org/pubs/journals/releases/cou-cou0000176.pdf) than women to pursue mental health help, but once they do, they have a hard time expressing their emotions. (This is so common there’s even a technical term for it: “[*normative male alexithymia*](https://psycnet.apa.org/record/2012-27657-001).”) For millennial men in particular, a major challenge is understanding they need help in the first place. “Men have never been taught how to identify what their emotional needs are, their thoughts and feelings, or to express how someone can help them fulfill these,” explains Dr. Angela Beard, a clinical psychologist at the Veterans Affairs in Dallas, Texas. Forced to question long-held masculine ideals, therapy can be a meaningful and transformative process, even for her most reluctant patients. “No one has ever asked them what masculinity means to them, and they’ve never asked themselves,” says Beard. “They can get a lot of insight from this process.”
+
+But individual therapy—which can cost upwards of [*$200 per session*](https://www.huffpost.com/entry/therapy-expensive-insurance_n_5900048ee4b0af6d718992e7) and is rarely covered by insurance—isn’t financially viable for everyone. Group therapy is an accessible alternative (ranging from $50-$75 per session), but the practice faces added stigma because of its association with inpatient psychiatric hospitals and rehab facilities, as well as court-ordered treatments for anger, domestic violence, sex offenses, and substance abuse. “A lot of people, men and women both, have this stereotype of group therapy from movies like Adam Sandler’s *Anger Management*, where everyone is sitting in a circle crying and one person is telling their life story and it’s really awkward. But group therapy can be nothing like that,” explains Beard, who leads various group therapy sessions. When newer men join the group, she explains, the tenured members often normalize therapy for them, explaining that it’s a safe place to discuss deeply personal feelings. “These military men, some with combat trauma, experience great relief in having their needs validated by peers. Members become comfortable enough to share their honest impression of another member, opening the door to interpersonal feedback that they may never hear elsewhere.”
+
+Advertisement - Continue Reading Below
+
+Still, the statistics are bleak. Only [five percent](https://gatewaycounseling.com/men-seeking-counseling-statistics/) of men seek outpatient mental health services, despite feeling lonelier than ever before (in a recent [British study](https://www.telegraph.co.uk/men/active/mens-health/11996473/2.5-million-men-have-no-close-friends.html), 2.5 million men admitted to having no close friends). What's more, men [conceal pain and illness](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3888625/#R35) at much higher rates than women, and are [three times more likely](https://afsp.org/about-suicide/suicide-statistics/) than women to die from suicide. Black men face an [added set of barriers](https://www.psychiatry.org/news-room/apa-blogs/apa-blog/2017/10/racism-and-mental-health), including [systemic discrimination](https://www.psychologytoday.com/us/blog/talking-about-men/201711/the-mental-health-impact-blame-black-man-syndrome),[racial stereotypes](http://ourselvesblack.com/journal/2016/6/5/handle-with-care-a-conversation-with-black-men-on-mental-and-emotional-health), and [cultural stigma](https://www.huffingtonpost.com/entry/yougoodman-black-men-and-mental-health_us_5951de6ae4b0c85b96c65c3d) against mental illness. So what, then, is a man to do when he needs honest, unbiased support from someone other than his partner, but is unwilling or unable to try therapy? Some American men have found a powerful solution: men’s support groups.
+
+Advertisement - Continue Reading Below
+
+After several failed relationships, Scott Shepherd realized that despite being an empathetic, self-aware guy, he was still missing a key element to his emotional health: a few good (woke-ish) men.
+
+Previously, Shepherd**  **leaned heavily on women for emotional intimacy because—shocker—that’s who he felt safest with. The problem was, he became dependent on the women he opened up to and kept repeating the cycle. “I saw it really was *me *that’s the problem. It didn't matter who the girl was, the same issues just kept coming up,” admits the Portland, Oregon-based outdoor adventure leader. “These old patterns are pretty deep. I needed support and intimacy that wasn’t tied up into one relationship.” So Shepherd turned to the internet, downloaded a *[men’s group manual](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.mensgroupmanual.com_&d=DwMFaQ&c=B73tqXN8Ec0ocRmZHMCntw&r=ZUED9jmIFTnBCzvXECcpYAfmyomm4MAqkiW6tyUygOs&m=VootRmyzPWqX0prtw3GNqOR_YiR9Erit-irH0uDmKG8&s=X5ASD1aERxQmfEPbZIi8ROQ7ULZzYqmyanFWm2_Tr2I&e=)*, and invited a few guy friends who he knew would be receptive. He capped the membership at eight and set up a structure with very clear boundaries; the most important being *what’s talked about in men’s group stays in men’s group*.
+
+Each meeting starts with a five-minute meditation, followed by discussions on everything from how to deal with difficulties in romantic relationships to talking through problems at work. Shepherd describes it as “pretty powerful” to sit in a group of men as one or more of them breaks down crying. “It’s healthy not only for the men being so vulnerable, but for the ones sitting there bearing witness to it—holding this safe space for him to cry in,” he explains. “As a man, you’re not taught to listen, just get busy trying to fix things; you can’t cry, only get mad. This group changed that. They’re starting to see that embracing these things we’ve rejected out of fear of being called ‘gay’ or ‘a pussy’ are actually huge acts of courage.”
+
+Advertisement - Continue Reading Below
+
+At first, Shepherd thought his men’s group would be a place to unload on someone other than a woman, but it’s become more than that—something he believes all men truly want and need, but can’t admit it. “In our culture, men have always found ways to be near each other, but it’s never been centered around feelings,” he explains. “Men are taught the remedy to heartbreak is to get drunk with your buddies, objectify women, and go out and get laid; to basically distance yourself from your feelings and channel them into an aggressive outlet. We use sports as an excuse to bump up against each other, so desperate we are for human touch and intimacy. But this kind of closeness is based in camaraderie and aggression, not vulnerability and trust. The former is very surface level and not nearly as satisfying as the latter.”
+
+Shepherd has learned there’s some things you process with a partner, but other things that are much healthier to process *outside* the relationship. Instead of running away, or making extreme statements like, “I’m afraid this isn’t working,” he’s learned it’s best to first talk with healthy, honest men to get clarity, and then come back and say, *Here’s what I’m struggling with*.
+
+My friend Stephen, who asked me to omit his last name to protect the privacy of his family, actually credits joining a men’s group with helping him find the necessary tools to ensure a healthy marriage. “It’s changed my life and secured the stability of my family,” he admits. Stephen’s men’s group, which focuses on everything from setting and achieving goals to redefining masculinity itself, is a larger, more organized version of Shepherd’s, with self-governed chapters all over the world. But like Shepherd’s, it prides itself on privacy—the group doesn’t have a website and ushers in new members by word of mouth. “I can take down my façade and get real about what I’m scared of, or what I’m sad, self-conscious or mad about, all without judgement or fear that it will get out of our confidential circle,” says Stephen of his group. “We deliver the truth and difficult feedback even if it might not be well-received.”
+
+Advertisement - Continue Reading Below
+
+Not only has the group taught him alternative ways to be a man, husband, and father, it has given Stephen a space to think about what kind of man he wants to be. “Until I did this work, I didn’t know there was anything but the singular default definition of manhood,” he explains, adding that he’s now a better listener, is more generous with his affections, and has realized the importance of “being present.” Stephen checks in with his group weekly, sometimes even daily over text, depending on how much support he needs to stay on track with his goals. “We’re actually strongest when we lean on each other and do it together,” Stephen says. Knowing that other men have problems, no matter how it looks on the outside, makes him feel less alone, he says, and less ashamed.
+
+Shame, *[Brené Brown](https://urldefense.proofpoint.com/v2/url?u=http-3A__bit.ly_2uA8tzW&d=DwMFaQ&c=B73tqXN8Ec0ocRmZHMCntw&r=ZUED9jmIFTnBCzvXECcpYAfmyomm4MAqkiW6tyUygOs&m=VootRmyzPWqX0prtw3GNqOR_YiR9Erit-irH0uDmKG8&s=A3_NdmABGirwX7pHgGhMKMfqQXNb7HpsAwDPrlGaMg0&e=)* found in her years of [*research,*](https://www.theatlantic.com/sexes/archive/2013/04/messages-of-shame-are-organized-around-gender/275322/) is the single biggest cause of toxic masculinity. Whereas women experience shame when they fail to meet unrealistic, conflicting expectations, men become consumed with shame for showing signs of weakness. Since vulnerability is, unfortunately, still perceived as a weakness instead of a strength, having hard conversations that involve vulnerability is something men often try to avoid. It’s for this reason that to yield positive results from men’s support groups, men must enter such groups with that very intention—not just to find buddies.
+
+Whether they’re members of small groups like Shepherd’s or more mainstream groups like Stephen’s, the men I spoke to all agreed on one thing: that these groups made them better partners to the women in their lives. And it’s not just men saying this. I witnessed my friend Liz’s marriage strengthen after her husband, Randy, co-founded a men’s group with his best friend three years ago that offers a confidential, neutral space for men in their isolated New England town to share their fears without judgment.
+
+“This isn’t him going to grab a beer with guys. He’s going to find psychological and emotional support from men who understand his problems,” Liz explains. “They’re not just getting together to have a bitch fest, gossip, or complain about their lives. They’re super intentional about what they’re talking about, why, and what’s important to them.”
+
+Advertisement - Continue Reading Below
+
+Randy’s group, which caps membership to six people at any given time to build trust with each member, also adheres to strict confidentiality rules. “Whenever it’s time for the men’s group to meet at one of our houses, the wives clear out, toting their kids and babies behind so the guys can have a private space to do this important work,” says Liz, clarifying that her husband equally shares the burden of work at home—as do most the men in the group. The meetings are often held later in the evenings so that the men can first feed their children and put them to bed, and if Liz is busy on men’s group night, Randy will hire a babysitter. “He would never assume I’m free to take over and he never asks me to cancel my plans so he can go to men’s group.”
+
+A group text chain enables the men to check in with other members between meetings, and for some of these men, this is their first truly authentic relationship with a peer. “It’s super liberating to make yourself vulnerable to a group like this,” says Randy, adding that he doesn’t need Liz to be his one and only anymore.
+
+Advertisement - Continue Reading Below
+
+Similarly, now that Shepherd, the outdoor adventure leader, no longer needs a partner to feel emotionally connected and understood, he says he can go into his next relationship without being emotionally needy—or selfish. “It’s really not healthy to have all your chips in one container with anyone.” After watching Ted Talks like Tony Porter’s [**A Call to Men**](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.youtube.com_watch-3Fv-3Dtd1PbsV6B80&d=DwMFaQ&c=B73tqXN8Ec0ocRmZHMCntw&r=ZUED9jmIFTnBCzvXECcpYAfmyomm4MAqkiW6tyUygOs&m=VootRmyzPWqX0prtw3GNqOR_YiR9Erit-irH0uDmKG8&s=aMP2Mo2ltKYBh8UrwIdLl9XyalYJsn_sN8QNtxFOsPw&e=) and Justin Baldoni’s **[Why I'm Done Trying To Be Man Enough](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.ted.com_talks_justin-5Fbaldoni-5Fwhy-5Fi-5Fm-5Fdone-5Ftrying-5Fto-5Fbe-5Fman-5Fenough&d=DwMFaQ&c=B73tqXN8Ec0ocRmZHMCntw&r=ZUED9jmIFTnBCzvXECcpYAfmyomm4MAqkiW6tyUygOs&m=VootRmyzPWqX0prtw3GNqOR_YiR9Erit-irH0uDmKG8&s=mFoMIiCgQb2HYa6Xkr7ySw49SJWlWyfysBl-__NYOXQ&e=)***, *Shepherd has realized how important it is for men to start redefining what it means to be a "good" man to the women in their lives. He believes men are having a reckoning right now—not just with their past wrongs both individually and collectively, as we’ve seen with #MeToo and #TimesUp, but with who they are and want to be. “Our culture pits men against women, and makes it impossible for men to feel anything but shame if they act too ‘feminine’ in front of other men," he says. “But some men are recognizing that internally, they aren’t nearly as strong as they think they are."
+
+[Melanie Hamlett](https://www.harpersbazaar.com/author/222635/Melanie-Hamlett/)Melanie Hamlett is a comedian, writer, and storyteller who’s been performing in New York City and Los Angeles for the last 12 years and now in Europe, where she currently lives.
+
+Read Next
+
+[![cheating-1552336740.png](../_resources/111b63b2e7197cfc451611f9e20e090e.png) /Stop Blaming Women for Cheating Scandals](https://www.harpersbazaar.com/culture/politics/a26786870/khloe-kardashian-jordyn-woods-tristan-thompson-cheating-scandal/)
+
+[![cyntoiabrown-1544640071.png](../_resources/a7cfd445bc05be2f55cee57a20d4615f.png) /Justice Is Not the Same for Everyone in America](https://www.harpersbazaar.com/culture/politics/a25560692/cyntoia-brown-jacob-walter-anderson-sentences-explained/)
+
+Sponsored Content From Around The Web
+
+- [
+
+ [eyJpdSI6ImU4YWU3MjMxZjJmNWM3ZTg1ODcyODgyN2VhMGI3OTc0NTI3NDM5ZmE2OGEyZjY5MGU5OWI0ZjAyMzY4ZDk3NDciLCJ3IjoyMTQsImgiOjExOSwiZCI6MS41LCJjcyI6MCwiZiI6NH0.webp](../_resources/de56472e4c6c605348b70e4a7ed7c387.webp)    This Royal Wedding Dress Is The Most Gorgeous Of All  StyleBistro](http://www.stylebistro.com/The+Most+Gorgeous+Royal+Wedding+Gowns+Of+All+Time?utm_source=outb&utm_medium=cpc&utm_campaign=Outb-SB-Specials-X1-Desktop-Gorgeous-Royal-Wedding-Gowns&utm_content=$section_name$&obOrigUrl=true)
+
+- [
+
+ [eyJpdSI6IjI5NmM1NWRlNjMzZWQ2NTk3NTNhOGUyMmQ4ZjhiZmFhYWFlOWRkZjM2ZjFkYjM1NGI0MTU1ZWZlNzgzZTNkMTIiLCJ3IjoyMTQsImgiOjExOSwiZCI6MS41LCJjcyI6MCwiZiI6NH0.webp](../_resources/a822d9304b400e0f1dfd01eafcfc5830.webp)    3 Online Dating Sites that Actually Work  Top UK Dating Sites](https://www.top10bestdatingsites.co.uk/?utm_source=outbrain&utm_medium=$section_id$_$section_name$&utm_campaign=O940&a=O940&c=003b5fafe9130c5658b8bf8b9ffb9d1a3b&utm_term=$publisher_name$&ClickID=$ob_click_id$&campaign_id=00fce926b92d07c1a6b44b409ca5c02fba&ad_id=003b5fafe9130c5658b8bf8b9ffb9d1a3b&publisher_id=$section_id$_$section_name$&publisher_name=$publisher_name$&obOrigUrl=true)
+
+- [
+
+ [eyJpdSI6IjExZTVkNjUyNWJlZTE1ODNiYTZkYzJhZWM2OTU2MDRjZWZlNjVkMTMxNTE1ZTE4OWE2NWYxYWQxMjVjZjU4NzEiLCJ3IjoyMTQsImgiOjExOSwiZCI6MS41LCJjcyI6MCwiZiI6NH0.webp](../_resources/b18e9804cf16ae6a57502706fd62eb13.webp)    Camden Residents: Rethink Mobility with These Classy Stairlifts  Stairlift Finder | Sponsored Listings](http://relatedsearchlinks.com/?cmpt=ot&sd=01e270.fxqmhf.com&cmpid=100&subid=$publisher_id$&clickid=$ob_click_id$&subid1=$publisher_id$&subid2=00c5f9b12682731a8c32abf644fa548119&ref=$section_name$&subid3=$publisher_id$&subid4=$section_id$&site=$publisher_name$_$section_name$&obOrigUrl=true)
+
+- [
+
+ [eyJpdSI6IjA0YjM3ZDQ2NWZiNGI5NDVhZTc3NDEzYWEwM2QxNjQzM2QwMzllM2U5NzBkYzgyZDQyNTAzOTEyZDJlZDljNTMiLCJ3IjoyMTQsImgiOjExOSwiZCI6MS41LCJjcyI6MCwiZiI6NH0.webp](../_resources/0f0e882414c63f1cff931e9f9ee8ef6c.webp)    [Pics] He Thought He Was Rescuing A Beaver, Then He Looked Closer  giveitlove](http://www.giveitlove.com/a-man-thought-he-saw-a-distressed-beaver-in-the-mud-but-what-he-actually-found-would-change-his-life-forever/?utm_campaign=bvr-d-uk-c-es-0-190522-gl-ob-ac-a1&utm_term=5_bvr.jpg&utm_source=ob&utm_medium=$section_id$-ob&utm_content=0048061454a859df46fb9dc3fb77794c53&obOrigUrl=true)
+
+- [
+
+ [eyJpdSI6IjJkZDkxZTRhMWQwZTZlNjk0NmE3M2M5ZWNiMzAwNGEzNzQ5ZjdiNDQ0YTAyYmQ0YzA1Mjk2ZWRlZjRhODI2NDYiLCJ3IjoyMTQsImgiOjExOSwiZCI6MS41LCJjcyI6MCwiZiI6NH0.webp](../_resources/1ca238286384ce1e1fcce414243ba956.webp)    [Gallery] Couple Makes A Bet: No Eating Out, No Cheat Meals, No Alcohol. A Year…  CelebsPulse](https://celebspulse.com/couple-weight-loss-challenge/?utm_campaign=CoupleChangeNov_ALT&utm_medium=Discovery&utm_source=Outbrain&utm_term=$section_name$&obOrigUrl=true)
+
+- [
+
+ [eyJpdSI6IjFiYTQyZjdiMmY2NzJjOGEwZGFlM2IzZDM3YmQ0YWRhMGY5MjA2YTZlYjRjYTBiOWRlOThlNzY4MWQzODVlYTEiLCJ3IjoyMTQsImgiOjExOSwiZCI6MS41LCJjcyI6MCwiZiI6NH0.webp](../_resources/5a478d39f81080ea4f156a999cac8030.webp)    The Most Adorable Photos Of William And Kate  Livingly](http://www.livingly.com/The+Cutest+Photos+Of+Prince+William+And+Kate+Middleton?utm_source=outb&utm_medium=cpc&utm_campaign=Outb-LV-Specials-X1-Desktop-Cutest-Photos-Of-William-Kate&utm_content=$section_name$&obOrigUrl=true)
+
+- [
+
+ [eyJpdSI6IjNmMGIxNDY2MmY1OWI3MWJkMDM1NjNiOWZiYmRiZjFjNjg1ZDYzYjZmMGJkZDQ0YTczNDU2YTU3Yjc4NDU3ZmEiLCJ3IjoyMTQsImgiOjExOSwiZCI6MS41LCJjcyI6MCwiZiI6NH0.webp](../_resources/a4580f06590883a4d2ca2cd83c782a2f.webp)    Guide to safe dumper use is now published  @tcindex](https://www.theconstructionindex.co.uk/news/view/guide-to-safe-dumper-use-is-now-published?obOrigUrl=true)
+
+- [
+
+ [eyJpdSI6ImM1ZjE2MjdmMmE3MDBiZDM3ODc3YTE3MTRmOTQ2YTkwYTUwYjFhNmEzZTVlZmMxMDg0OTdjOWZiNzA1NmJiMmQiLCJ3IjoyMTQsImgiOjExOSwiZCI6MS41LCJjcyI6MCwiZiI6NH0.webp](../_resources/471075b9138c59f75c35161449a4f64f.webp)    Remember Sandra Bullock's Son? Try Not To Gasp When You See How He Looks Now  Trend Chaser](https://www.trend-chaser.com/celebrity/millennials-probably-wont-know-these-facts-about-sandra-bullock/?utm_campaign=bul-d-uk-c-0-0-190502-tc-ob-ac-a1&utm_term=ab_bul.jpg&utm_source=ob&utm_medium=$section_id$-ob&utm_content=00357c66f6c6cf14d8ab75151c07ffb5a2&obOrigUrl=true)
+
+[Recommended by](https://www.outbrain.com/what-is/default/en)
+
+{More From}[Deep Dive](https://www.harpersbazaar.com/deep-dive-features/)
+
+[![massage-1556053713.png](../_resources/35b9ff610a9549e1abf9be41b3ca5f8e.png)](https://www.harpersbazaar.com/beauty/skin-care/a27229712/gua-sha-benefits-botox-alternative/)[/Women Are Giving Up Botox for Facial Massage](https://www.harpersbazaar.com/beauty/skin-care/a27229712/gua-sha-benefits-botox-alternative/)
+
+[![zerowaste-index4-1556045479.jpg](../_resources/9828f262ea923d3e45f019644845d9c2.jpg)](https://www.harpersbazaar.com/culture/features/a27214575/how-to-live-zero-waste-no-plastic/)[/The Ultimate "Zero Waste" Guide for Beginners](https://www.harpersbazaar.com/culture/features/a27214575/how-to-live-zero-waste-no-plastic/)
+
+Advertisement - Continue Reading Below
+
+[![likeablility-1554254420.png](../_resources/ed25f9a353a8446a2401279e30e9ce20.png)](https://www.harpersbazaar.com/culture/features/a27019481/equal-pay-day-how-to-get-paid-like-men-work/)[/Inside the Slow Climb to Career Success for Women](https://www.harpersbazaar.com/culture/features/a27019481/equal-pay-day-how-to-get-paid-like-men-work/)
+
+[![index-1549984146.jpg](../_resources/456c555314b4a2a8541b530f38eff000.jpg)](https://www.harpersbazaar.com/culture/features/a26091060/money-millennials-parents-career-success/)[/Does Anyone Really "Make It" on Their Own?](https://www.harpersbazaar.com/culture/features/a26091060/money-millennials-parents-career-success/)
+
+[![environmentalactivists4-1543540448.png](../_resources/faed0184044305a871ba08e93a577316.png)](https://www.harpersbazaar.com/culture/features/a22737480/leeanne-walters-cherri-foytlin-tara-houska-women-environmental-activists-face-danger/)[/Women Who Risk Everything to Defend the Environmen](https://www.harpersbazaar.com/culture/features/a22737480/leeanne-walters-cherri-foytlin-tara-houska-women-environmental-activists-face-danger/)
+
+[![reproductivedestiny-index-1541523970.png](../_resources/2d717daa38837deefc9ce6d426f0ae4f.png)](https://www.harpersbazaar.com/culture/features/a23799765/new-frontier-fertility-test-young-women/)[/A New Frontier of Fertility Tests—for Young Women](https://www.harpersbazaar.com/culture/features/a23799765/new-frontier-fertility-test-young-women/)
+
+[![oldersex-index-1539191232.png](../_resources/6ce998394023d7c7ce9b29916aa54624.png)](https://www.harpersbazaar.com/culture/features/a19607352/best-sex-of-your-life-senior-sex-joan-price-interview/)[/For the Best Sex of Your Life—Ask Old People](https://www.harpersbazaar.com/culture/features/a19607352/best-sex-of-your-life-senior-sex-joan-price-interview/)
+
+[![harrassment-1-1539619563.png](../_resources/772ddfdafa421dea5c7e4bcf212aae86.png)](https://www.harpersbazaar.com/culture/features/a21083527/how-to-teach-consent-women-not-sexual-objects/)[/Don't Touch Me Just Because I'm Topless](https://www.harpersbazaar.com/culture/features/a21083527/how-to-teach-consent-women-not-sexual-objects/)
+
+[![7-24-phone-addiction-header-1532450632.png](../_resources/51c83b05f4a4b1a0f527456cd5bd5b78.png)](https://www.harpersbazaar.com/culture/features/a22228913/phone-addiction-negative-effects/)[/Millennials Would Give Up Sex for Their Phone](https://www.harpersbazaar.com/culture/features/a22228913/phone-addiction-negative-effects/)
+
+[![index-1531408924.jpg](../_resources/f020f83caa5aad955464460e49e4d688.jpg)](https://www.harpersbazaar.com/culture/features/a21203672/why-women-stop-breastfeeding-pumping-at-work/)[/Why Women Really Quit Breastfeeding](https://www.harpersbazaar.com/culture/features/a21203672/why-women-stop-breastfeeding-pumping-at-work/)
+
+- [Deep Dive](https://www.harpersbazaar.com/deep-dive-features/)
+- [Features](https://www.harpersbazaar.com/culture/features/)
+- [Culture](https://www.harpersbazaar.com/culture/)
+- [Transgender Women Are Women](https://www.harpersbazaar.com/culture/politics/a24109933/transgender-women-are-women-transgender-men-are-men/)
+- [Mad Women: 4 Women in Advertising on 'Mad Men' and the Industry Today](https://www.harpersbazaar.com/culture/film-tv/a10907/women-in-advertising-mad-men/)
+- [This Vintage Friends Interview From Oprah in 1995 is Gold](https://www.harpersbazaar.com/culture/film-tv/a11956/vintage-friends-oprah-interview/)
+- [Prince George Won't Be Allowed a BFF](https://www.harpersbazaar.com/celebrity/latest/a12228511/prince-george-school-policy-not-allowed-best-friend/)
+- [Are There Real Friends In Fashion?](https://www.harpersbazaar.com/culture/features/a3188/friends-in-fashion-cathy-horyn-0914/)
+- [Men Don't Have a Right to Sex](https://www.harpersbazaar.com/culture/politics/a20141263/women-dont-owe-men-sex-incels-response-sexual-redistribution/)
+
+[![](data:image/svg+xml,%3csvg viewBox='0 0 438 107' xmlns='http://www.w3.org/2000/svg' data-evernote-id='724' class='js-evernote-checked'%3e %3cg fill='%23000' fill-rule='evenodd' data-evernote-id='725' class='js-evernote-checked'%3e %3cpath d='M78.531 99.882c-.836 3.347-.951 3.684-1.799 3.684h-9.531v.655h21.587v-.655h-9.881c-.639 0-.532-.454.245-3.513l6.64-25.782h26.285l8.025 29.295h-10.678v.655h35.92v-.655h-11.167L104.389.258h-.181L78.531 99.882zM98.5 24.893l13.373 48.726H85.98L98.5 24.893zM387.912 52.677h8.217c7.28 0 18.016 3.135 18.016 15.873v23.067c0 9.439 5.209 15.383 14.398 15.383 9.657 0 9.508-9.752 9.508-16.787v-7.414h-.653v7.414c0 8.002-.949 14.951-5.66 14.951-4.175 0-5.073-2.589-5.073-13.446V68.55c0-10.72-8.689-14.649-22.108-16.204 16.713-1.988 23.006-12.661 23.006-24.463 0-17.457-8.061-24.795-28.821-24.795l-32.909-.007v.656h8.641c.624 0 .919.175.919.529v98.767c0 .356-.295.533-.919.533h-8.641v.655h30.263v-.655h-7.269c-.625 0-.915-.177-.915-.533V52.677zm0-48.934h8.87c13.663 0 17.527 10.392 17.527 24.14 0 12.872-3.864 24.139-17.527 24.139h-8.87V3.743zM167.68 103.05c-.107.235.014.516.519.516l23.579.006c7.259 0 16.629-10.736 16.629-45.331v-3.602h.656v49.586h-56.298l42.651-99.977c.104-.232-.018-.511-.522-.511l-25.034.006c-6.571 0-16.113 11.996-16.113 45.333v3.601h-.655V3.088h57.281L167.68 103.05M28.296 3.743c13.666 0 19.23 10.392 19.23 24.14 0 12.872-5.564 23.156-19.23 23.156h-6.218V3.743h6.218zM0 3.081v.656h8.642c.625 0 .917.175.917.529v98.767c0 .356-.292.533-.917.533H0v.655l32.225.004c20.756 0 31.83-8.646 31.83-26.098 0-12.086-6.545-24.387-27.205-26.837 17.55-1.641 23.605-12.664 23.605-23.407 0-15.711-9.437-24.795-30.194-24.795L0 3.081zm28.296 48.613c15.41 0 21.522 10.502 21.522 26.433 0 13.744-5.456 25.445-18.249 25.445l-8.574-.006c-.625 0-.917-.177-.917-.533V51.686l6.218.008zM227.136 99.882c-.84 3.347-.955 3.684-1.801 3.684h-9.531v.655h21.589v-.655h-9.884c-.635 0-.531-.454.25-3.513l6.637-25.782h26.285l8.027 29.295h-10.682v.655h35.923v-.655h-11.171L252.992.258h-.183l-25.673 99.624zm19.969-74.989l13.369 48.726h-25.893l12.524-48.726z' data-evernote-id='726' class='js-evernote-checked'%3e%3c/path%3e %3cpath d='M298.832 99.882c-.839 3.347-.95 3.684-1.797 3.684h-9.533v.655h21.588v-.655h-9.883c-.635 0-.53-.454.248-3.513l6.64-25.782h26.284l8.026 29.295h-10.681v.655h35.922v-.655h-11.167L324.693.258h-.183l-25.678 99.624zm19.972-74.989l13.371 48.726h-25.896l12.525-48.726zM275.733 13.549c0 .04.037.055.107.055h1.459v.233h-4.981v-.233h1.301c.073 0 .105-.015.105-.055V8.506h-4.757v5.043c0 .04.033.055.104.055h1.301v.233h-4.979v-.233h1.459c.071 0 .104-.015.104-.055V3.653c0-.036-.033-.053-.104-.053h-1.459v-.234h4.979V3.6h-1.301c-.071 0-.104.017-.104.053v4.622h4.757V3.653c0-.036-.032-.053-.105-.053h-1.301v-.234h4.981V3.6h-1.459c-.07 0-.107.017-.107.053v9.896M289.563 9.251c-.458 0-.765-.212-.765-.569 0-.323.194-.312.194-.549 0-.24-.154-.35-.401-.35-.255 0-.71.085-1.055 1.133v4.633c0 .04.032.055.104.055h.894v.233h-3.506v-.233h.891c.072 0 .104-.015.104-.055V7.83c0-.035-.032-.055-.104-.055h-.891v-.233h2.464l.044.045v.977c.263-.814.831-1.15 1.499-1.15.813 0 1.341.427 1.341 1.088 0 .417-.322.749-.813.749M302.713 13.964c1.141 0 2.059-.553 2.672-1.4l-.177-.142c-.573.811-1.341 1.313-2.495 1.313-.422 0-.762-.08-1.053-.338-.48-.431-.63-.936-.63-2.706 0-.131.001-.167.004-.287h4.485l.044-.041c0-1.195-.824-2.949-2.85-2.949-1.87 0-3.275 1.469-3.275 3.277 0 1.805 1.405 3.273 3.275 3.273m.832-5.978c.344.388.456.988.483 2.185h-2.99c.037-1.197.188-1.797.622-2.185.291-.259.631-.339 1.053-.339.365 0 .601.08.832.339M280.399 13.676c.802 0 1.322-.571 1.322-1.117V10.38c-.373.215-.914.215-1.392.301-.537.098-1.113.379-1.113 1.735 0 1.035.678 1.26 1.183 1.26m-1.883-4.982c0-.523.659-1.28 1.932-1.28 1.865 0 2.788.822 2.788 2.668v3.003c0 .353.169.499.415.499.288 0 .519-.238.581-.382l.153.152c-.094.262-.572.61-1.18.61-.69 0-1.297-.399-1.404-.953-.22.631-.824.953-1.693.953-1.441 0-2.367-.502-2.367-1.548 0-1.544 1.649-1.903 2.283-1.954.894-.075 1.697-.134 1.697-.45v-.861c0-1.054-.46-1.504-1.273-1.504-.407 0-.66.186-.66.622 0 .248.129.324.129.566 0 .271-.215.529-.725.529-.485 0-.676-.336-.676-.67M296.065 7.979c-.271-.252-.638-.332-1.03-.332-.542 0-1.04.358-1.385.762v4.401c.208.524.811.925 1.385.925.392 0 .759-.078 1.03-.333.447-.423.748-1.16.748-2.673 0-1.514-.301-2.328-.748-2.75m2.287 2.75c0 1.635-1.389 3.235-3.317 3.235-.59 0-1.04-.368-1.385-.724v4.877c0 .034.036.051.106.051h.891v.233h-3.503v-.233h.89c.071 0 .104-.017.104-.051V7.83c0-.035-.033-.055-.104-.055h-.89v-.233h2.463l.043.045v.561c.345-.359.795-.734 1.385-.734 1.928 0 3.317 1.678 3.317 3.315M317.476 7.59c.166 0 .258-.068.276-.132h.253v1.56h-.253c0-.907-.813-1.371-1.583-1.371-.797 0-1.182.358-1.182.923 0 .727.522 1.097 1.707 1.429 1.241.349 2.058.955 2.058 1.901 0 1.197-.967 2.064-2.514 2.064-.919 0-1.317-.428-1.793-.428a.524.524 0 0 0-.501.321h-.256l.088-2.075h.256c-.043 1.088.975 1.953 2.206 1.953.93 0 1.457-.426 1.457-1.219 0-.791-.623-1.106-1.76-1.453-1.112-.336-1.886-.788-1.886-1.766 0-1.159 1.123-1.883 2.12-1.883.65 0 .711.176 1.307.176M312.855 5.403c0-.422.358-.766.8-.766.479 0 .834.348.834.858 0 .753-.68 1.637-1.613 2.198l-.149-.168c.674-.39 1.159-.871 1.446-1.554-.124.137-.296.2-.518.2-.442 0-.8-.342-.8-.768M310.832 9.251c-.456 0-.765-.212-.765-.569 0-.323.195-.312.195-.549 0-.24-.156-.35-.404-.35-.254 0-.71.085-1.053 1.133v4.633c0 .04.029.055.101.055h.893v.233h-3.506v-.233h.895c.07 0 .104-.015.104-.055V7.83c0-.035-.034-.055-.104-.055h-.895v-.233h2.466l.046.045v.977c.265-.814.83-1.15 1.503-1.15.805 0 1.34.427 1.34 1.088 0 .417-.328.749-.816.749' data-evernote-id='727' class='js-evernote-checked'%3e%3c/path%3e %3c/g%3e %3c/svg%3e)](https://www.harpersbazaar.com/)
+
+[](https://www.facebook.com/HarpersBazaar)
+[](https://twitter.com/harpersbazaarus)
+[](https://www.pinterest.com/harpersbazaar/?auto_follow=1)
+[](https://instagram.com/harpersbazaarus/)
+[](https://www.youtube.com/c/harpersbazaar?sub_confirmation=1)
+
+- [Newsletter](https://preferences.hearstmags.com/brands/HAR/subscribe.aspx?authId=34E99992-6E00-4875-9671-DF702B953C69&maj=WNL&min=UNDEF)
+- [Digital Editions](https://subscribe.hearstmags.com/subscribe/splits/harpersbazaar/har_digital_nav_link?source=har_digital_nav_footer)
+- [Contact Us](https://www.harpersbazaar.com/about/a175/bazaar-customer-service/)
+- [Media Kit](http://www.harpersbazaarmediakit.com/r5/home.asp)
+- [Press Room](http://www.hearst.com/press-room/)
+- [Community Guidelines](https://www.harpersbazaar.com/about/a9320/community-guidelines/)
+- [Advertise Online](https://www.harpersbazaar.com/about/a9321/advertise-online/)
+- [About Our Ads](https://www.harpersbazaar.com/about/a9322/about-our-ads/)
+- [Customer Service](https://w1.buysub.com/pubs/HR/HAR/HAR_nameAddrEntry_combo.jsp?cds_page_id=41237&cds_mag_code=HAR&id=1415980823688&lsid=43180952271020778&vid=2)
+- [BestProducts](https://www.bestproducts.com/)
+- [Subscribe](https://subscribe.hearstmags.com/subscribe/splits/harpersbazaar/har_sub_nav_link?source=har_sub_nav_footer)
+- [Other Hearst Subscriptions](http://subscribe.hearstmags.com/circulation/shared/index.html)
+- [Give a Gift](https://subscribe.hearstmags.com/subscribe/splits/harpersbazaar/har_gift_nav_link?source=har_gift_nav_footer)
+- [TheBUZZ](http://bazaarthebuzz.com/)
+- [Giveaways](http://sweepstakes.harpersbazaar.com/)
+- [Why Did I Get This Ad?](https://www.harpersbazaar.com/about/a654/oba-policy/)
+
+![network-logo.57b0ffb.png](../_resources/57b0ffb2e5b6c67558aee400e5887366.png)A Part of Hearst Digital MediaHarper's BAZAAR participates in various affiliate marketing programs, which means we may get paid commissions on editorially chosen products purchased through our links to retailer sites.
+
+©2019 Hearst Magazine Media, Inc. All Rights Reserved.
+
+- [Privacy Notice](http://www.hearst.com/newsroom/us-magazines-privacy-notice)
+- [Your California Privacy Rights](https://www.harpersbazaar.com/about/a160/privacy-policy/#california)
+- [Interest-Based Ads](https://www.hearst.com/newsroom/us-magazines-privacy-notice#_INTEREST_BASED)
+- [Terms of Use](http://www.hearst.com/newsroom/us-magazines-terms-of-use)
+- [Site Map](https://www.harpersbazaar.com/sitemap/)

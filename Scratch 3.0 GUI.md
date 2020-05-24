@@ -1,0 +1,15 @@
+Scratch 3.0 GUI
+
+# Scratch 3.0 GUI
+
+Motion
+Looks
+Sound
+Events
+Control
+Sensing
+Operators
+Variables
+My Blocks
+
+10movesteps00go to x:y:random positiongo to100glidesecs to x:y:1random positionglidesecs to15turndegrees15turndegrees90point in directionmouse-pointerpoint towards10change x by0set x to10change y by0set y toif on edge, bounceset rotation styleleft-rightx positiony positiondirectionHello!2sayforsecondsHello!sayHmm...2thinkforsecondsHmm...thinkcostume1switch costume tonext costumebackdrop1switch backdrop tonext backdrop10change size by100set size to%25changecoloreffect by0setcoloreffect toclear graphic effectsshowhidego tofront1goforwardlayerscostumenumberbackdropnumbersizeMeowstart soundMeowplay sounduntil donestop all sounds10changepitcheffect by100setpitcheffect toclear sound effects-10change volume by100set volume to%volumewhenclickedwhenspacekey pressedwhen this sprite clickedwhen backdrop switches tobackdrop110whentimer>when I receivemessage1message1broadcastmessage1broadcastand wait1waitseconds10repeatforeverifthenifthenelsewait untilrepeat untilstopallwhen I start as a clonemyselfcreate clone ofdelete this clonemouse-pointertouching?touching color?coloris touching?mouse-pointerdistance toWhat's your name?askand waitanswerkeyspacepressed?mouse down?mouse xmouse yset drag modedraggableloudnesstimerreset timerStagex positionofcurrentyeardays since 2000+-*/110pick randomto<=>andornothelloworldjoin1worldletterofworldlength ofhelloworldcontains?modroundabsofmy variable0setmy variableto1changemy variablebyMotionLooksSoundEventsControlSensingOperatorsVariablesMake a VariableMake a ListMy BlocksMake a Block

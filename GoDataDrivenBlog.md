@@ -1,0 +1,8 @@
+GoDataDrivenBlog
+
+GoDataDrivenBlog
+![](../_resources/ff7868576bf78f5234fe878202ac9a49.png)
+
+![](../_resources/be80b0e40a7425b6c1f90b6a525fbcd9.png)https://blog.godatadriven.com/fairness-in-ml?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_180&utm_medium=email&utm_source=optin&utm_campaign=awareness&utm_content=20180509+data+nl&mkt_tok=eyJpIjoiWlRjMlpXTTFOemhoTURFMCIsInQiOiJWOGFnaDFYMjQ0SFY2TjBxT1luWmIrbm5NQThWVzZldGZDR3FRUnpJUlAwOUNONnJNM2tIZkRBSEl5TGJwS1VTQ1wvRlI4OUVKNU9kYkRXWHBxUnJwQlI1T3FvQmFKc2FiMVhIbzk2SXF0azFDeFlVelBBR3RwODR1VnNwTnRKYXYifQ%3D%3D
+
+GoDataDrivenBlog

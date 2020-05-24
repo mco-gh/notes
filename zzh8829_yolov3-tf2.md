@@ -1,0 +1,208 @@
+zzh8829/yolov3-tf2
+
+# [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='149'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1009' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/zzh8829/yolov3-tf2#yolov3-implemented-in-tensorflow-20)YoloV3 Implemented in TensorFlow 2.0
+
+This repo provides a clean implementation of YoloV3 in TensorFlow 2.0 using all the best practices.
+
+## [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='150'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1012' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/zzh8829/yolov3-tf2#key-features)Key Features
+
+- TensorFlow 2.0
+- `yolov3` with pre-trained Weights
+- `yolov3-tiny` with pre-trained Weights
+- Inference example
+- Transfer learning example
+- Eager mode training with `tf.GradientTape`
+- Graph mode training with `model.fit`
+- Functional model with `tf.keras.layers`
+- Input pipeline using `tf.data`
+- Tensorflow Serving
+- Vectorized transformations
+- GPU accelerated
+- Fully integrated with `absl-py` from [abseil.io](https://abseil.io/)
+- Clean implementation
+- Following the best practices
+- MIT License
+
+[![meme_out.jpg](../_resources/0fcbab5592e82ba74782e0e22f3b4b8d.jpg)](https://raw.githubusercontent.com/zzh8829/yolov3-tf2/master/data/meme_out.jpg)[![street_out.jpg](../_resources/e2309622081334f7a4023b7eb3ab15e9.jpg)](https://raw.githubusercontent.com/zzh8829/yolov3-tf2/master/data/street_out.jpg)
+
+## [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='151'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1032' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/zzh8829/yolov3-tf2#usage)Usage
+
+### [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='152'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1034' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/zzh8829/yolov3-tf2#installation)Installation
+
+#### [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='153'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1036' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/zzh8829/yolov3-tf2#pip)Pip
+
+pip install -r requirements.txt
+
+#### [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='154'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1039' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/zzh8829/yolov3-tf2#conda)Conda
+
+conda env create -f environment.yml
+conda activate yolov3-tf2
+
+### [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='155'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1042' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/zzh8829/yolov3-tf2#convert-pre-trained-darknet-weights)Convert pre-trained Darknet weights
+
+# yolov3wget https://pjreddie.com/media/files/yolov3.weights -O data/yolov3.weights
+
+python convert.py# yolov3-tinywget https://pjreddie.com/media/files/yolov3-tiny.weights -O data/yolov3-tiny.weights
+
+python convert.py --weights ./data/yolov3-tiny.weights --output ./checkpoints/yolov3-tiny.tf --tiny
+
+### [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='156'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1045' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/zzh8829/yolov3-tf2#detection)Detection
+
+# yolov3python detect.py --image ./data/meme.jpg# yolov3-tinypython detect.py --weights ./checkpoints/yolov3-tiny.tf --tiny --image ./data/street.jpg# webcampython detect_video.py --video 0# video filepython detect_video.py --video path_to_file.mp4 --weights ./checkpoints/yolov3-tiny.tf --tiny
+
+### [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='157'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1048' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/zzh8829/yolov3-tf2#training)Training
+
+You need to generate tfrecord following the TensorFlow Object Detection API. For example you can use [Microsoft VOTT](https://github.com/Microsoft/VoTT) to generate such dataset. You can also use this [script](https://github.com/tensorflow/models/blob/master/research/object_detection/dataset_tools/create_pascal_tf_record.py) to create the pascal voc dataset.
+
+python train.py --batch_size 8 --dataset ~/Data/voc2012.tfrecord --val_dataset ~/Data/voc2012_val.tfrecord --epochs 100 --mode eager_tf --transfer fine_tune
+
+python train.py --batch_size 8 --dataset ~/Data/voc2012.tfrecord --val_dataset ~/Data/voc2012_val.tfrecord --epochs 100 --mode fit --transfer none
+
+python train.py --batch_size 8 --dataset ~/Data/voc2012.tfrecord --val_dataset ~/Data/voc2012_val.tfrecord --epochs 100 --mode fit --transfer no_output
+
+python train.py --batch_size 8 --dataset ~/Data/voc2012.tfrecord --val_dataset ~/Data/voc2012_val.tfrecord --epochs 10 --mode eager_fit --transfer fine_tune --weights ./checkpoints/yolov3-tiny.tf --tiny
+
+### [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='158'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1052' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/zzh8829/yolov3-tf2#tensorflow-serving)Tensorflow Serving
+
+You can export the model to tf serving
+
+	python export_tfserving.py --output serving/yolov3/1/
+	# verify tfserving graph
+	saved_model_cli show --dir serving/yolov3/1/ --tag_set serve --signature_def serving_default
+
+The inputs are preprocessed images (see `dataset.transform_iamges`)
+outputs are
+
+	yolo_nms_0: bounding boxes
+	yolo_nms_1: scores
+	yolo_nms_2: classes
+	yolo_nms_3: numbers of valid detections
+
+## [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='159'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1057' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/zzh8829/yolov3-tf2#benchmark-no-training-yet)Benchmark (No Training Yet)
+
+Numbers are obtained with rough calculations from `detect_video.py`
+
+### [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='160'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1060' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/zzh8829/yolov3-tf2#macbook-pro-13-27ghz-i5)Macbook Pro 13 (2.7GHz i5)
+
+| Detection | 416x416 | 320x320 | 608x608 |
+| --- | --- | --- | --- |
+| YoloV3 | 1000ms | 500ms | 1546ms |
+| YoloV3-Tiny | 100ms | 58ms | 208ms |
+
+### [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='161'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1080' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/zzh8829/yolov3-tf2#desktop-pc-gtx-970)Desktop PC (GTX 970)
+
+| Detection | 416x416 | 320x320 | 608x608 |
+| --- | --- | --- | --- |
+| YoloV3 | 74ms | 57ms | 129ms |
+| YoloV3-Tiny | 18ms | 15ms | 28ms |
+
+### [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='162'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1100' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/zzh8829/yolov3-tf2#aws-g34xlarge-tesla-m60)AWS g3.4xlarge (Tesla M60)
+
+| Detection | 416x416 | 320x320 | 608x608 |
+| --- | --- | --- | --- |
+| YoloV3 | 66ms | 50ms | 123ms |
+| YoloV3-Tiny | 15ms | 10ms | 24ms |
+
+Darknet version of YoloV3 at 416x416 takes 29ms on Titan X. Considering Titan X has about double the benchmark of Tesla M60, Performance-wise this implementation is pretty comparable.
+
+## [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='163'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1121' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/zzh8829/yolov3-tf2#implementation-details)Implementation Details
+
+### [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='164'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1123' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/zzh8829/yolov3-tf2#eager-execution)Eager execution
+
+Great addition for existing TensorFlow experts. Not very easy to use without some intermediate understanding of TensorFlow graphs. It is annoying when you accidentally use incompatible features like tensor.shape[0] or some sort of python control flow that works fine in eager mode, but totally breaks down when you try to compile the model to graph.
+
+### [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='165'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1126' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/zzh8829/yolov3-tf2#modelx-vs-modelpredictx)model(x) vs. model.predict(x)
+
+When calling model(x) directly, we are executing the graph in eager mode. For`model.predict`, tf actually compiles the graph on the first run and then execute in graph mode. So if you are only running the model once, `model(x)` is faster since there is no compilation needed. Otherwise, `model.predict` or using exported SavedModel graph is much faster (by 2x).
+
+### [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='166'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1129' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/zzh8829/yolov3-tf2#gradienttape)GradientTape
+
+Extremely useful for debugging purpose, you can set breakpoints anywhere. You can compile all the keras fitting functionalities with gradient tape using the`run_eagerly` argument in model.compile. From my limited testing, all training methods including GradientTape, keras.fit, eager or not yeilds similar performance. But graph mode is still preferred since it's a tiny bit more efficient.
+
+### [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='167'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1132' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/zzh8829/yolov3-tf2#tffunction)@tf.function
+
+@tf.function is very cool. It's like an in-between version of eager and graph. You can step through the function by disabling tf.function and then gain performance when you enable it in production. Important note, you should not pass any non-tensor parameter to @tf.function, it will cause re-compilation on every call. I am not sure whats the best way other than using globals.
+
+### [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='168'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1135' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/zzh8829/yolov3-tf2#abslpy-abseil)absl.py (abseil)
+
+Absolutely amazing. If you don't know already, absl.py is officially used by internal projects at Google. It standardizes application interface for Python and many other languages. After using it within Google, I was so excited to hear abseil going open source. It includes many decades of best practices learned from creating large size scalable applications. I literally have nothing bad to say about it, strongly recommend absl.py to everybody.
+
+### [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='169'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1138' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/zzh8829/yolov3-tf2#loading-pre-trained-darknet-weights)Loading pre-trained Darknet weights
+
+very hard with pure functional API because the layer ordering is different in tf.keras and darknet. The clean solution here is creating sub-models in keras. Keras is not able to save nested model in h5 format properly, TF Checkpoint is recommended since its offically supported by TensorFlow.
+
+### [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='170'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1141' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/zzh8829/yolov3-tf2#tfkeraslayersbatchnormalization)tf.keras.layers.BatchNormalization
+
+It doesn't work very well for transfer learning. There are many articles and github issues all over the internet. I used a simple hack to make it work nicer on transfer learning with small batches.
+
+## [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='171'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1144' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/zzh8829/yolov3-tf2#command-line-args-reference)Command Line Args Reference
+
+convert.py:
+--output: path to output
+(default: './checkpoints/yolov3.tf')
+--[no]tiny: yolov3 or yolov3-tiny
+(default: 'false')
+--weights: path to weights file
+(default: './data/yolov3.weights')
+detect.py:
+--classes: path to classes file
+(default: './data/coco.names')
+--image: path to input image
+(default: './data/girl.png')
+--output: path to output image
+(default: './output.jpg')
+--[no]tiny: yolov3 or yolov3-tiny
+(default: 'false')
+--weights: path to weights file
+(default: './checkpoints/yolov3.tf')
+train.py:
+--batch_size: batch size
+(default: '8')
+(an integer)
+--classes: path to classes file
+(default: './data/coco.names')
+--dataset: path to dataset
+(default: '')
+--epochs: number of epochs
+(default: '2')
+(an integer)
+--learning_rate: learning rate
+(default: '0.001')
+(a number)
+
+--mode: <fit|eager_fit|eager_tf>: fit: model.fit, eager_fit: model.fit(run_eagerly=True), eager_tf: custom GradientTape
+
+(default: 'fit')
+--size: image size
+(default: '416')
+(an integer)
+--[no]tiny: yolov3 or yolov3-tiny
+(default: 'false')
+
+--transfer: <none|darknet|no_output|frozen|fine_tune>: none: Training from scratch, darknet: Transfer darknet, no_output: Transfer all but output, frozen: Transfer and
+
+freeze all, fine_tune: Transfer all and freeze darknet only
+(default: 'none')
+--val_dataset: path to validation dataset
+(default: '')
+--weights: path to weights file
+(default: './checkpoints/yolov3.tf')
+
+## [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='172'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1147' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/zzh8829/yolov3-tf2#references)References
+
+It is pretty much impossible to implement this from the yolov3 paper alone. I had to reference the official (very hard to understand) and many un-official (many minor errors) repos to piece together the complete picture.
+
+- https://github.com/pjreddie/darknet
+    - official yolov3 implementation
+- https://github.com/AlexeyAB
+    - explinations of parameters
+- https://github.com/qqwweee/keras-yolo3
+    - models
+    - loss functions
+- https://github.com/YunYang1994/tensorflow-yolov3
+    - data transformations
+    - loss functions
+- https://github.com/ayooshkathuria/pytorch-yolo-v3
+    - models
+- https://github.com/broadinstitute/keras-resnet
+    - batch normalization fix

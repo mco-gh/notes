@@ -1,0 +1,3 @@
+How to Be Someone People Love to Talk to
+
+Before I use these techniques or send any class out to practice these techniques, I remind myself and them of one everlasting rule that will dramatically increase your probability of success; it is all about them. The only goal I have either for myself or the individuals I teach is that in every interaction the other person should walk away feeling much better for having met you. You should brighten their day and listen to them when no one else will. Build that connection where others wouldn’t and you will have mastered both conversations and quick rapport.

@@ -1,0 +1,1 @@
+Thinking slowly is like hiking or biking, thinking fast is like being in a racecar

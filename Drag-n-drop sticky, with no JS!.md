@@ -1,0 +1,13 @@
+Drag-n-drop sticky, with no JS!
+
+### Open this Pen in:
+
+[Editor View/pen/![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='13' height='13' class='icon icon-help js-evernote-checked' data-evernote-id='316'%3e%3cpath d='M75 0H25C11.19 0 0 11.193 0 25v50c0 13.802 11.19 25 25 25h50c13.811 0 25-11.198 25-25V25c0-13.807-11.189-25-25-25zM57.203 85.067H41.504V72.542h15.699v12.525zm16.154-43.026c-.84 2.066-1.873 3.834-3.102 5.298a20.59 20.59 0 0 1-4.101 3.751 91.479 91.479 0 0 0-4.249 3.101c-1.333 1.034-1.553 2.214-2.596 3.547-1.025 1.335-.977 3.004-.977 5.006v3.924H41.668v-4.623c0-2.864 1.366-5.265 2.27-7.202.896-1.935 2.255-3.581 3.459-4.947 1.196-1.367 2.62-2.556 3.955-3.557 1.327-.993 2.637-1.993 3.776-2.995 1.123-1.001 2.083-2.1 2.783-3.304.7-1.197 1.043-2.694.977-4.5 0-3.06-.74-5.33-2.245-6.795-1.498-1.465-3.582-2.206-6.25-2.206-1.8 0-3.337.351-4.639 1.05a9.172 9.172 0 0 0-3.199 2.808c-.837 1.163-1.448 3.593-1.847 5.156-.407 1.57-.602 6.115-.602 6.115H25.399c.073-8.333.684-7.963 1.855-10.965 1.164-2.995 2.8-6.132 4.899-8.33 2.099-2.197 4.63-4.179 7.601-5.417a25.782 25.782 0 0 1 9.945-1.977c4.736 0 8.683.581 11.856 1.876 3.167 1.302 5.713 2.889 7.65 4.817 1.929 1.937 3.312 4.004 4.149 6.234.831 2.237 1.245 4.313 1.245 6.242.002 3.206-.412 5.827-1.242 7.893z' data-evernote-id='157' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://codepen.io/scottkellum/pen/eaXJJb)[Details View/details/![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='13' height='13' class='icon icon-help js-evernote-checked' data-evernote-id='321'%3e%3c/svg%3e)](https://codepen.io/scottkellum/details/eaXJJb)[Full Page View/full/![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='13' height='13' class='icon icon-help js-evernote-checked' data-evernote-id='326'%3e%3c/svg%3e)](https://codepen.io/scottkellum/full/eaXJJb)[PRO Presentation Mode/pres/![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='13' height='13' class='icon icon-help js-evernote-checked' data-evernote-id='332'%3e%3c/svg%3e)](https://codepen.io/scottkellum/pres/eaXJJb)
+
+### Direct Code Links:
+
+[.html](https://codepen.io/scottkellum/pen/eaXJJb.html)[.css](https://codepen.io/scottkellum/pen/eaXJJb.css)[.scss](https://codepen.io/scottkellum/pen/eaXJJb.scss)[.js](https://codepen.io/scottkellum/pen/eaXJJb.js)
+
+### Pinned Items
+
+You don't have any [pinned items](https://blog.codepen.io/documentation/features/pinned-items/) yet. You can pin any Pen, Post, or Collection (from their respective pages) for easy access here.

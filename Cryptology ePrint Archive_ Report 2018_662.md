@@ -1,0 +1,6 @@
+Cryptology ePrint Archive: Report 2018/662
+
+Cryptology ePrint Archive: Report 2018/662
+![](../_resources/c8c7e2a2a16860a80bb62a768724f2c2.png)https://eprint.iacr.org/2018/662
+
+Cryptology ePrint Archive: Report 2018/662 Efficient Logistic Regression on Large Encrypted Data Kyoohyung Han and Seungwan Hong and Jung Hee Cheon and Daejun Park Abstract: Machine learning on encrypted data is a cryptographic method for analyzing private and/or sensitive data while keeping privacy. In the training phase, it takes as input an encrypted training data and outputs an encrypted model without using the decryption key. In the prediction phase, it uses the encrypted model to predict results on new encrypted data. In each phase, no decryption key is needed, and thus the privacy of data is guaranteed while the underlying encryption is secure. It has many applications in various areas such as finance, education, genomics, and medical field that have sensitive private data. While several studies have been reported on the prediction phase, few studies have been conducted on the training phase due to the inefficiency of homomorphic encryption (HE), leaving the machine learning training on encrypted data only as a long-term goal.

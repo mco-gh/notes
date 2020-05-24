@@ -1,0 +1,3 @@
+10 math talks to blow your mind
+
+1. [Geoffrey WestThe surprising math of cities and corporations Physicist Geoffrey West has found that simple, mathematical laws govern the properties of cities — that wealth, crime rate, walking speed and many other aspects of a city can be deduced from a single number: the city's population. In this mind-bending talk from TEDGlobal he shows how it works and how similar laws hold for organisms and corporations.]()

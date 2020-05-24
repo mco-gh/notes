@@ -1,0 +1,322 @@
+stdlib/lib
+
+# [(L)](https://github.com/stdlib/lib#)[![StdLib](../_resources/43915da5d091b19b4605e8c3164cdba4.png)](https://camo.githubusercontent.com/2cefb12b673b2bb0470fb2771ee3be4e2b93207a/687474703a2f2f7374646c69622e636f6d2f7374617469632f696d616765732f7374646c69622d6c6f676f2d776f72646d61726b2d3132382e706e67)
+
+## [(L)](https://github.com/stdlib/lib#stdlib-is-a-standard-library-for-microservices)[StdLib is a Standard Library for Microservices](https://stdlib.com/)
+
+**StdLib Setup** |[Node](https://github.com/stdlib/lib-node) |[Python](https://github.com/stdlib/lib-python) |[Ruby](https://github.com/stdlib/lib-ruby) |[Web](https://github.com/stdlib/lib-js)
+
+# [(L)](https://github.com/stdlib/lib#introduction)Introduction
+
+StdLib is the *fastest, easiest* way to turn functions into infinitely scalable, self-healing web services. It has three components:
+
+1. A central registry for microservices
+2. A distribution platform for hosting at scale
+3. A development framework for package management and service creation
+
+StdLib is based on Function as a Service ("server-less") architecture, popularized by AWS Lambda. You can use StdLib to build modular, scalable web services for yourself and other developers in *minutes* without having to manage servers, gateways, domains, write documentation, or build SDKs. Your development workflow has never been easier - focus on writing code you love, let StdLib handle everything else.
+
+You can view services published by our large and growing developer community[on the StdLib search page](https://stdlib.com/search).
+
+[![stdlib-process](../_resources/1d44145c5b4deb2542464769306e871f.gif)](https://camo.githubusercontent.com/4c6b5852edebd4a0ddd09380abf4236d91982344/687474703a2f2f7374646c69622e636f6d2f7374617469632f696d616765732f7374646c69625f75736167652e676966)
+
+# [(L)](https://github.com/stdlib/lib#table-of-contents)Table of Contents
+
+1. [Getting Started](https://github.com/stdlib/lib#getting-started)
+
+2. [Creating Your First Service](https://github.com/stdlib/lib#creating-your-first-service)
+
+3. [Connecting Service Endpoints](https://github.com/stdlib/lib#connecting-service-endpoints)
+
+4. [Accessing Your Microservices From Other Applications](https://github.com/stdlib/lib#accessing-your-microservices-from-other-applications)
+
+5. [Accessing Your Microservices Over HTTP](https://github.com/stdlib/lib#accessing-your-microservices-over-http)
+
+6. [Version Control and Package Management](https://github.com/stdlib/lib#version-control-and-package-management)
+
+7. [Additional Functionality](https://github.com/stdlib/lib#additional-functionality)
+
+8. [Acknowledgements](https://github.com/stdlib/lib#acknowledgements)
+9. [Contact](https://github.com/stdlib/lib#contact)
+
+# [(L)](https://github.com/stdlib/lib#getting-started)Getting Started
+
+To get started with StdLib, first make sure you have Node 6.x installed,[available from the official Node.js website](https://nodejs.org/). Next install the StdLib CLI tools with:
+
+	$ npm install lib.cli -g
+
+And you're now ready to start building!
+
+# [(L)](https://github.com/stdlib/lib#upgrading-from-previous-versions)Upgrading From Previous Versions
+
+If you're running a previous version of StdLib and having issues with the CLI, try cleaning up the old CLI binary links first;
+
+	$ rm /usr/local/bin/f
+	$ rm /usr/local/bin/lib
+	$ rm /usr/local/bin/stdlib
+
+# [(L)](https://github.com/stdlib/lib#creating-your-first-service)Creating Your First Service
+
+The first thing you'll want to do is create a workspace. Create a new directory you intend to build your services in and initialize the workspace.
+
+	$ mkdir stdlib-workspace
+	$ cd stdlib-workspace
+	$ lib init
+
+You'll be asked for an e-mail address to log in to the StdLib registry. If you don't yet have an account, you can create one from the command line. Note that you can skip account creation with ` lib init --no-login `. You'll be unable to use the registry, but it's useful for creating workspaces when you don't have internet access.
+
+Next, create your service:
+
+	$ lib create <service>
+
+You'll be asked for a default function name, which is the entry point into your service (useful if you only want a single entry point). This will automatically generate a service project scaffold in ` stdlib-workspace/<username>/<service> `.
+
+Once created, enter the service directory:
+
+	$ cd your-username/your-service
+
+In this directory, you'll see something like:
+
+	- functions/
+	  - defaultFunction/
+	    - function.json
+	    - index.js
+	- package.json
+	- env.json
+	- README.md
+
+At this point, there's a "hello world" function that's been automatically created. StdLib comes paired with a simple ` f ` command for testing your functions locally and running them in the cloud. To test your function:
+
+	$ lib .
+	> "hello world"
+
+If we examine the ` functions/defaultFunction/index.js ` file, we see the following:
+
+module.exports  = (params, callback) => { callback(null, 'hello world');
+};
+
+If necessary, we can pass some of these parameters to it (` params.args ` and ` params.kwargs `) using:
+
+	lib . arg0 arg1 --kwarg0 "Hello World" --kwarg1 Goodbye
+
+Though it won't change the function output as-is. ` params.args ` would be equal to ` ["arg0", "arg1"] ` and ` params.kwargs ` would be` {"kwarg0":"Hello World","kwarg1":"Goodbye"} `.
+
+## [(L)](https://github.com/stdlib/lib#pushing-to-the-cloud)Pushing to the Cloud
+
+To push your function to a development environment in the cloud...
+
+	$ lib up dev
+	$ lib your-username.your-service[@dev]
+	> "hello world"
+
+And to release it (when you're ready!)
+
+	$ lib release
+	$ lib your-username.your-service
+	> "hello world"
+
+You can check out your service on the web, and use it in applications at:
+
+	https://your-username.stdlib.com/your-service
+
+That's it! You haven't written a line of code yet, and you have mastery over building a service, testing it in a development (staging) environment online, and releasing it for private (or public) consumption.
+
+**Note:** You'll need to set ` "publish": true ` in the ` lib ` key of your` package.json ` file to see your service appear in the public registry. It's set to ` false ` by default.
+
+**Another Note:** Staging environments (like the one created with ` lib up dev `) are *mutable* and can be replaced indefinitely. Releases (` lib release `) are*immutable* and can never be overwritten. However, any service can be torn down with ` lib down <environment> ` or ` lib down -r <version> ` (but releases can't be replaced once removed, to prevent mistakes and / or bad actors).
+
+# [(L)](https://github.com/stdlib/lib#connecting-service-endpoints)Connecting Service Endpoints
+
+You'll notice that you can create more than one function per service. While you can structure your project however you'd like internally, it should also be noted that these functions have zero-latency access to each other. You can access them internally with the ` lib `  [package on NPM](https://github.com/stdlib/lib-node), which behaves similarly to the ` lib ` command for testing. Use:
+
+	$ npm install lib --save
+
+In your main service directory to add it, and use it like so:
+
+#### [(L)](https://github.com/stdlib/lib#functionsaddindexjs)functions/add/index.js
+
+module.exports  = (params, callback) => {return  callback(null, params.args[1] +  params.args[2]);
+
+};
+
+#### [(L)](https://github.com/stdlib/lib#functionsadd-doubleindexjs)functions/add-double/index.js
+
+const  lib  =  require('lib');module.exports  = (params, callback) => {return lib['.add'](params.args[0], params.args[1], (err, result) => {callback(err, result *  2);
+
+});
+};
+
+In this case, calling ` lib .add 1 2 ` will return ` 3 ` and ` lib .add-double 1 2 `will return ` 6 `. These map directly to individual service endpoints. **Note** that when chaining like this, *a single service execution instance* is being used so be careful about setting service timeouts appropriately.
+
+# [(L)](https://github.com/stdlib/lib#accessing-your-microservices-from-other-applications)Accessing Your Microservices From Other Applications
+
+As mentioned in the previous section, you can use the NPM ` lib ` package that's[available on GitHub and NPM](https://github.com/stdlib/lib-node) to access your microservices from legacy Node.js applications and even the web browser. We'll have more SDKs coming out in the following months.
+
+A legacy app would call a function (username.liveService with version 0.2.1):
+
+const  lib  =  require('lib');lib.username.liveService['@0.2.1']('hello', 'world', {keyword:  'argument'}, function (err, result) {if (err) {// handle it}// do something with result});
+
+Which would speak to your microservice...
+
+module.exports  = (params, callback) => {params.args[0] ===  'hello'; // trueparams.args[1] ===  'world'; // trueparams.kwargs.keyword  ===  'argument'; // truecallback(null, 'Done!');
+
+};
+
+# [(L)](https://github.com/stdlib/lib#accessing-your-microservices-over-http)Accessing Your Microservices Over HTTP
+
+We definitely recommend using the [lib library on NPM](https://github.com/stdlib/lib-node)to make microservice calls as specified above, but you can also make HTTPS requests directly to the StdLib gateway. HTTP query parameters are mapped automatically to keyword arguments:
+
+	https://username.stdlib.com/liveService@1.12.2?name=Keith
+
+Maps directly to:
+
+module.exports  = (params, callback) => {params.kwargs.name  ===  'Keith'; // truecallback(null, 'Done!');
+
+};
+
+**Note** that you will not be able to pass in anything to the ` params.args `parameter.
+
+# [(L)](https://github.com/stdlib/lib#version-control-and-package-management)Version Control and Package Management
+
+A quick note on version control - StdLib is *not* a replacement for normal git-based workflows, it is a supplement focused around service creation and execution.
+
+You have unlimited access to any release (that hasn't been torn down) with ` lib pkg <serviceIdentifier> ` to download the tarball (` .tgz `) and` lib get <serviceIdentifier> ` to automatically download and unpack the tarball to a working directory.
+
+Tarballs (and package contents) are *closed-source*. Nobody but you (and potentially your teammates) has access to these. It's up to you whether or not you share the guts of your service with others on GitHub or NPM.
+
+As mentioned above: releases are *immutable* and can not be overwritten (but can be removed, just not replaced afterwards) and development / staging environments are *mutable*, you can overwrite them as much as you'd like.
+
+# [(L)](https://github.com/stdlib/lib#additional-functionality)Additional Functionality
+
+StdLib comes packed with a bunch of other goodies - if your service goes down for any reason (the service platform is acting up), use ` lib restart `. Similarly, as we roll out updates to the platform the builds we're using on AWS Lambda may change. You can update your service to our latest build using` lib rebuild `. We may recommend this from time-to-time, so pay attention to e-mails and the community.
+
+To see a full list of commands available for the CLI tools, type:
+
+	$ lib help
+
+We've conveniently copy-and-pasted the output here for you to peruse;
+
+	* [all arguments converted to params.args]
+		-f                   Specify a file to send (overrides args and kwargs)
+		--*                  all verbose flags converted to params.kwargs
+
+		Runs a StdLib Function (requires a period)
+
+	create [service]
+		-n                   No login - don't require an internet connection
+		-t                   Template - a stdlib service template to use
+		-w                   Write over - overwrite the current directory contents
+		--no-login           No login - don't require an internet connection
+		--template           Template - a stdlib service template to use
+		--write-over         Write over - overwrite the current directory contents
+
+		Creates a new (local) service
+
+	down [environment]
+		-r                   Remove a release version (provide number)
+		--release            Remove a release version (provide number)
+
+		Removes StdLib package from registry and cloud environment
+
+	function:create [function name]
+		-w                   Overwrite existing function
+		--write-over         Overwrite existing function
+
+		Creates a new function for a (local) service
+
+	get [full service name]
+		-f                   Force command if not in root directory
+		-w                   Write over - overwrite the target directory contents
+		--force              Force command if not in root directory
+		--write-over         Write over - overwrite the target directory contents
+
+		Retrieves and extracts StdLib package
+
+	http
+		-p                   Port (Default 8170)
+		--port               Port (Default 8170)
+
+		Creates HTTP Server for Current Service
+
+	info [username | full service name]
+		Retrieves information about a user or package
+
+	init [environment]
+		-f                   Force command to overwrite existing workspace
+		-n                   No login - don't require an internet connection
+		--force              Force command to overwrite existing workspace
+		--no-login           No login - don't require an internet connection
+
+		Initializes StdLib workspace
+
+	login
+		Logs in to StdLib in this directory
+
+	logout
+		Logs out of StdLib in this workspace
+
+	pkg [full service name]
+		-f                   Force command if not in root directory
+		-o                   Output path for the .tgz package
+		--force              Force command if not in root directory
+		--output             Output path for the .tgz package
+
+		Downloads StdLib tarball (.tgz)
+
+	rebuild [environment]
+		-r                   Rebuild a release package
+		--release            Rebuild a release package
+
+		Rebuilds a service (useful for registry performance updates), alias of `lib restart -b`
+
+	register
+		Registers a new StdLib user account
+
+	release
+		Pushes release of StdLib package to registry and cloud (Alias of `lib up -r`)
+
+	restart [environment]
+		-b                   Rebuild service fully
+		-r                   Restart a release package
+		--build              Rebuild service fully
+		--release            Restart a release package
+
+		Restarts a StdLib service (if necessary)
+
+	rollback
+		Rolls back (removes) release of StdLib package (alias of `lib down -r`)
+
+	up [environment]
+		-r                   Upload a release package
+		--release            Upload a release package
+
+		Pushes StdLib package to registry and cloud environment
+
+	user
+		-s                   <key> <value> Sets a specified key-value pair
+		--new-password       Sets a new password via a prompt
+		--reset-password     <email> Sends a password reset request for the specified e-mail address
+		--set                <key> <value> Sets a specified key-value pair
+
+		Retrieves (and sets) current user information
+
+	version
+		Returns currently installed version of StdLib command line tools
+
+# [(L)](https://github.com/stdlib/lib#thats-it)That's it!
+
+Yep, it's really that easy. To keep up-to-date on developments, please star us here on GitHub, and sign up a user account for the registry. You can read more about service hosting and keep track of official updates on[the official StdLib website, stdlib.com](https://stdlib.com/).
+
+# [(L)](https://github.com/stdlib/lib#acknowledgements)Acknowledgements
+
+StdLib is a product of and © 2016 - 2017 Polybit Inc.
+
+We'd love for you to pay attention to [@StdLibHQ](https://twitter.com/StdLibHQ) and what we're building next! If you'd consider joining the team, [shoot us an e-mail](https://github.com/stdlib/lib#acknowledgementsmailto:careers@stdlib.com).
+
+You can also follow me, the original author, on Twitter: [@keithwhor](https://twitter.com/keithwhor).
+
+Issues encouraged, PRs welcome, and we're happy to have you on board! Enjoy and happy building :)
+
+# [(L)](https://github.com/stdlib/lib#thanks)Thanks
+
+Special thanks to; [AngelPad](https://angelpad.org/),[Brian LeRoux](https://twitter.com/brianleroux),[Boris Mann](https://twitter.com/bmann),[TJ Holowaychuk](https://twitter.com/tjholowaychuk)

@@ -1,0 +1,9 @@
+Discover and read the best of Twitter Threads
+
+# Discover and read the best of Twitter Threads
+
+1) #SaveTheKids Now that I have a following, I am recreating...in a single, threaded post...my 27-point story of the #Treason against the US committed by #Hillary, #Obama, and the #Cabal, starting w/ #UraniumOne and #IranNukes deals. washingtonexaminer.com/fbi-agents-who…
+
+2) Trump was recruited by #Patriots/#Military as the only outsider (not part of establishment) who could really #DrainTheSwamp, which is much worse than the aforementioned #Treason. He is protected by the #Marines in particular. washingtonpost.com/news/post-poli…
+
+3) #SethRichMurder The #Cabal, which includes corrupt Dems/GOP, never expected #HRC to lose. They owned #FakeNews #LSM (lying socialist media), rigged #DNC primary for #Hillary, and unsuccessfully rigged actual election w/electronic voting politico.com/magazine/story…

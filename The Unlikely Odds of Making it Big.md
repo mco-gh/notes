@@ -1,0 +1,3311 @@
+The Unlikely Odds of Making it Big
+
+![](../_resources/bdc9ca2a775069bcc10159b0202b1dce.png)Small venueMediumBig
+←
+3,180 bands that played multiple shows from 2013-2016
+The unlikely odds of
+
+# Making it big
+
+What three years and 75,000 shows in New York tell us about the chance your favorite band will succeed.
+
+By [Russell Goldenberg](https://twitter.com/codenberg) & [Dan Kopf](https://twitter.com/dkopf)
+
+On July 17, 2013, the band Sylvan Esso headlined the 250 person capacity Mercury Lounge. Sylvan Esso was one of over 7,000 bands to play a small show in the NYC area that year. The duo had just released their debut singles [Play it Right](https://www.youtube.com/watch?v=xnBjwrRmo2U) and [Hey Mami](https://www.youtube.com/watch?v=3mh2RctlGxc). The band had some buzz, but hyped indie bands often come and go.
+
+Sylvan Esso was not one of them. About two years later, they headlined a sold-out show at Terminal 5 — a 3,000 person capacity venue in NYC. There could be little doubt that Sylvan Esso had “made it”.
+
+In the video below, you can see thousands of Sylvan Esso fans sing along to the playful synth-pop of “Hey Mami”.
+
+[(L)](https://www.youtube.com/watch?v=qftu7ZQieuw)
+
+“That was crazy.” Sylvan Esso’s beat-maker Nick Sanborn [told the Village Voice](http://www.villagevoice.com/music/the-blissful-complicated-world-of-sylvan-esso-swings-back-through-brooklyn-7399764) after the show. “I don’t know how to put stuff like that into perspective… I think we both just feel really lucky that people get what we’re trying to say.”
+
+Sanborn was right to feel amazed. What happened to his band is rare.
+
+According to data from the music event website [Songkick](http://songkick.com/), of the 7,000 bands that headlined a small venue (less than 700 capacity) in the NYC area in 2013, less than half even played another show from 2014 to October of 2016.
+
+Of the bands that did play again, only 400 of them headlined a show at a venue with a capacity greater than 700 people.
+
+But only 21 out of the 7,000 bands reached Sylvan Esso’s level of “making it”: headlining a show of over 3,000 capacity. Any act that headlines a venue of this size has reached a level of success that they could have barely dreamed of (with the possible exception of Kanye West). The following list shows some of the 21 bands who made it, and when and where they hit it big.
+
+- A Great Big World
+- Date: July 23, 2014
+- Venue: Manhattan Center
+
+- Sam Smith
+- Date: September 18, 2014
+- Venue: United Palace Theatre
+
+- Bastille
+- Date: October 9, 2014
+- Venue: Radio City Music Hall
+
+- Lake Street Dive
+- Date: November 14, 2014
+- Venue: Terminal 5
+
+- Sylvan Esso
+- Date: January 23, 2015
+- Venue: Terminal 5
+
+- London Grammar
+- Date: January 27, 2015
+- Venue: Terminal 5
+
+- Chet Faker
+- Date: April 04, 2015
+- Venue: Terminal 5
+
+- Chance the Rapper
+- Date: October 23, 2015
+- Venue: Terminal 5
+
+- X Ambassadors
+- Date: May 13, 2016
+- Venue: Terminal 5
+
+- Mayer Hawthorne
+- Date: June 24, 2016
+- Venue: Terminal 5
+
+And the remaining 11 others who made it...
+
+- 5 Seconds of Summer•
+- Chase Rice•
+- Disclosure•
+- Gorgon City•
+- Houndmouth•
+- Lucius•
+- Mac DeMarco•
+- Misterwives•
+- Rudimental•
+- Shakey Graves•
+- Sturgill Simpson
+
+## How long it takes to make it
+
+In terms of how quickly they “made it”, Sylvan Esso are an anomaly. The band rose faster than any other US based band in our dataset—with less than two years between their first NYC show and headlining a big venue.
+
+The long journey to popular success of the indie pop band Lucius is more typical. The Brooklyn based band played 24 small to medium sized shows in New York from 2009 to 2014, before headlining Terminal Five in December 2014.
+
+The bands that make it from outside the U.S. are more likely to have short journeys to “making it”. Bands like Bastille and Disclosure had already seen significant success in their homelands before making their first appearance in the United States, and by the the time they returned for another tour they had really hit it big.
+
+Let’s look at the different paths each band took to make it, including shows they opened and shows they headlined.
+
+SmallBigVenue capacityLucius 5.3 years from their first small show in NYC until they made it bigAug 16, 2009 Barbès (60)Nov 13, 2009 Joe's Pub (187)Jan 27, 2010 Pete's Candy Store (60)May 08, 2010 Le Poisson Rouge (700)Jul 28, 2010 Pete's Candy Store (60)Jan 27, 2012 Highline Ballroom (700)Jun 14, 2012 The Bell House (300)Apr 05, 2013 Knitting Factory (300)Dec 07, 2013 The Bowery Ballroom (550)Dec 08, 2013 The Bowery Ballroom (550)Jan 08, 2014 City Winery (300)Dec 06, 2014 Terminal 5 (3,000)Jun 11, 2011 Mercury Lounge (250)Oct 22, 2011 Upstairs Lounge, Pianos (166)Jan 25, 2012 Mercury Lounge (250)Feb 17, 2012 The Bowery Ballroom (550)Feb 18, 2012 Union Hall (100)Jun 01, 2012 The Bowery Ballroom (550)Jul 11, 2012 Union Hall (100)Sep 19, 2012 The Bell House (300)Oct 25, 2012 The Bowery Ballroom (550)Dec 01, 2012 The Bell House (300)Jan 18, 2013 Mercury Lounge (250)Feb 05, 2013 The Bowery Ballroom (550)Apr 10, 2013 Webster Hall (1,500)Oct 15, 2013 Brooklyn Bowl (600)Sep 25, 2013 Terminal 5 (3,000)Aug 14, 2013 Music Hall of Williamsburg (550)Lake Street Dive 4.6 years Oct 26, 2011 Highline Ballroom (700)Nov 03, 2012 Rockwood Music Hall Stage 2 (110)Nov 30, 2012 Rockwood Music Hall (200)Dec 05, 2012 Beacon Theatre (2,894)Dec 27, 2012 The Bowery Ballroom (550)Jan 05, 2013 Rockwood Music Hall Stage 2 (110)May 10, 2013 The Bell House (300)May 31, 2013 Rockwood Music Hall Stage 2 (110)Dec 28, 2013 The Bell House (300)Feb 07, 2014 Zankel Hall, Carnegie Hall (599)Mar 31, 2014 The Bowery Ballroom (550)Apr 01, 2014 The Bowery Ballroom (550)Sep 15, 2014 The Bell House (300)Nov 14, 2014 Terminal 5 (3,000)Apr 14, 2010 Union Hall (100)Apr 16, 2011 The Bowery Ballroom (550)Oct 31, 2011 Pete's Candy Store (60)Sep 29, 2013 Town Hall (1,500)Houndmouth 3.6 years Sep 20, 2012 The Bowery Ballroom (550)Oct 19, 2012 The Bowery Ballroom (550)Apr 10, 2013 Mercury Lounge (250)Jun 22, 2013 Brooklyn Bowl (600)Nov 16, 2013 Mercury Lounge (250)Jun 21, 2014 Brooklyn Bowl (600)Mar 31, 2015 Rough Trade NYC (250)Apr 01, 2015 The Bowery Ballroom (550)Sep 25, 2015 Irving Plaza (1,200)Apr 23, 2016 Terminal 5 (3,000)Nov 16, 2013 Mercury Lounge (250)Mar 14, 2014 The Bowery Ballroom (550)Mar 15, 2014 Music Hall of Williamsburg (550)Sep 26, 2015 The Stone Pony (600)Sam Smith 3.6 years Feb 27, 2011 City Winery (300)Aug 08, 2013 Mercury Lounge (250)Jun 17, 2014 Apollo Theater (1,500)Sep 18, 2014 United Palace Theatre (3,400)Mar 24, 2014 Webster Hall (1,500)Sturgill Simpson 3.5 years Apr 21, 2013 City Winery (300)Jul 09, 2014 The Bowery Ballroom (550)Feb 11, 2015 The Bowery Ballroom (550)Feb 12, 2015 Music Hall of Williamsburg (550)Feb 14, 2015 The Stone Pony (600)Sep 19, 2015 Beacon Theatre (2,894)Oct 08, 2016 Kings Theatre (3,000)Apr 01, 2014 Rockwood Music Hall Stage 2 (110)Apr 19, 2016 Rough Trade NYC (250)Chase Rice 3.3 years Aug 03, 2012 The Bowery Ballroom (550)Oct 12, 2013 Gramercy Theatre (600)Aug 18, 2014 The Bowery Ballroom (550)Oct 04, 2014 The Stone Pony (600)Dec 20, 2014 Irving Plaza (1,200)Nov 20, 2015 Terminal 5 (3,000)5 Seconds of Summer 3.0 years Jun 30, 2013 The Studio at Webster Hall (300)Apr 22, 2014 PlayStation Theater (2,100)Jul 15, 2016 Madison Square Garden (20,000)Mayer Hawthorne 2.9 years Jul 15, 2013 The Bowery Ballroom (550)Feb 27, 2014 Webster Hall (1,500)Feb 28, 2014 Brooklyn Bowl (600)Jul 25, 2014 Output (450)Feb 19, 2016 Brooklyn Bowl (600)Feb 19, 2016 Madison Square Garden (20,000)Jun 24, 2016 Terminal 5 (3,000)Mac DeMarco 2.5 years Apr 24, 2012 The Bowery Ballroom (550)Oct 16, 2012 Marlin Room at Webster Hall (600)Oct 18, 2012 Brooklyn Bowl (600)Oct 18, 2012 Music Hall of Williamsburg (550)Oct 19, 2012 Pianos (140)Oct 21, 2012 The Bowery Ballroom (550)Feb 01, 2013 Webster Hall (1,500)Mar 01, 2013 Music Hall of Williamsburg (550)Jun 13, 2013 Brooklyn Bowl (600)Aug 31, 2013 The Wick/The Well (400)Apr 08, 2014 Baby's All Right (280)Apr 09, 2014 Webster Hall (1,500)Jun 12, 2014 House of Vans (900)Nov 04, 2014 Terminal 5 (3,000)X Ambassadors 2.5 years Nov 19, 2013 Brooklyn Bowl (600)Dec 14, 2013 Brooklyn Bowl (600)Apr 11, 2014 The Bowery Ballroom (550)Jun 13, 2014 Knitting Factory (300)Oct 01, 2014 Rough Trade NYC (250)Oct 22, 2015 The Bowery Ballroom (550)Oct 23, 2015 Music Hall of Williamsburg (550)May 13, 2016 Terminal 5 (3,000)Oct 02, 2014 Wonder Bar (300)Shakey Graves 2.4 years Jun 09, 2013 Brooklyn Bowl (600)Jun 23, 2013 Mercury Lounge (250)Sep 12, 2013 Webster Hall (1,500)Sep 26, 2014 Beacon Theatre (2,894)Oct 26, 2014 The Bowery Ballroom (550)Mar 26, 2015 Irving Plaza (1,200)Mar 27, 2015 Warsaw (1,000)Nov 11, 2015 Terminal 5 (3,000)Jun 25, 2014 The Bowery Ballroom (550)Nov 21, 2013 Webster Hall (1,500)Misterwives 2.4 years Jun 21, 2013 Mercury Lounge (250)Oct 17, 2013 The Studio at Webster Hall (300)Oct 19, 2013 The Bowery Ballroom (550)Nov 21, 2013 Gramercy Theatre (600)Jan 07, 2014 Rough Trade NYC (250)Sep 04, 2014 Webster Hall (1,500)Sep 25, 2014 Terminal 5 (3,000)Mar 31, 2015 The Bowery Ballroom (550)Apr 07, 2015 Music Hall of Williamsburg (550)Sep 19, 2015 The Stone Pony (600)Nov 06, 2015 Terminal 5 (3,000)Jun 14, 2014 Brooklyn Bowl (600)Apr 16, 2014 The Bowery Ballroom (550)Chance the Rapper 2.3 years Jun 20, 2013 S.O.B.'s (450)Jul 14, 2013 The Stone Pony (600)Jul 16, 2013 Manhattan Center Hammerstein Ballroom (3,500)Oct 29, 2013 S.O.B.'s (450)Oct 30, 2013 S.O.B.'s (450)Oct 23, 2015 Terminal 5 (3,000)Gorgon City 2.2 years Aug 07, 2013 The Panther Room (500)Dec 07, 2013 Slake (500)Mar 29, 2014 Music Hall of Williamsburg (550)Oct 15, 2014 Highline Ballroom (700)Dec 31, 2014 Webster Hall (1,500)Feb 17, 2015 Irving Plaza (1,200)Jun 04, 2015 Output (450)Oct 31, 2015 Terminal 5 (3,000)A Great Big World 1.8 years Sep 28, 2012 Brooklyn Academy of Music (BAM) (280)Nov 14, 2012 The Studio at Webster Hall (300)Mar 18, 2013 Rockwood Music Hall (200)Jun 04, 2013 The Studio at Webster Hall (300)Jan 16, 2014 Highline Ballroom (700)Jan 31, 2014 The Paramount (1,500)Mar 11, 2014 Theater at Madison Square Garden (5,600)Jul 23, 2014 Manhattan Center Hammerstein Ballroom (3,500)Sylvan Esso 1.5 years Jul 17, 2013 Mercury Lounge (250)Sep 14, 2013 Webster Hall (1,500)Nov 20, 2013 The Bowery Ballroom (550)Jan 30, 2014 Baby's All Right (280)Jun 22, 2014 Webster Hall (1,500)Jun 23, 2014 Webster Hall (1,500)Sep 11, 2014 Rough Trade NYC (250)Sep 12, 2014 The Bowery Ballroom (550)Jan 23, 2015 Terminal 5 (3,000)Rudimental 1.5 years Mar 18, 2013 The Bowery Ballroom (550)May 29, 2014 Output (450)Sep 05, 2014 Terminal 5 (3,000)Chet Faker 1.4 years Nov 18, 2013 The Panther Room (500)May 13, 2014 Output (450)Oct 16, 2014 Webster Hall (1,500)Apr 04, 2015 Terminal 5 (3,000)May 17, 2014 Music Hall of Williamsburg (550)London Grammar 1.3 years Oct 08, 2013 Gramercy Theatre (600)Jan 15, 2014 Baby's All Right (280)Apr 09, 2014 Irving Plaza (1,200)Jan 27, 2015 Terminal 5 (3,000)Disclosure 1.2 years Oct 25, 2012 Mercury Lounge (250)Mar 20, 2013 Music Hall of Williamsburg (550)Mar 21, 2013 The Bowery Ballroom (550)Jan 17, 2014 Terminal 5 (3,000)Bastille 1.0 years Sep 27, 2013 Music Hall of Williamsburg (550)Sep 30, 2013 The Bowery Ballroom (550)Jan 22, 2014 Webster Hall (1,500)Oct 09, 2014 Radio City Music Hall (6,015)
+
+## Everybody else
+
+The vast majority of bands never do make it. Acts break up, give up or decide they have other things they want to do with their lives.
+
+For every Chance the Rapper there are thousands of rappers that never play a show with more than a couple hundred people. For every Lake Street Dive, there are hundreds of promising bands that break up because they lost on their members.
+
+To see the NYC concert trajectory of different bands, below you can search for any of the 3,000 bands that played a show in 2013, and at least one more show from 2014 to 2016. Perhaps some of them are on their way to making it, and it just hasn’t happened yet.
+
+- "after Blue" the Joni Mitchell Project •
+- "the Emperor of Rock" Richie Scarlet •
+- 'the Birdland Jazz Party' •
+- .357 Lover •
+- 10,000 Maniacs •
+- 1in2 •
+- 2/3 Goat •
+- 40 Below Summer •
+- 5 Seconds of Summer •
+- 5j Barrow •
+- 79.5 •
+- ?uestlove •
+- ?uestlove (DJ Set) •
+- a •
+- A Giant Dog •
+- A Great Big Pile of Leaves •
+- A Great Big World •
+- A Is for Atom •
+- a place both wonderful and strange •
+- A Place to Bury Strangers •
+- A Queer Mixer •
+- A Silent Film •
+- A Skylit Drive •
+- A Wilhelm Scream •
+- Aabaraki •
+- Aaron Burnett •
+- Aaron Camper •
+- Aaron Carter •
+- Aaron Cohen •
+- Aaron Freeman •
+- Aaron Lee Tasjan •
+- Abakis •
+- Abby Payne •
+- Abe Ovadia •
+- Accidental Seabirds •
+- Acid Mothers Temple •
+- Acoustic Alchemy •
+- Activator (NYC) •
+- Active Child •
+- Adam Beyer •
+- Adam Cayton-Holland •
+- Adam Deitch •
+- Adam Ezra Group •
+- Adam Larson Quintet •
+- Adam Newman •
+- Adam X •
+- Adios Ghost •
+- Adir L.C. •
+- Adrenaline Mob •
+- AdriAnne Lenker •
+- Adrienne Tooley •
+- Adult Dude •
+- Advaeta •
+- Aidan Knight •
+- Air for Ants •
+- Air Traffic Controller •
+- Air Zaire •
+- airacuda •
+- Aj Smith •
+- Ajo •
+- Al Scorch Country Soul Ensemble •
+- Alan Broadbent •
+- Alan Evans Trio •
+- Alan Fitzpatrick •
+- Alan Hampton •
+- Alana Amram & The Rough Gems •
+- Alberich •
+- Albert Hammond Jr •
+- Albert Lee •
+- Alberta Cross •
+- Alec Gross •
+- Alekhine's Gun •
+- Alestorm •
+- Alex Battles & the Whiskey Rebellion •
+- Alex Bleeker and The Freaks •
+- Alex Bugnon •
+- Alex Ferreira •
+- Alex Mallett Band •
+- Alex Meixner •
+- Alex Metric •
+- Alex Winston •
+- Alexa Wilding •
+- Alexander Howard •
+- Alexander Kariotis •
+- Alexi Delano •
+- Alexia Bomtempo •
+- Alexis Babini •
+- Alexis Hightower •
+- Alexis P. Suter •
+- Alfonso Velez •
+- Alice Smith •
+- Alicia Olatuja •
+- Alison Self •
+- All Boy/All Girl •
+- Allah-Las •
+- Allan Harris •
+- Allan Kingdom •
+- Allen Toussaint •
+- Allison Weiss •
+- Allure •
+- Allysen Callery •
+- Alma Mia •
+- Alma Micic •
+- Almost Six Six •
+- Altan •
+- Alternate Routes •
+- AlunaGeorge •
+- Aly Tadros •
+- Alyson Greenfield •
+- Am Aesthetic •
+- amaesthetic •
+- Amanda Fama •
+- Amanda Holley •
+- Amanda Shires •
+- Amapola Dry •
+- Amaranthe •
+- Amateur Blonde •
+- Ambe •
+- Amber Rubarth •
+- Ambrose Martos •
+- Ambrosia Parsley •
+- Amelia White •
+- American Aquarium •
+- American Authors •
+- American Darlings •
+- American Opera •
+- AmeriGoGo •
+- Amina Figarova Sextet •
+- Amir Abdullah •
+- Amir Vahab •
+- Amy Helm •
+- Amy LaVere •
+- Ana Moura •
+- Ana Popovic •
+- Anasazi •
+- Anathema •
+- Anatomy of Frank •
+- And So I Watch You from Afar •
+- Anders Parker •
+- Andre Obin •
+- Andrea Dell'amore •
+- Andrew Cedermark •
+- Andrew Keoghan •
+- Andrew Leahey & the Homestead •
+- Andy Frasco •
+- Andy Milne & Dapp Theory •
+- Andy Suzuki & the Method •
+- Andy Timmons •
+- Angel Ocana •
+- Angela Johnson •
+- Animal Reporters •
+- Animal Years •
+- Ann Hampton Callaway •
+- Anna Rose •
+- Annalise Emerick •
+- Anne Heaton •
+- Anne Steele •
+- Annelise Collette •
+- Annie Activator •
+- Annie Keating •
+- Answer Infinity •
+- Anthony Collins •
+- Anthony Kapfer •
+- Anti-Mortem •
+- Antigone Rising •
+- Anton Sword •
+- Antonio Sanchez & Migration •
+- Anvil •
+- Anya Skidan •
+- Aoeria •
+- Aoife O'Donovan •
+- Apollo •
+- AraabMuzik •
+- Arc & Stones •
+- Ari Zizzo •
+- Ariah Noetzel •
+- Ariana and the Rose •
+- Ariel Lask •
+- Arkells •
+- Armand Hammer •
+- Aron Magner •
+- Art Decade •
+- Artemis Quartet •
+- Arto Lindsay •
+- Arturo O'Farrill •
+- Arturo O'farrill Afro Latin Jazz Orchestra •
+- Arum Rae •
+- Ascending From Ashes •
+- Ash •
+- Asha •
+- Ask Me Another •
+- ASTR •
+- Astrograss •
+- Atom Strange •
+- Attila •
+- Augustana •
+- Austin Lucas •
+- Austin Miller •
+- Autodrone •
+- Ava Luna •
+- Avan Lava •
+- Aviary •
+- Avidya •
+- AVO •
+- Ayelet Rose Gottlieb •
+- Ayoinmotion •
+- Azar Lawrence •
+- Aztec Two-Step •
+- b •
+- Ba Babes •
+- Baby Alpaca •
+- Baby Gramps •
+- Back to the Eighties Show With Jessie's Girl •
+- Backseat Love Affair •
+- Backwords •
+- Bad Case of Big Mouth •
+- Bad Rabbits •
+- Bad Reputation •
+- Bad Veins •
+- Bailiff •
+- Balance and Composure •
+- Ballroom Thieves •
+- Ballyhoo! •
+- Bambara •
+- Bambi Kino •
+- Band of Changes •
+- Banda Magda •
+- Baratunde Thurston •
+- Barb Wire Dolls •
+- Barbara Carroll •
+- Barbaric Yawp •
+- Barkhouse •
+- Basia Bulat •
+- Bass Drum of Death •
+- Bastard Keith •
+- Bastille •
+- Batala Nyc •
+- Bayside Tigers •
+- bbigpigg •
+- Beach Day •
+- Beach Fossils •
+- Beacon •
+- Bear Ceuse •
+- BEARS •
+- Beast Patrol •
+- Beaty Heart •
+- Beautiful Small Machines •
+- Becca Stevens Band •
+- Becky Yamamoto •
+- Beegie Adair •
+- Belle Mare •
+- Belt •
+- Ben Clark and the Long Shadows •
+- Ben Klock •
+- Ben Kronberg •
+- Ben Ottewell •
+- Ben Pagano •
+- Ben Perowsky •
+- Ben van Gelder •
+- Ben Wendel •
+- Ben Wolfe Quartet •
+- Benita Charles •
+- Benito Gonzalez •
+- Benjamin Scheuer •
+- Benjees •
+- Benji B •
+- Bennett Jackson •
+- Benny Golson Quartet •
+- Benny Green •
+- Benyoro •
+- Bernhoft •
+- Bess Rogers •
+- Beth Hart •
+- Betty Who •
+- Bezoar •
+- BFA •
+- Big Black Delta •
+- Big Daddy Love •
+- Big Freedia •
+- Big Mean Sound Machine •
+- Big Neck Police •
+- Big Quiet •
+- Big Ups •
+- Bigyuki •
+- Bikini Carwash •
+- Bill Bartholomew •
+- Bill Evans •
+- Billy Gibbons •
+- Billy Hart Quartet •
+- Billy J. Kramer •
+- Billy Joe Shaver •
+- Billy Martin •
+- Binary Code •
+- Biohazard •
+- Bird Courage •
+- Bird Dog (Brooklyn) •
+- Birdcloud •
+- Birdy •
+- Birthmark •
+- Bit Funk •
+- Biz Markie •
+- Black Bear Tribe •
+- Black Black Black •
+- Black Breath •
+- Black Dave •
+- Black Lips •
+- Black River Manifesto •
+- Black Taxi •
+- Black Wing Halo •
+- Blackalicious •
+- Blacky II •
+- Blade Runner Trio •
+- Blair Crimmins and the Hookers •
+- Blank Paper •
+- Blanket Statementstein •
+- Bleached •
+- Blitzen Trapper •
+- Blondes •
+- Blood •
+- Blood On the Dance Floor •
+- Bloodshot Bill •
+- Blu •
+- Blue & Gold •
+- Blue Coupe •
+- Blue Food •
+- Blues Control •
+- Bob Mould •
+- Bob Schneider •
+- Bobby Bare Jr. •
+- Bobby Long •
+- Bobby Mcgrath •
+- Bobby Phobia •
+- Bobby Sanabria •
+- Body Language •
+- Body/Head •
+- Bodyface •
+- Bombadil •
+- Bonaparte •
+- Bonnie Bishop •
+- Booga Sugar •
+- Boogaloo Nite •
+- Boogie Wonder Band •
+- Booker T. Jones •
+- Bootblacks •
+- Born Cages •
+- Born Ruffians •
+- Bosley •
+- Bossabrasil •
+- Bound By Substance •
+- Bowl Train •
+- Bowmont •
+- Boxed Wine •
+- Boy Morgan •
+- Boyfrndz •
+- Boys Noize •
+- Boytoy •
+- Brad Miller •
+- Bradford Scobie As Sir Richard Castle •
+- Braids •
+- Brain Cloud •
+- Brand of Julez •
+- Brandi and the Alexanders •
+- Brandon Glovich •
+- Brasil Live •
+- Brbrck •
+- Break of Reality •
+- Breakdown Brass •
+- Breanna Barbara •
+- Breastfist •
+- Brett Dennen •
+- Brett Gleason •
+- Brett Saxon •
+- Bria Skonberg •
+- Brian Bonz •
+- Brian Bonz & the Major Crimes •
+- Brian Charette •
+- Brian Chase •
+- Brian De Lorenzo •
+- Brian Kirk •
+- Brianna Thomas •
+- Briar Rabbit •
+- Bridge City Hustle •
+- Bridges and Powerlines •
+- Bridget Everett •
+- Bridget Everett & the Tender Moments •
+- Bronze Radio Return •
+- Brook Pridemore •
+- Brooklyn Gypsies •
+- Brooklyn Jazz Warriors •
+- Brooklyn Youth Chorus •
+- Brother Joscephus •
+- Brother Valiant •
+- Bryan Cook •
+- Bryan Dunn •
+- Bryan Mccoy •
+- Bucky Pizzarelli •
+- Buffalo Clover •
+- Building Pictures •
+- Bumpin' Uglies •
+- Buried Beds •
+- Burlap to Cashmere •
+- Burn It Up •
+- Bustle In Your Hedgerow •
+- Butane •
+- Butcher Knives •
+- Butchers and Bakers •
+- Butchers Blind •
+- c •
+- C-Kay •
+- C. Gibbs •
+- C.J. Ramone •
+- Cabinet •
+- Caged Animals •
+- Caitlin Canty •
+- Caitlin Mahoney •
+- Caitlin Marie Bell •
+- Cal Folger Day •
+- Calabrese •
+- Caldor Kids •
+- Caleb Hawley •
+- Califone •
+- Calixto Oviedo •
+- Calotype •
+- Cam Meekins •
+- Cam'ron •
+- Camera2 •
+- Cameron Brown •
+- Camila Meza •
+- Camila Meza Quartet •
+- Camille Gainer Jones •
+- Candye Kane •
+- Cannabis Corpse •
+- Cannibal Ox •
+- Cannonball Statman •
+- Capitalist Pig •
+- Capsula •
+- Car Stereo •
+- Cara Dineen •
+- Carbon Leaf •
+- Carcass •
+- Cardiknox •
+- Carimi •
+- Carina Round •
+- Carl Cox •
+- Carl Craig •
+- Carl Thomas •
+- Carla Rhodes •
+- Carmen Lundy •
+- Carnival Royale •
+- Carol Lipnik •
+- Carolann Solebello •
+- Caroline Rose •
+- Caroline Smith •
+- Carrie Manolakos •
+- Carrie Rodriguez •
+- Carsie Blanton •
+- Casey Black •
+- Casey Shea •
+- Cash'd Out •
+- Cask Mouse •
+- Casper Television •
+- Caspian •
+- Cass McCombs •
+- Cassy •
+- Casuarina •
+- Catey Shaw •
+- Catherine Russell •
+- Cayucas •
+- Cecily •
+- Celestial Shore •
+- celosa •
+- Ceramics •
+- Chad Valley •
+- Chain and the Gang •
+- Chalk & Numbers •
+- Chamber Band •
+- Champagne Jerry •
+- Chance the Rapper •
+- Chandler Travis Philharmonic •
+- Chanticleer •
+- Chantilly •
+- Charles Mansfield •
+- Charles McPherson Quintet •
+- Charlie Hunter •
+- Charlie Hunter & Scott Amendola •
+- Charlie Mars •
+- Charlie Phllps •
+- Charlotte Cornfield •
+- Charly Bliss •
+- Charming Disaster •
+- Charnett Moffett •
+- Chase Rice •
+- Chasing Carmen •
+- Chat Logs •
+- Cheap Blue Yonder •
+- Cheers Elephant •
+- Cheetah Chrome •
+- Chelsea Wolfe •
+- Chembo Corniel •
+- Chemtrail •
+- Cherokee Red •
+- Ches Smith •
+- Chet Faker •
+- Chevonne and The Fuzz •
+- Chevy Lopez •
+- Cheyenne Jackson •
+- Chicha Libre •
+- Chick Corea •
+- Chico Alvarez •
+- Child Abuse •
+- Chilo •
+- China Crisis •
+- Chip Taylor •
+- Chloe Sunshine •
+- Chris Berardo & The DesBerardos •
+- Chris Bergson Band •
+- Chris Cubeta and The Liars Club •
+- Chris DaSilva •
+- Chris Dingman •
+- Chris Forsyth •
+- Chris Forsyth & the Solar Motel Band •
+- Chris Lind •
+- Chris Mills •
+- Chris Morrissey •
+- Chris Potter Underground •
+- Chris Pureka •
+- Chris Rockwell •
+- Chris Smither •
+- Chris Stylez •
+- chris woz •
+- Chriss Vargas •
+- Chrissi Poland •
+- Christian Lee Hutson •
+- Christian Sands •
+- Christian Scott •
+- Christie Lenée •
+- Christina Courtin •
+- Christina Holmes •
+- Christine Hoberg •
+- Christine Martucci •
+- Christopher Cross •
+- Christopher Paul Stelling •
+- Christy & Emily •
+- Chuck Burns •
+- Chuck Johnson •
+- Chuck Prophet & The Mission Express •
+- Chuckie •
+- Chumped •
+- Cibo Matto •
+- Cindy Cashdollar •
+- Cinema Cinema •
+- Circus Life •
+- Citizens Band Radio •
+- City Under Siege •
+- Clairy Browne & the Bangin' Rackettes •
+- Clap Your Hands Say Yeah •
+- Clara Lofaro •
+- Clarence Bucaro •
+- Clarence Penn •
+- Clark Gayton and the Superslicks •
+- Claudia Acuna •
+- Clay Fain •
+- Cleanteeth •
+- Clear Plastic Masks •
+- Clementine & the Galaxy •
+- Clinical Trials •
+- Clint Michigan •
+- Cloud Control •
+- Clouder •
+- CLOX •
+- Club Closed •
+- Coast 2 Coast •
+- Coastgaard •
+- Cocodrills •
+- Cody Chesnutt •
+- Coke Weed •
+- Cold Cave •
+- Cold Specks •
+- Cole Lumpkin •
+- Colette Michaan •
+- Colin Stranahan •
+- Coliseum •
+- Color War •
+- columbusorbust •
+- Com Truise •
+- Communion Music •
+- Computer Magic •
+- Congo Sanchez •
+- Consider the Source •
+- Continental •
+- controller •
+- Conveyor •
+- Corey Smith •
+- Cormega •
+- Corn Mo •
+- Cornelius Dufallo •
+- Corrina Corrina •
+- Cory Gunz •
+- Cory Morrow •
+- Cosby Sweater •
+- Cosmonaut •
+- Council •
+- Cracker •
+- Craig Handy •
+- Cranston Dean •
+- Crazy $ince Da 90$ •
+- Crazy and the Brains •
+- Crazy Pills •
+- Creaghead •
+- Crier Brothers •
+- CRISTIAN ARANGO AKA LOCOMBIA •
+- Crocodiles •
+- Crushed Out •
+- Crystal Monee Hall •
+- Crystal Stilts •
+- Crysto Martyr •
+- Cultfever •
+- Curtis •
+- Curtis Eller •
+- Curtis Mcmurtry •
+- Curtis Peoples •
+- Cy Dune •
+- Cycle of Pain •
+- Cyrille Aimee •
+- Cyrus Chestnut •
+- Cyrus Chestnut Trio •
+- Cœur de pirate •
+- d •
+- D'Julz •
+- D.J. Wisdom •
+- D.R.I. •
+- da b.b.c •
+- Da B.B.C Also Known As Bajan Braided Chappelle •
+- Dale and the Zdubs •
+- Daley •
+- Dame Cuchifrita •
+- Damien Dempsey •
+- Dan Abraham •
+- Dan Bern •
+- Dan Friel •
+- Dan Weiss •
+- Dana Leong •
+- Dangermuffin •
+- Dani Mari •
+- Daniel Bachman •
+- Daniel Bazán, Jr. •
+- Daniel Bell •
+- Daniel Ellsworth and the Great Lakes •
+- Daniel Landers •
+- Daniel Meron •
+- Danielia Cotton •
+- Danielle Grubb •
+- Danni Leigh •
+- Danny Brooks •
+- Danny Howells •
+- Danny Kortchmar •
+- Dapa Don •
+- Dark City Strings •
+- Darling Del Oeste •
+- Darlings •
+- Darlingside •
+- Darren Lyons Group •
+- Darwin Deez •
+- Dash •
+- Dash Rip Rock •
+- Dave Anthony •
+- Dave Barnes •
+- Dave Davies •
+- Dave Doobinin •
+- Dave Douglas Quintet •
+- Dave Hill •
+- Dave Liebman •
+- dave nelson •
+- Dave Stryker •
+- Dave Wanamaker •
+- Davi Vieira •
+- Davi Vieira's Forro •
+- David Amram •
+- David Berger Jazz Orchestra •
+- David Broza •
+- David Cross •
+- David Ford •
+- David Gilmore •
+- David Grisman •
+- David Grubbs •
+- David Jacobs-Strain •
+- David Lindley •
+- David Mayfield Parade •
+- David Nail •
+- David Pollack •
+- David Raleigh •
+- David Sánchez •
+- David Tanklefsky •
+- David Virelles •
+- Davy Knowles •
+- Dawn Drake •
+- Dawn Landes •
+- Dawn Richard •
+- Dax Riggs •
+- Dayna Stephens •
+- Dead Empires •
+- Dead Fish Handshake •
+- Dead Heart Bloom •
+- Dead Jetsetter •
+- Dead Kennedys •
+- Dead Leaf Echo •
+- Dead Sexy Sheila •
+- Dead Stars •
+- Dead Waves •
+- Deafheaven •
+- Deal Casino •
+- Dean Wareham •
+- Dear Comrade •
+- Dear Georgiana •
+- Death Angel •
+- Death In June •
+- Deb Oh & the Cavaliers •
+- Debauchery •
+- Debbie Chou •
+- Debe Dalton •
+- Decimus •
+- Deeper •
+- Deerhoof •
+- Defiance Engine •
+- Del Water Gap •
+- Deleasa •
+- Delicate Steve •
+- Della Mae •
+- Demdike Stare •
+- Demolition String Band •
+- Dendê & Band •
+- Dengue Dengue Dengue •
+- Denitia & Sene •
+- Deniz Tek •
+- Denny Laine •
+- Denzil Porter •
+- Desert Stars •
+- Dessa •
+- Dessy Di Lauro •
+- Destruction Unit •
+- Dev Bhandari •
+- Deva Mahal •
+- Dheadt refuge •
+- Diamond Terrifier •
+- Diamond Youth •
+- Diane Birch •
+- Diane Cluck •
+- Diane Coffee •
+- Diarrhea Planet •
+- Dick Dale •
+- Dickies •
+- Diddy •
+- Die Schlauberger •
+- Diego Clare •
+- Dieselboy •
+- DIIV •
+- diNMachine •
+- Dinner and a Suit •
+- Dirt Nasty •
+- Dirty Bourbon River Show •
+- Dirty Dozen Brass Band •
+- Dirty River Boys •
+- Dirty South •
+- Dirty South Joe •
+- Dirty Water Dogs •
+- Disappears •
+- Discipline Theory •
+- Disclosure •
+- Diva Jazz Orchestra •
+- Divining Rod •
+- Dixon •
+- Dizzy Wright •
+- DJ Ayres & Dj Eleven •
+- DJ Boogie Blind •
+- DJ Boris •
+- DJ Cochon De Lait •
+- DJ Concerned •
+- DJ Cosi •
+- DJ Envy •
+- DJ Fresh Prince of Darkness •
+- DJ Funky Punky •
+- DJ Greg Caz •
+- DJ Jonathan Toubin •
+- DJ JUS •
+- DJ Logic •
+- DJ Modest P •
+- DJ mOma •
+- DJ Monk-one •
+- DJ Night •
+- DJ PAYPAL •
+- DJ PreSkool •
+- DJ Ripley •
+- DJ Sliink •
+- DJ Spinna •
+- DJ Square Biz •
+- DJ Vice •
+- DJ Vladimir Radojicic •
+- DJ Y •
+- Doe Paoro •
+- Dogz of Zeus •
+- Doldrums •
+- Dom La Nena •
+- Don DiLego •
+- Don Turner Band •
+- Donald Harrison •
+- Doomsday Diaries •
+- Dope •
+- Dope Body •
+- Doug Beavers •
+- Doug Smith •
+- Down With Webster •
+- Dr. Lonnie Smith •
+- Dr. Lonnie Smith in the Beginning Octet •
+- Drag the River •
+- Dragons of Zynth •
+- Dramarama •
+- Dream Circle •
+- Drew Holcomb & the Neighbors •
+- Drew Victor •
+- Drew Yowell Band •
+- DRGN King •
+- Drina Seay •
+- Drivin' n' Cryin' •
+- Drop Electric •
+- Drowners •
+- Dru Cutler •
+- DTCV •
+- Dub Proof •
+- Dubfire •
+- Duckspeak •
+- Due Diligence •
+- Dumpstaphunk •
+- Dying Fetus •
+- Dysrhythmia •
+- e •
+- Earl Boykins •
+- Earl Sweatshirt •
+- East Forest •
+- Eastern Hollows •
+- Eastern Midwestern •
+- Eats Everything •
+- Echo Bloom •
+- Echosmith •
+- Ed Askew Band •
+- Ed Kowalczyk •
+- Ed Schrader's Music Beat •
+- Eddi Front •
+- Eddie Pepitone •
+- Eden Ladin •
+- Edie Carey •
+- EDX •
+- Ekaterina •
+- El Gant •
+- El Ten Eleven •
+- El Tri •
+- Elder •
+- ELEANOR •
+- Eleanor Friedberger •
+- Electric People •
+- Electric Six •
+- Eleni Mandell •
+- Elephant Stone •
+- Eleventh Ward. •
+- Eli 'Paperboy' Reed •
+- Eliane Elias •
+- Elijah Ocean •
+- Elise Testone •
+- Eliza Neals •
+- Elizabeth & The Catapult •
+- Elle Winston •
+- Elliot & the Ghost •
+- Ellis Ashbrook •
+- Ellis Paul •
+- Elna Baker •
+- Elvis Costello •
+- Elvis Depressedly •
+- Emanuel and the Fear •
+- Emanuel Gibson •
+- Embalmer •
+- EMEFE •
+- Emeline Michel •
+- Emily Danger •
+- Emily King •
+- Emily Kinney •
+- Emily Wolf •
+- Empress Of •
+- Enemy Planes •
+- Ensemble 212 •
+- Ensemble ACJW •
+- Enslaved •
+- EPMD •
+- Eric Alexander •
+- Eric and Erica •
+- Eric Comstock •
+- Eric Dash •
+- Eric Gales •
+- Eric Harland •
+- Eric Krasno •
+- Erica Russo and The Good Sport •
+- Ernie Halter •
+- Erostratus •
+- Eryn Shewell •
+- Escarioka •
+- Eternal Summers •
+- Eva and Her Virgins •
+- Eva Cortes •
+- Eve Seltzer •
+- Everest Cale •
+- Every Flavor Weather Machine •
+- Everything Everything •
+- Evripidis And His Tragedies •
+- Ex Cops •
+- Ex Hex •
+- Excepter •
+- Eyehategod •
+- f •
+- F-Units •
+- Fabian Almazan •
+- Fabrizio Sotti •
+- Face the King •
+- Face To Face •
+- Faces in the Crowd •
+- Fahad •
+- Falls •
+- FaltyDL •
+- Family Fun •
+- Family of the Year •
+- Far Too Loud •
+- Farruko •
+- Faster Pussycat •
+- Fate Breaks Dawn •
+- Fear Factory •
+- Fear the Working Man •
+- Federico Aubele •
+- Felix Hernandez •
+- Fell Voices •
+- Fever Charm •
+- FIDLAR •
+- Field Guides •
+- Field Mouse •
+- Fife & Drom •
+- Fifth on the Floor •
+- Finish Ticket •
+- Fish House Road •
+- Fishbone •
+- Flagland •
+- Flames of Fury •
+- Fleetwood Maxx •
+- Fleshtones •
+- Fletcher C. Johnson •
+- Floanne •
+- Floating Compass •
+- Floating Points •
+- Floor •
+- Flow •
+- Flow Tribe •
+- FLWRS + Maralisa •
+- Foe Destroyer •
+- Folding Legs •
+- FOOD S†ΔMPS •
+- Food Will Win the War •
+- For Everest •
+- Former Belle •
+- Forro In the Dark •
+- Fort Knox Five •
+- Fort Lean •
+- Fortunate Youth •
+- Four Trips Ahead •
+- Foxygen •
+- Foy Vance •
+- Frances Cone •
+- Francis Dunnery •
+- Francis Stallings •
+- Franck Roger •
+- Frank & Tony •
+- Frank Bang and the Secret Stash •
+- Frank Carillo & The Bandoleros •
+- Frank Catalano •
+- Frank Locrasto •
+- Freak Heat Waves •
+- Fred Hersch •
+- Fred the Godson •
+- Freddie Stevenson •
+- Freddy Cole •
+- Freedy Johnston •
+- French Horn Rebellion •
+- French Montana •
+- Fresh Daily •
+- Friend Roulette •
+- Friendly People •
+- Friends of Single People •
+- Frog •
+- Frogbelly and Symphony •
+- From Indian Lakes •
+- Frontier Ruckus •
+- Function •
+- Future Punx •
+- Future Rock •
+- Futurebirds •
+- g •
+- GABRIEL ALEGRIA AFRO •
+- Gabriel Alegria Afro-Peruvian Sextet •
+- Gang of Thieves •
+- Gangstagrass •
+- Garcia Project •
+- Garrin Benfield •
+- Gary Numan •
+- Gary Peacock •
+- Gasoline Heart •
+- Gates •
+- Gavin Turek •
+- Gedeon Luke •
+- Geeking Out •
+- Geena & Dragster •
+- Gene Pritsker •
+- genes and machines •
+- Gent Treadly •
+- Gentleman Brawlers •
+- Geographer •
+- George Fitzgerald •
+- George Gilmore •
+- George Porter Jr. •
+- George Porter, Jr. and Runnin' Pardners •
+- Georgia Middleman •
+- Gerald Clayton Trio •
+- Ghost Beach •
+- Ghost Thrower •
+- Ghosts Of Eden •
+- Giant Panda Guerilla Dub Squad •
+- Gil Evans Project directed by Ryan Truesdell •
+- Gin Wigmore •
+- Ginger Baker •
+- Ginger Baker's Jazz Confusion •
+- Gingerlys •
+- Giraffage •
+- Girls .. Girls .. Girls •
+- Gizmo •
+- Gladshot •
+- Glass Ghost •
+- Glasser •
+- Glenn Tilbrook •
+- Glenn White •
+- Glitter Gutter •
+- Glue Gun Optimism •
+- GNAWA BOUSSOU •
+- Goapele •
+- Goatwhore •
+- Goddess •
+- Gods •
+- Gold Banquet •
+- Golden Suits •
+- Goldfish •
+- Golem •
+- Good Field •
+- Goodbyemotel •
+- Goodnight Texas •
+- Gorgon City •
+- Grace Kelly •
+- Gradients •
+- Graham Alexander •
+- Graham Colton •
+- Graham Parker •
+- Grand Cousin •
+- Grand Resort •
+- Grandchildren •
+- Graveyard •
+- Graveyard Lovers •
+- Great Time •
+- Greg Proops Is the Smartest Man in the World •
+- Greg Ruggiero •
+- Greg Trooper •
+- Greg Ward •
+- Gregory Alan Isakov •
+- Grey Goes Black •
+- Greyboy Allstars •
+- Gringo Star •
+- Grogan Social Scene •
+- Groove Collective •
+- Grupo Arcano •
+- Grupo Irek •
+- Guardian Alien •
+- Guards •
+- Guess and Check •
+- Gun Outfit •
+- Gunfight! •
+- Gypsy George & the Open Road Love Affair •
+- h •
+- H. Jon Benjamin •
+- HAERTS •
+- Hailu Mergia •
+- Half Moon Run •
+- Half Waif •
+- Hammer Fight •
+- Hand Job Academy •
+- Hani Zahra •
+- Hank & Cupcakes •
+- Hannah and Maggie •
+- Hannah Georgas •
+- Hannah vs. The Many •
+- Hannibal King •
+- Hans Tammen •
+- Happy Fangs •
+- Happy Lives •
+- Hard Nips •
+- Hard Rock Sofa •
+- Harper's Fellow •
+- Harrison Roach •
+- Harry and the Potters •
+- Harvey Eyeballs •
+- Have Gun, Will Travel •
+- Hawk and Dove •
+- Haybaby •
+- Hayes Carll •
+- Hayley Jane and the Primates •
+- Head •
+- Head On •
+- Heartbeat Sessions •
+- Heather Maloney •
+- Heather Styka •
+- Heaven •
+- Heavy Birds •
+- Heavy Duty Super Ego •
+- Heavy English •
+- Heavy Flow •
+- Heeney •
+- Heffron Drive •
+- Heliotropes •
+- Hellbound Glory •
+- Hello Phones •
+- Heloise & The Savoir Faire •
+- Henry Butler •
+- Henry Wagons •
+- Hernan Cattaneo •
+- Hernan Romero •
+- Heroes of Toolik •
+- Hess Is More •
+- Hey Anna •
+- Hey Blinkin •
+- Hey Guy •
+- Hey Marseilles •
+- Hey Monea! •
+- Hey Queen! •
+- Heylady •
+- Heyrocco •
+- High & Mighty Brass Band •
+- Highasakite •
+- Highly Suspect •
+- Hilary Hawke & the Flipsides •
+- Hillary Barleaux •
+- hippy •
+- Hivesmasher •
+- HOA Bossman •
+- Hollis Brown •
+- Holly Miranda •
+- Holly Williams •
+- Holy Ghost Tent Revival •
+- Homeboy Steve •
+- Honduras •
+- Honey •
+- Honey Dijon •
+- Honey Island Swamp Band •
+- Honey Larochelle •
+- Honey Wild •
+- Honor Among Thieves •
+- Honor by August •
+- Hooray For Earth •
+- Hop Along •
+- Hospitality •
+- Hot Buttered Rum •
+- Hot Club of Cowtown •
+- Hot Dose •
+- Hot Since 82 •
+- Hotel of the Laughing Tree •
+- Houndmouth •
+- Hounds Basket •
+- House of Waters •
+- Household •
+- Household Tales •
+- Houston Person Quartet •
+- How I Learned •
+- How Sad •
+- Howie Day •
+- Howth •
+- Hudson Mohawke •
+- Hungry March Band •
+- Hunter Hunted •
+- Hunter Valentine •
+- Hunters •
+- Hunters & Runners •
+- Hurrah! A Bolt of Light! •
+- Hurray for the Riff Raff •
+- Hush •
+- i •
+- I Am the Avalanche •
+- I am the Heat •
+- I Am the Third •
+- I Led 3 Lives •
+- IAMLOPEZ •
+- Iamsu! •
+- Ian McLagan •
+- Idgy Dean •
+- If Birds Could Fly •
+- Ilhan Ersahin •
+- Ilhan Erşahin’s Wonderland •
+- Ill Doots •
+- Imaginary People •
+- Incantation •
+- Indecent •
+- Infinity Shred •
+- Ingrid Laubrock •
+- Inner Outlaws •
+- Insect Ark •
+- Inspecter 7 •
+- Internal Bleeding •
+- Into Another •
+- Intronaut •
+- Inventure •
+- Invisible Days •
+- Invisible Familiars •
+- Iola •
+- Ionia •
+- Iris Dement •
+- Iron Bridge Band •
+- Iron Chic •
+- Iron Reagan •
+- Isa (US) •
+- Isabel Leonard •
+- Isadora •
+- Ishmael the Band •
+- Islands •
+- Isle of Rhodes •
+- Israel Nash •
+- It is rain in my face. •
+- Ivy Levan •
+- Iyez •
+- j •
+- J Fernandez •
+- J. Allen •
+- J.p. Jofre •
+- Jacco Gardner •
+- Jack and Eliza •
+- Jack DeJohnette •
+- Jack Grace Band •
+- Jack Skuller •
+- Jackpot Tiger •
+- Jaclyn Rose •
+- Jaded Past •
+- Jaill •
+- Jake Clemons •
+- Jake McKelvie & the Countertops •
+- Jaleel Shaw Quartet •
+- Jamaican Queens •
+- James Carter •
+- James Carter Organ Trio •
+- James Habacker •
+- James Hunter •
+- James Maddock •
+- James Margolis •
+- James McMurtry •
+- James Murphy •
+- James Tristan Redding •
+- James Vincent McMorrow •
+- Jamie N Commons •
+- Jane Monheit •
+- Janet LaBelle •
+- Jangula •
+- Janis Ian •
+- Janis Siegel •
+- Jared Evan •
+- Jared Saltiel •
+- Jasmine Solano •
+- jason blum •
+- Jason D. Williams •
+- Jason Loughlin •
+- Jason Yudoff & The New Hotness •
+- Jay Leonhart •
+- Jay Leonhart Duo •
+- Jay Mickens •
+- Jay Stolar •
+- JC Brooks & The Uptown Sound •
+- JC Sanford •
+- JD Samson •
+- JD Samson & MEN •
+- Je Double F •
+- Jean Rohe •
+- Jean-michel Pilc •
+- Jeanne Jolly •
+- Jedediah Parish •
+- Jeff "Tain" Watts •
+- Jeff Campbell •
+- Jeff LeBlanc •
+- JEFF the Brotherhood •
+- Jefferson Hamer •
+- Jeffrey Alan •
+- Jeffrey Gaines •
+- Jeffrey Lewis •
+- Jen Chapin •
+- Jenn Bostic •
+- Jenny Hval •
+- Jenny O •
+- Jenny Owen Youngs •
+- Jenny Scheinman •
+- Jeremiah Birnbaum •
+- Jeremy Nash •
+- Jeremy Noller •
+- Jeremy Pelt •
+- Jerry Castle •
+- Jerry Fuentes •
+- Jerry Joseph And The Jackmormons •
+- Jerry Paper •
+- Jerzy Jung •
+- Jesca Hoop •
+- Jess Klein •
+- Jess Marquis •
+- jesse and forever •
+- Jesse Boykins III •
+- Jesse Correll •
+- Jesse Fischer •
+- Jesse Harris •
+- Jesse Malin •
+- Jesse Terry •
+- Jessi Robertson •
+- Jessica Pratt •
+- Jessie Davis •
+- Jesus On The Mainline •
+- Jet Black Sunrise •
+- Jillette Johnson •
+- Jim Campilongo Trio •
+- Jim Hurst •
+- Jim Jones •
+- Jim Tews •
+- Jim Weider •
+- Jimkata •
+- Jimmy Webb •
+- Joan As Police Woman •
+- Joan of Arc •
+- Joan Osborne •
+- Joanna Teters •
+- Joanne Shaw Taylor •
+- Jody Watley •
+- Joe Alterman •
+- Joe Bataan •
+- Joe Caro •
+- Joe Deninzon •
+- Joe Garden •
+- Joe Grushecky & The Houserockers •
+- Joe Holt •
+- Joe List •
+- Joe Locke •
+- Joe Miller •
+- Joe Pug •
+- Joe Russo's Almost Dead •
+- Joe Sucato •
+- Joey Anderson •
+- Joey DeFrancesco •
+- Johanna Samuels •
+- Johanna Warren •
+- John Abercrombie Quartet •
+- John Black •
+- John Brodeur •
+- John Digweed •
+- John Eddie •
+- John Fullbright •
+- John Isaac Watters •
+- John Pizzarelli Quartet •
+- John Roberts •
+- John Sinclair •
+- John Talabot •
+- John the Gun •
+- John Tropea Band •
+- John Velsor •
+- John Waite •
+- John Waters •
+- Johnny A. •
+- Johnny Butler •
+- Johnny Koenig •
+- Johnny Mellor's Bastardos •
+- Jojo Mayer & Nerve •
+- Jolie Holland •
+- Jon & the Jones •
+- Jon Batiste •
+- Jon Bellion •
+- Jon Benjamin •
+- Jon Cleary •
+- Jon Herington •
+- Jon Lindsay •
+- Jon Wallett •
+- Jonah Matranga •
+- jonandthejones •
+- Jonas Rathsman •
+- Jonathan Richman •
+- Jonathan Toubin •
+- Joni Fatora •
+- Jonny Fritz •
+- Jordie Lane •
+- Jorma Kaukonen •
+- Jose Santiago •
+- Joseph Arthur •
+- JOSEPH KING •
+- Josh Elkes •
+- Josh Flagg •
+- Josh Gondelman •
+- Josh Kelley •
+- Josh Rouse •
+- Josh Taylor •
+- Josiah Leming •
+- Jounce •
+- Journalism •
+- Jowe Head •
+- Joy Ride •
+- Joyce Manor •
+- JoyCut •
+- JP Harris and The Tough Choices •
+- Jsun •
+- Juan Wauters •
+- Judas Priestess •
+- Judith Hill •
+- Julia Easterlin •
+- Julia Haltigan •
+- Julia Joseph •
+- Julia Patinella •
+- Julia Weldon •
+- Julian Cubillos •
+- Julian Fleisher •
+- Julian Fulton and the Zombie Gospel •
+- Julian Lage •
+- Julian Lynch •
+- Julian Velard •
+- Julie Atlas Muz •
+- Julietta •
+- Jumpcuts •
+- jumpers •
+- June Divided •
+- Junior Brown •
+- Junior Prom •
+- Jus Post Bellum •
+- Justin Baron •
+- Justin Martin •
+- Justin Miller •
+- Justin Strauss •
+- Justina Valentine •
+- k •
+- K.Flay •
+- Kacey Musgraves •
+- Kagero •
+- Kaiju Big Battel •
+- Kaki King •
+- Kalin and Myles •
+- Kalob Griffin Band •
+- Kamelot •
+- Kandinsky Effect •
+- Kap Slap •
+- Karen & the Sorrows •
+- Karikatura •
+- Karlie Bruce •
+- Karma Exchange •
+- Karrin Allyson •
+- Kastle •
+- Kat Quinn •
+- Kate Berlant •
+- Kate Boy •
+- Kate Davis •
+- Kathy Zimmer •
+- Katie Buchanan •
+- Katie Mullins •
+- Kayln Rock •
+- Kayo Dot •
+- Keaton Simons •
+- Keenan O'Meara •
+- Keith Kenny •
+- Keller Williams •
+- Kelley McRae •
+- Ken Fury •
+- KEN Mode •
+- Ken South Rock •
+- Kendrick Scott Oracle •
+- Kendy Gable •
+- Kennedy Jones •
+- Kenny Garrett •
+- Kenny Warren •
+- Kent Odessa •
+- Keren Ann •
+- Kerri Chandler •
+- Kevin Gordon •
+- Kevin Hays •
+- Kevin Mahogany •
+- Kevin Ray •
+- Kevin Saunderson •
+- Key of Shame •
+- keyke •
+- Khaled Dajani •
+- Khomha •
+- Kid •
+- Kid Congo And The Pink Monkey Birds •
+- Kid In The Attic •
+- Kidaudra •
+- Kidnap Kid •
+- Kiirstin Marilyn •
+- Kiki Da Bahia •
+- Kimberly Nichole •
+- Kimberly Wyma •
+- Kinderhook •
+- King Dude •
+- King Holiday •
+- King Los •
+- King Stork •
+- King's X •
+- Kingdom •
+- Kings Destroy •
+- Kingsley Flood •
+- Kira Velella! •
+- Kiran Ahluwalia •
+- Klass •
+- Kneebody •
+- Knife Thrower’s Assistance •
+- Kntrlr •
+- Kode9 •
+- Koffin Kats •
+- KONGOS •
+- Kopecky Family Band •
+- Kosha Dillz •
+- Kosi •
+- Kotorino •
+- Kris Allen •
+- Kris Davis •
+- Kris Keyser •
+- Krisiun •
+- Kristeen Young •
+- Kristin Andreassen •
+- Kronos Quartet •
+- Kung Fu Crimewave •
+- Kurt Elling •
+- Kurt Rockmore •
+- Kvelertak •
+- Kwame Darko •
+- Kylesa •
+- l •
+- L-VIS 1990 •
+- L.A. Guns •
+- La La Lush •
+- La Luz •
+- La Mecanica Popular •
+- La Vie En Rose •
+- Lach •
+- Lachi •
+- Lacy James •
+- Lady Lamb the Beekeeper •
+- Laila Biali •
+- Lake Street Dive •
+- Lakecia Benjamin •
+- lame drivers •
+- Landlady •
+- Landscapes & Skylines •
+- Lapland •
+- Lara Ewen •
+- Larry Campbell & Teresa Williams •
+- Late Cambrian •
+- Laura Jane Grace •
+- Laura Marling •
+- Laura Stevenson •
+- Laurel Halo •
+- Lauren Davidson •
+- Lauren Fox •
+- Laurence Juber •
+- Lauriana Mae •
+- Laurie Krauz •
+- Laurin Talese •
+- Lazyeyes •
+- Le Rug •
+- Le Train Bleu •
+- Le Youth •
+- Le1f •
+- Led Zeppelin 2 •
+- Leda •
+- Lee Bains III & The Glory Fires •
+- Lee Burridge •
+- Lee Foss •
+- Lee Ranaldo •
+- Leftover Salmon •
+- Legs •
+- Lemonade •
+- Len Faki •
+- Lenny White •
+- Leo Kottke •
+- Les Bicyclettes Blanches •
+- Les Racquet •
+- Les Sans Culottes •
+- Leslie Mendelson •
+- Leslie West •
+- Lespecial •
+- letlive •
+- Lettuce •
+- Leverage Models •
+- Levi Kreis •
+- Liah Alonso •
+- Liam Finn •
+- Liam Mceneaney •
+- Libation •
+- Libel •
+- Lies Beneath •
+- Life Size Maps •
+- Lifeguard Nights •
+- Light Of Day •
+- Lightouts •
+- Lights Resolve •
+- Lil' Kim •
+- Lili Anel •
+- Liliana Araujo •
+- Lilly Wolf •
+- Lily & Madeleine •
+- Lincoln Durham •
+- Lindi Ortega •
+- Lindsay Lou and the Flatbellys •
+- Lionel Loueke Trio •
+- Liquor Store •
+- Lisa Hilton •
+- Literary Death Match •
+- Literature •
+- Little Band of Sailors •
+- Little Big League •
+- Little Daylight •
+- Little Green Cars •
+- Little Racer •
+- Little Sur •
+- Little Tybee •
+- Liv Lombardi •
+- Liv Warfield •
+- Live at the Fillmore •
+- Lizard Kisses •
+- Lloydski •
+- Loco Dice •
+- Logan Takahashi •
+- London Grammar •
+- Long Faces •
+- Loom •
+- Lora Faye •
+- Lord Bishop Rocks •
+- Lord Classic •
+- Lords of Mercy •
+- Lords of the Low End •
+- Loren Stillman •
+- Los Crema Paraiso •
+- Los Hacheros •
+- Los Lobos •
+- Los Pericos •
+- Los Straitjackets •
+- Lost Gloves •
+- Lost Romance •
+- Louis Hayes •
+- Louisahhh •
+- Love As Laughter •
+- Love Canon •
+- Love Hangover •
+- Love Trio •
+- Love X Stereo •
+- Lovers League •
+- Loving You •
+- Low Cut Connie •
+- Low Fat Getting High •
+- Lower the Vail •
+- Lowland Hum •
+- Luba Mason •
+- Lucie Silvas •
+- Lucinda Black Bear •
+- Lucius •
+- Lucky Chops •
+- Lucy Kaplansky •
+- Ludwig Persik •
+- Lukas Graham •
+- Luke Jenner •
+- Luke Markham •
+- Luke Wesley •
+- Luke Winslow-King •
+- Luluc •
+- LVL UP •
+- Lydia Loveless •
+- Lydia Lunch •
+- Lyle Divinsky •
+- Lynda DeFuria •
+- Lynx •
+- m •
+- M. LAMAR •
+- M.A.K.U. SoundSystem •
+- M.R. Poulopoulos •
+- Mac DeMarco •
+- Mack Wilds •
+- Macy Gray •
+- Mad Juana •
+- Madame Mayhem •
+- Madi Diaz •
+- Madison Lst •
+- Magda •
+- Magic! •
+- Magik Markers •
+- Maginot •
+- Mahones •
+- Mail the Horse •
+- Mainland •
+- Majical Cloudz •
+- Male Pattern Baddness •
+- Malignancy •
+- Mamarazzi •
+- Man Forever •
+- Man Man •
+- Man or Astro-man? •
+- Manicanparty •
+- Manuel Valera •
+- Marc Broussard •
+- Marc Cary •
+- Marc Cary Focus Trio •
+- Marc Cohn •
+- Marc-André Hamelin •
+- Marcel Dettmann •
+- Marcellus Hall •
+- MarchFourth •
+- Marci Geller •
+- Marcia Ball •
+- Marco Argiro •
+- Marco Bailey •
+- Marco Carola •
+- Marcos Cabral •
+- Marcus Gilmore •
+- Marcus Goldhaber •
+- Marcus Strickland •
+- Margaret Glaspy •
+- Maria Neckam •
+- Maria Schneider Orchestra •
+- Mariachi Flor De Toloache •
+- Mariko •
+- Marilyn Maye •
+- Marina Evans •
+- Marissa Nadler •
+- Mark Erelli •
+- Mark Farina •
+- Mark Geary •
+- Mark Guiliana •
+- Mark Lindsay •
+- Mark Normand •
+- Mark Turner •
+- Marnie Stern •
+- Marques Toliver •
+- Mars Bonfire •
+- Marshall White and the Regiment •
+- Martha Davis & the Motels •
+- Martha Lorin •
+- Martha Wainwright •
+- Martin Rev •
+- Marty Balin •
+- Marvin Berry & the New Sound •
+- Mary Bragg •
+- Mary Edwards •
+- Mary Gauthier •
+- Masha •
+- Mason Jennings •
+- Master •
+- Matana Roberts •
+- Math the Band •
+- Mathis Grey •
+- Matt •
+- Matt Butler •
+- Matt Duke •
+- Matt Duncan •
+- Matt Geraghty •
+- Matt Koff •
+- Matt Pryor •
+- Matt Schofield •
+- Matt Siffert •
+- Matt Simons •
+- Matte Black •
+- Matteah Baim •
+- Matthew E. White •
+- Matthew Fowler •
+- Matthew Perryman Jones •
+- Matthew Santos •
+- Matthew Sweet •
+- Mattson •
+- Matuto •
+- Mauro Refosco •
+- Mavis Staples •
+- MAX •
+- Max García Conover •
+- Max Graham •
+- Max Mischief •
+- Maxxi Soundsystem •
+- Maya Solovéy •
+- Maybe the Welders •
+- Mayer Hawthorne •
+- Maynard and the Musties •
+- Meat Puppets •
+- Mechanical River •
+- Medicine Fish •
+- Meg Myers •
+- Megan Burtt •
+- Megan Hilty •
+- Mel Frye •
+- Mel Frye's Pre Existing Condition •
+- Melaena Cadiz •
+- Melissa Ferrick •
+- Melissa Otero •
+- Melissa Polinar •
+- Men in My Head •
+- Mephiskapheles •
+- Mercury Morning •
+- Metermaids •
+- meticulous women •
+- Metro Station •
+- Metz •
+- mewithoutYou •
+- Meyhem Lauren •
+- Mia Dyson •
+- Micah •
+- Michael Carvin •
+- Michael Che •
+- Michael Feinberg •
+- Michael Kosta •
+- Michael O'brien •
+- Michael Valeanu •
+- Michaela Anne •
+- Michal Menert •
+- Michale Graves •
+- Michelle Citrin •
+- Michelle Fury Band •
+- Michelle Lewis •
+- Michelle Newman •
+- Mick Flannery •
+- Micky •
+- Midge Ure •
+- Midlake •
+- Midnight Magic •
+- Midnight Masses •
+- Midnight Red •
+- Midnite Hellion •
+- Mieka Pauley •
+- Miguel Zenón •
+- Mikaela Davis •
+- Mike Farris •
+- Mike Krol •
+- Mike Lawrence •
+- Mike Montrey Band •
+- Mike Moreno Quartet •
+- Mike Scala •
+- Mike Servito •
+- Mike Squillante •
+- Mike Stern •
+- Mike Stern Band •
+- Mike Stinson •
+- Mikhael Paskalev •
+- Milo Greene •
+- Ming •
+- Mingo Fishtrap •
+- Mingus Big Band •
+- Mingus Orchestra •
+- Miniboone •
+- Minor Soul •
+- Mira Cook •
+- Miracles of Modern Science •
+- Miranda Sings •
+- Miri Ben-Ari •
+- Miss Astrid •
+- Miss Tess •
+- Miss Tess and the Talkbacks •
+- Mission of Burma •
+- Misterwives •
+- Mitch Frohman •
+- Mitra Sumara •
+- Mixed Doubles •
+- Miz •
+- Mo Greene •
+- Mobile Deathcamp •
+- Mockingbird Sun •
+- Modern Colour •
+- Modern Diet •
+- Modern Inventors •
+- Modern Life Is War •
+- Modern Merchant •
+- Modern Rivals •
+- Molly Ryan •
+- Mon Khmer •
+- Moneco •
+- Monica Lionheart •
+- Monogold •
+- Monophonics •
+- Monty Alexander Harlem Kingston Express •
+- Moon Boots •
+- Moon Furies •
+- Moon Taxi •
+- Moon Tooth •
+- Moona Luna •
+- Moondudes •
+- Mor ve Ötesi •
+- Moreland & Arbuckle •
+- Morgan Heritage •
+- Morgan Karr •
+- Morgan O'Kane •
+- MORI •
+- Morning Fuzz •
+- Mortified •
+- Moshav •
+- Mother Falcon •
+- Mother Feather •
+- Mother Mother •
+- Mount Gomery •
+- Mozart's Sister •
+- Mr. Breakdown •
+- Mr. C •
+- Mr. Choade's Upstairs Downstairs •
+- Mree •
+- Mucca Pazza •
+- Muck And The Mires •
+- Mucky Pup •
+- Mudhoney •
+- Murder Junkies •
+- Murs •
+- Mursi Layne •
+- Musical Mind Orchestra Conducted By Bajram Istrefi Jr. •
+- Mutilation Rites •
+- Mutoid Man •
+- Mutual Benefit •
+- MV Carbon •
+- My Gay Banjo •
+- My Gold Mask •
+- My Teenage Stride •
+- Mycle Wastman •
+- Mykki Blanco •
+- Myles Mancuso Band •
+- n •
+- Nadastrom •
+- Nadav Vee •
+- Nadia Ackerman •
+- Nadia Washington •
+- Nails •
+- Naja Rosa •
+- Nancy Whang (DJ Set) •
+- Napoleon •
+- Napoleon Murphy Brock •
+- Narkatta •
+- Nashville Pussy •
+- Nasty Habit •
+- Nat & Alex Wolff •
+- Nat Osborn •
+- Natalia Clavier •
+- Natalia LaFourcade •
+- Natalia Zukerman •
+- Natalie Cressman •
+- Natasha Lyonne •
+- Nate Fernald •
+- Nathan Xander •
+- Native •
+- Nature Cruise •
+- Naughty By Nature •
+- Navi Singh •
+- Needle Points •
+- Negative Sky •
+- Negros Americanos •
+- nehedar •
+- Neighbors •
+- Nellie McKay •
+- Nemes •
+- Nemiss •
+- Never Shout Never •
+- Neverends •
+- New Country Rehab •
+- New Day Dawn •
+- New Kingston •
+- New Madrid •
+- New Myths •
+- New Rock City •
+- NEW ROYALTY •
+- New York •
+- New York Funk Exchange •
+- New York Junk •
+- Next 2 the Tracks •
+- NGHBRS •
+- Niall Connolly •
+- Nicholas Nicholas •
+- Nicholas Payton •
+- Nicholas Zork •
+- Nick Catchdubs •
+- Nick Finzer •
+- Nick Garrie •
+- Nick Gianni's Evolution •
+- Nick Howard •
+- Nick Kellie •
+- Nick Turner •
+- Nick Warren •
+- Nick Waterhouse •
+- Nickel and Dime Ops •
+- Nicki Bluhm & the Gramblers •
+- Nicola •
+- Nicolas King •
+- Nicole Atkins •
+- Nicole Henry •
+- Nicole Moudaber •
+- Nicole Zuraitis •
+- Nigel Hall •
+- Night Beats •
+- Night Moves •
+- Night Train •
+- Nightbox •
+- Nightmare River Band •
+- Nikhil P. Yerawadekar & Low Mentality •
+- Nikki Briar •
+- Nikki Glaser •
+- Nikki Hill •
+- Nikki Lane •
+- Nikolett Pankovits •
+- Nimo Kally •
+- Nina Kraviz •
+- Nina Yasmineh •
+- Nir Felder •
+- NO •
+- No BS! Brass Band •
+- No Grave Like the Sea •
+- No Joy •
+- No Regular Play •
+- Noa •
+- Noam Pikelny •
+- Noise New York •
+- Nonstop to Cairo •
+- North of Nashville •
+- Norwegian Arms •
+- Nothing •
+- Nothing More •
+- Now Vs Now •
+- Nu-look •
+- Nublu Orchestra •
+- Nude Beach •
+- Numasbala •
+- Nutritious •
+- Ny Gypsy All •
+- Nymph •
+- o •
+- O Paradiso •
+- Obits •
+- Obituary •
+- OBN III'S •
+- Ocean Carolina •
+- Oceanographer •
+- Oddisee •
+- Odka •
+- Oh Land •
+- Ohnomoon •
+- Old Best Friend •
+- Old Monk •
+- Old Robes •
+- Oli Rockberger •
+- Olivia Mancini •
+- Omnia Hegazy •
+- On an On •
+- On Ka'a Davis •
+- Oneida •
+- Oneirogen •
+- Oneohtrix Point Never •
+- Only Living Boy •
+- Ookay •
+- Ora Cogan •
+- Orca Age •
+- Orgone •
+- Orly •
+- Orrin Evans Quintet •
+- Orville Davis •
+- Oscar G •
+- Oscar P •
+- Osekre & the Lucky Bastards •
+- Otep •
+- Ours •
+- overlake •
+- Overlord •
+- OWEL •
+- Oz Noy •
+- Ozomatli •
+- p •
+- Paget Brewster •
+- Pajama People •
+- Paleface •
+- Palehound •
+- Palmyra Delran •
+- Panzie •
+- Paper Bird •
+- Paper Route •
+- Paperhaus •
+- Paquito D'rivera •
+- Paradise Fears •
+- Park After Dark •
+- Parkington Sisters •
+- Parquet Courts •
+- Party Supplies •
+- Passafire •
+- Pat Martino •
+- Pat Martino Organ Trio •
+- Pat McGee Band •
+- Patricia Barber Quartet •
+- Patricia Santos •
+- Patrick Grooves •
+- Pattern Is Movement •
+- Patti Rothberg •
+- Paul Barrere •
+- Paul Burch •
+- Paul Sforza •
+- Paul Tabachneck •
+- Paul Thorn •
+- Paula Cole •
+- Pauline Kim Harris •
+- PAWS •
+- Pedrito Martinez Group •
+- Peekaboo Pointe •
+- Peewee Moore •
+- Pegasus Warning •
+- Penguin Prison •
+- Penrose •
+- Pentagram •
+- People With Teeth •
+- PEP •
+- Perfect Pussy •
+- Periphery •
+- Pete Francis •
+- Pete Lanctot •
+- Peter Asher •
+- Peter Baron •
+- Peter Bradley Adams •
+- Peter Case •
+- Peter Mulvey •
+- Peter Squires •
+- Peter Stampfel •
+- Peter Wise •
+- Peter Wolf •
+- Petros Klampanis •
+- Phebe Starr •
+- Phillybloco •
+- Phoebe Legere •
+- Phoebe Novak •
+- Phone Home •
+- Phony Ppl •
+- Phosphorescent •
+- Photoreal •
+- Pierce Turner •
+- Pierre Bensusan •
+- PigPen Theatre Co. •
+- Pile •
+- Pilgrim •
+- Pilot to Gunner •
+- Pinch •
+- Pine Barons •
+- Pinegrove •
+- pinkwing •
+- Pistolera •
+- Pit Brothers Band •
+- PitchBlak Brass Band •
+- Pixies •
+- Plain White T's •
+- Planning For Burial •
+- Plates of Cake •
+- Plume Giant •
+- Plutonian Ode •
+- Pocket Hercules •
+- Pokey LaFarge •
+- Polly Ferman •
+- Ponies Will Bite You •
+- Pontiak •
+- Pool Cosby •
+- Poor Man's Whiskey •
+- Pop. 1280 •
+- Porcelain Raft •
+- Porches •
+- Port St. Willow •
+- Portmanteaux •
+- Postcrypt Coffeehouse •
+- Potty Mouth •
+- Poundcake •
+- pow wow! •
+- Pralaya •
+- Pre War •
+- Prefuse 73 •
+- Prima •
+- Primitive Man •
+- Primitive Weapons •
+- Prince Ruperts Drops •
+- Prism House •
+- PROM •
+- Prosumer •
+- Psychic TV •
+- Pure Bathing Culture •
+- Pure X •
+- Purling Hiss •
+- Purmamarca •
+- Pushmethod •
+- Puss n Boots •
+- q •
+- Quiet Company •
+- Quiet Hollers •
+- Quilt •
+- Quincy Mumford & the Reason Why •
+- Quincy Vidal •
+- Quitty and the Don'ts •
+- r •
+- Rabbi Darkside •
+- Rabbit Rabbit •
+- Raccoon Fighter •
+- Race to Dawn •
+- Rachael Yamagata •
+- Rachel Allyn •
+- Rachel Ann Weiss •
+- Rachel Brotman •
+- Rachel Brown •
+- Rachel Eckroth •
+- Radiation City •
+- Radiator King •
+- Radical Dads •
+- Rael •
+- Rahzel •
+- Rajdulari •
+- Rajna Swaminathan •
+- Rakim •
+- Ralph Alessi •
+- Ramona •
+- Randy Brecker •
+- Randy Weston African Rhythms Quintet •
+- Raq •
+- Rarefaction •
+- Rasputina •
+- Rathborne •
+- Ratking •
+- Raven •
+- Ravi Coltrane •
+- Ray Marchica •
+- Ray Wylie Hubbard •
+- Raya Brass Band •
+- Rebecca Jordan •
+- Rebecca Loebe •
+- Rebecca Pronsky •
+- Rebelmatic •
+- Reckless Kelly •
+- Recloose •
+- Red •
+- Red Baraat •
+- Red Datsun •
+- Red Dirt Rangers •
+- Red Fang •
+- Red Molly •
+- Red Wanting Blue •
+- Reflections •
+- Reformed Whores •
+- Regina Carter •
+- Regret the Hour •
+- Reigning Sound •
+- Renaldo the Ensemble •
+- Rene Lopez •
+- Rene Marie •
+- Renee Dupuis •
+- Renee Rosnes •
+- Reputante •
+- Reserved for Rondee •
+- Resolution15 •
+- Restorations •
+- Retch •
+- Retox •
+- Revenge •
+- Revolution, I Love You •
+- Rey Pila •
+- Rhett Miller •
+- Rhino House Band •
+- Rhonda Ross •
+- Rhythm and Stealth •
+- Richard Barone •
+- Richard Buckner •
+- Richard Cheese & Lounge Against the Machine •
+- Richard Lloyd •
+- Richard Shindell •
+- Richie Hawtin •
+- Richie Ramone •
+- Rick Barry •
+- Rick Derringer •
+- Righteous Girls •
+- Rioux •
+- Rittz •
+- River City Extension •
+- River Whyless •
+- Rnb Spotlight •
+- Rob Garza •
+- Robbie Fulks •
+- Robbie Maxx •
+- Robby Krieger of the Doors •
+- Robert DeLong •
+- Robert Glasper Experiment •
+- Robert Leslie •
+- Robert Sarazin Blake •
+- Robin Eubanks •
+- Robin's Egg Blue •
+- Robot Death Kites •
+- Robot Princess •
+- Rockie Fresh •
+- Rocky and the Pressers •
+- Roger Creager •
+- Roger Street Friedman •
+- Rogue Wave •
+- Roman Filiu •
+- Romance •
+- Ron Carter Big Band •
+- Ron Jackson •
+- Rookie of the Year •
+- Room Full of Strangers •
+- Roosevelt Dime •
+- Ropetree •
+- Rosana •
+- Rosco Bandana •
+- Rose Cousins •
+- Rosie 151 •
+- Rosie Cheeks •
+- Rosita Kess •
+- Rosy Street •
+- Roy Ayers •
+- Rozes •
+- Rubblebucket •
+- Ruby My Dear (NY) •
+- Rudimental •
+- Ruler •
+- runaway dorothy •
+- Rush Midnight •
+- Russ Nolan •
+- Rusty Truck •
+- Ruut •
+- RVIVR •
+- Ryan Crosson •
+- Ryan Keberle •
+- Ryan M. Brewer •
+- ryan martin •
+- Ryan Star •
+- s •
+- S.e.m;i •
+- S.W.F •
+- Sachal Vasandani •
+- Sage Francis •
+- Saint Pepsi •
+- Saint Rich •
+- Saints of Valory •
+- Saintseneca •
+- Sam Bush •
+- Sam Smith •
+- Samantha Crain •
+- Sammy Bravo •
+- San Cisco •
+- Sara •
+- Sara Serpa •
+- Sara Watkins •
+- Sarah Factor •
+- Sarah Jarosz •
+- Sarah Neufeld •
+- Sarolea •
+- Sasha •
+- Sasha Dobson •
+- Saturday Drive •
+- Saves The Day •
+- Savoir Adore •
+- Savoy Brown •
+- Scale of Six •
+- Schaffer The Darklord •
+- School Night! Featuring: •
+- Science •
+- Scott Barkan •
+- Scott Decarlo •
+- Scott Grooves •
+- Scott H. Biram •
+- Scott Sharrard •
+- Screaming Females •
+- Sea of Bones •
+- Sean Coleman and the Quasars •
+- Sean Harkness •
+- Sean Rowe •
+- Seasick Mama •
+- Sebadoh •
+- Secret Chiefs 3 •
+- Secret Society •
+- Selah Sue •
+- Self Defense Family •
+- Self Help •
+- Sera Cahoone •
+- Serena Jost •
+- Session Victim •
+- Seth Glier •
+- Seth Herzog •
+- Seth Herzog's Sweet •
+- Seth Kessel •
+- Setting Sun •
+- Sex Mob •
+- Sexy Neighbors •
+- SFJazz Collective •
+- Shai Hulud •
+- Shai Maestro •
+- Shaina Taub •
+- Shakey Graves •
+- Shalom •
+- Shana Falana •
+- Shannon and The Clams •
+- Sharam •
+- Sharel •
+- Sharkmuffin •
+- Sharon Clark •
+- Shay Leonia •
+- Shayfer James •
+- Shayna Leigh •
+- She Said Fire •
+- Sheila Jordan •
+- Shelby Lynne •
+- Shelley Nicole's blaKbushe •
+- Shemekia Copeland •
+- SHEPPARD •
+- Sherita •
+- Sherman Ewing •
+- Sheron •
+- Shigeto •
+- Shilpa Ray •
+- Shinobi Ninja •
+- Shirley House •
+- Shlohmo •
+- Shonna Tucker & Eye Candy •
+- Shooter Jennings •
+- Shoshana Bean •
+- Shy Hunters •
+- Silent Rider •
+- Silent Servant •
+- Silver Arrow Band •
+- Silverstein •
+- Simon Patterson •
+- Simon Townshend •
+- Simone Felice •
+- Sinden •
+- Single Red Cent •
+- Sink Tapes •
+- Sinkane •
+- Sir Sly •
+- Sirius Quartet •
+- Sister Wolf •
+- Sizzy Rocket •
+- SKATERS •
+- Ski Lodge •
+- Skinny Bones •
+- Skinny Lister •
+- Sky Disco - Guitarist •
+- Sky Picnic •
+- Sky White Tiger •
+- Sky-pony •
+- Slaid Cleaves •
+- Slambovian Circus of Dreams •
+- Slavic Soul Party •
+- Sleepyhead •
+- Slick Rick •
+- Slim Chance & the Gamblers •
+- Slim Wray •
+- Slingshot Dakota •
+- Slonk Donkerson •
+- Slow Knights •
+- SLV •
+- Small Black •
+- Small Houses •
+- Smax Music •
+- Smif-N-Wessun •
+- Smile From Tokyo •
+- Smoke DZA •
+- Smokey Robotic •
+- Smoota •
+- Snarky Puppy •
+- Snowmine •
+- So Percussion •
+- Soapbox Army •
+- Soda Shop •
+- Sofia Ribeiro •
+- Sofia Tosello •
+- SOHN •
+- Soilwork •
+- Sol Cat •
+- Solar Circus •
+- Someone Still Loves You Boris Yeltsin •
+- Somi •
+- Son Lux •
+- Sondre Lerche •
+- Sonny & The Sunsets •
+- Sons of an Illustrious Father •
+- Sophie Auster •
+- Sophistafunk •
+- Soraia •
+- Soul Candy •
+- Soul Clap •
+- Soul Clap & Dance •
+- Soul Khan •
+- Soul Out Loud •
+- Spacebeard •
+- Spanglish Fly •
+- Spank •
+- Spank Rock •
+- Spanking Charlene •
+- Speed The Plough •
+- Speedy Ortiz •
+- Spencer Day •
+- Spinn •
+- Spires •
+- Spirit Family Reunion •
+- SPLASHH •
+- Sponge •
+- St. Lenox •
+- St. Paul and the Broken Bones •
+- Stacey Kent •
+- Stacey Pullen •
+- StaG. (CA) •
+- Stanley Jordan •
+- Stanley Jordan Trio •
+- Star and the Sea •
+- Starbolt 9 •
+- Starina •
+- Starlight Girls •
+- Starz •
+- Statik Selektah •
+- STATIQBLOOM •
+- Steady Sun •
+- Steafán Hanvey •
+- Stefon Harris •
+- Stella Blue's Band •
+- Stellar Ego •
+- Stellar Young •
+- Stephane Wrembel •
+- Stephen Brodsky •
+- Stephen Chopek •
+- Stephen Clair Trio •
+- Stephen Kellogg •
+- Stereo Crowd •
+- Stereobird •
+- Steve Forbert •
+- Steve Gunn •
+- Steve Johnson •
+- Steve Kimock •
+- Steve Kuhn •
+- Steve Kuhn Trio •
+- Steve Moakler •
+- Steve Shiffman & The Land Of No •
+- Steve Smith •
+- Steve Wexler and The Top Shelf •
+- Steve Wilson Quintet •
+- Steve Wynn And The Miracle 3 •
+- Steven Snowden •
+- Stevie B Wolf •
+- Stick Figure •
+- Stick Men •
+- Stormy Leather •
+- Stranahan •
+- Strand of Oaks •
+- Stratospheerius •
+- Streeter Seidell •
+- Streets of Laredo •
+- String Noise •
+- Strive •
+- STRNGRS •
+- Strongwater •
+- Stuff You Should Know •
+- Stumblebum Brass Band •
+- Sturgill Simpson •
+- Subhumans •
+- Such •
+- Such Hounds •
+- Suffocation •
+- Summit •
+- Sun Araw •
+- Sun Club •
+- Sun Ladders •
+- Sunset Guns •
+- Super Hi-Fi •
+- Supersuckers •
+- Surf City •
+- Surfer Blood •
+- Sursum Verbo •
+- Survival •
+- Susanne Sundfør •
+- Svetlana •
+- Swamp Cabbage •
+- Swampboots •
+- Sweater Beats •
+- Sweet Cyanide •
+- Sweet Fix •
+- Sweet Soubrette •
+- Swift Technique •
+- Swimm •
+- Swingin' Utters •
+- Swirlies •
+- SWV •
+- Sylvan Esso •
+- Sylvana Joyce and the Moment •
+- Symptom 7 •
+- Syvia •
+- SZA •
+- Søren Juul •
+- t •
+- T-vice •
+- T. Hardy Morris •
+- Taimur Agha •
+- Taj Mahal •
+- Taking Meds •
+- Talia Billig •
+- Talib Kweli •
+- Tall Days •
+- Tamaryn •
+- Tammy Scheffer •
+- Tangiers Blues Band •
+- Tanner •
+- Tanner Walle •
+- Tansy •
+- Tanya Tagaq •
+- TAUK •
+- Taylor Dayne •
+- Taylor Simone •
+- Tea Leaf Green •
+- Teddy Thompson •
+- Teedra Moses •
+- Teen Commandments •
+- Teen Girl Scientist Monthly •
+- teletextile •
+- Television •
+- Tempers •
+- Temples •
+- Ten Ton Mojo •
+- Terence Blanchard •
+- Thaddeus Strauss •
+- Thalia Zedek •
+- Thana Alexa •
+- Thank You Scientist •
+- Thao & The Get Down Stay Down •
+- That Handsome Devil •
+- That Noble Fury •
+- The Loose Canyons •
+- The A-bones •
+- The Above •
+- The Acacia Strain •
+- The Academics •
+- The Afternoon Edition •
+- The Alexis P. Suter Band •
+- The Amigos Band •
+- The Amputees •
+- The Appleseed Cast •
+- The Argentine •
+- The Audible Doctor •
+- The Aye-ayes •
+- The Baam •
+- The Bad Plus •
+- The Balboans •
+- The Band of Heathens •
+- The Belle Brigade •
+- The Benny Green Trio •
+- The Big Quiz Thing •
+- The Birdland Big Band •
+- The Bitter Poet •
+- The Black Lillies •
+- The Blackout •
+- The Bliss Jockeys •
+- The Bloody Muffs •
+- The Bob Polding Band •
+- The Body •
+- The Bones of J.R. Jones •
+- The Boot Heel Drag •
+- The Boston Boys •
+- The Bothers •
+- The Bots •
+- The Bottom Dollars •
+- The Box Tiger •
+- The Bridge Trio •
+- The Bright Smoke •
+- The Brighton Beat •
+- The Broadcast (US) •
+- The Broken Crowns •
+- The Brooklyn Rhythm Band •
+- The Brothers Comatose •
+- The Brummy Brothers •
+- The Bushwick Book Club •
+- The Business •
+- The Byzantones •
+- The Can't Tells •
+- The Candy Shop Boys •
+- The Canon Logic •
+- The Carper Family •
+- The Cave Singers •
+- The Charles Warren Orchestra •
+- The Chimes •
+- The Chop Tops •
+- The Coathangers •
+- The Cold Roses •
+- The Complete Unknowns •
+- The Copyrights •
+- The Corduroy Suit •
+- The Creation Myth •
+- The Creeptones •
+- The Cringe •
+- The Crookes •
+- The Cryptkeeper Five •
+- The Cynz •
+- The Dallas Moore Band •
+- The Damnwells •
+- The Dance Party •
+- The Dardys •
+- The Dead Exs •
+- The Defibulators •
+- The Delorean Sisters •
+- The Depth and the Whisper •
+- The Dick Jokes •
+- The Dictators NYC •
+- The Dig •
+- The Dodos •
+- The Doubleclicks •
+- The Dough Rollers •
+- The Dove & the Wolf •
+- The Dust Rays •
+- The Dustbowl Revival •
+- The Earthman Experience •
+- The Easy Outs •
+- The Echo-Friendly •
+- The Ed Palermo Big Band •
+- The End Men •
+- The Engagements •
+- The Everymen •
+- The Expendables •
+- The Fabulous Miss Wendy •
+- The Feelies •
+- The Felice Brothers •
+- The Figgs •
+- The Fixx •
+- The Flavr Blue •
+- The Flies •
+- The Flowdown •
+- The Front Bottoms •
+- The Future Scares Me •
+- The Gantry •
+- The Ghost Inside •
+- The Ghost of a Saber Tooth Tiger •
+- The Glorious Veins •
+- The Golden Furs •
+- The Goodnight Darlings •
+- The Grahams •
+- The Grawlix •
+- The Great American Novel •
+- The Green •
+- The Green Gallows •
+- The Gregory Brothers •
+- The Growlers •
+- The Hairs •
+- The Halley DeVestern Band •
+- The Handsome Family •
+- The Harmonica Lewinskies •
+- The Hate My Day Jobs •
+- The Heaves •
+- The Henry Millers •
+- The Hipstones •
+- The Hollows •
+- The Hood Internet •
+- The Hot Sardines •
+- The Howlin' Brothers •
+- The Hunting Party •
+- The Independents •
+- The Indobox •
+- The Infamous Stringdusters •
+- The James Rocket •
+- The Jazz June •
+- The Jersey Doors •
+- The Jim Cullum Jazz Band •
+- The Jon Spencer Blues Explosion •
+- The Juan Maclean •
+- The Juggs •
+- The Kickdrums •
+- The Knocks •
+- The Kominas •
+- The Last Bison •
+- The Lawsuits •
+- The Letter Yellow •
+- The Lighthouse and The Whaler •
+- THE LIVE ONES •
+- The Living Kills •
+- The Liza Colby Sound •
+- The London Souls •
+- The Lonely Biscuits •
+- The Lonely Wild •
+- The Looking •
+- The Looters •
+- The Lord Calverts •
+- The Lounge Act •
+- The Ludlow Thieves •
+- The Majorleans •
+- The Marquee •
+- The Martinez Brothers •
+- The McLovins •
+- The Meaning of Life •
+- The Melodic •
+- The Melody Allegra Band •
+- The Memphis Dawls •
+- The Menzingers •
+- The Micks •
+- The Midnight Hollow •
+- The Milk Carton Kids •
+- The Morningsiders •
+- The Motet •
+- The Mothers •
+- The Motor Tom •
+- The Movement •
+- The Muffs •
+- The Mystery Lights •
+- The Mystic Underground •
+- The Møntauk Prøject •
+- The Narrowbacks •
+- The Nashville Attitude •
+- The Nerds •
+- The New Mastersounds •
+- The New Orleans Suspects •
+- The Nines •
+- The Noise FM •
+- The Norm Hathaway Big Band •
+- The Novel Ideas •
+- The Nth Power •
+- The Ocean Blue •
+- The Oh Hellos •
+- The Old Fashions •
+- The Orrin Evans Trio •
+- The Pack A.D. •
+- The Paisley Fields •
+- The Paper Kites •
+- The Paxtons •
+- The Pendulum Swings •
+- The Perennials •
+- The Phantoms •
+- The Planes (NYC) •
+- The Pluto Moons •
+- The Post Nobles •
+- The Private Eyes •
+- The Prodigals •
+- The Progress •
+- The Protagonist •
+- The Proud Flesh •
+- The Rad Trads •
+- The Rationales •
+- The Red Paintings •
+- The Revelers •
+- The Revivalists •
+- The Ricecookers •
+- The Robin Electric •
+- The Rocketboys •
+- The Rotaries •
+- The Royal Noise •
+- The Rub •
+- The Rubens •
+- The Sadies •
+- The Saturday Giant •
+- The Screening •
+- The Sea, The Sea •
+- The Secret Show •
+- The Sensational Soul Cruisers •
+- The Shackeltons •
+- The Sharp Things •
+- The Shiners •
+- The Show Ponies •
+- The Sidekicks •
+- The Skatalites •
+- The Sketches •
+- The Skins •
+- The Sky Captains of Industry •
+- The Slackers •
+- The So So Glos •
+- The Sofa Club •
+- The Soft Moon •
+- The Soil & the Sun •
+- The Sonics •
+- The Sons & Heirs •
+- The Soon-Another •
+- The Spanish Channel •
+- The Spring Standards •
+- The Stationary Set •
+- The Staves •
+- The Steepwater Band •
+- The Stolen •
+- The Stone Foxes •
+- The Story Collider •
+- The Summer Set •
+- The Sunday Blues •
+- The Suzan •
+- The Sway Machinery •
+- The Sweater Songs •
+- The Swellers •
+- The Thermals •
+- The Things They Carried •
+- The Tierney Sutton Band •
+- The Tontons •
+- The Tossers •
+- The Trews •
+- The Unattended •
+- The Uncluded •
+- The Underachievers •
+- The Unstoppable Death Machines •
+- The Upper Crust •
+- The Vansaders •
+- The Veda Rays •
+- The Veevees •
+- The Vegabonds •
+- The Venetia Fair •
+- The Vibrators •
+- The Villains •
+- The Voluptuous Horror Of Karen Black •
+- The Voodoo Fix •
+- The Waldos •
+- The Weeks •
+- The Werks •
+- The Westerlies •
+- The Whigs •
+- The Whiskey Gentry •
+- The Wild Northern •
+- The Wonder Years •
+- The Wood Brothers •
+- The Word Alive •
+- The Yum Dee Days •
+- The Zen Tricksters •
+- Thee Shambels •
+- Theo Bleckmann •
+- Theo Croker •
+- Theologian •
+- These Wild Plains •
+- This Frontier Needs Heroes •
+- This Is All Now •
+- Thomas Bryan Eaton and Hobson's Choice •
+- Thomas Wesley Stern •
+- Thomas Wynn & the Believers •
+- Those Darlins •
+- Those Mockingbirds •
+- Three Bad Jacks •
+- Three Thousand Rivers •
+- Throw Vision •
+- Throwing Shade •
+- Thundercat •
+- Thurston Moore •
+- Tica Douglas •
+- Tiga •
+- Tiger Darrow •
+- Tiger Flowers •
+- Tijuana Panthers •
+- Tim Barry •
+- Tim Berne's Snakeoil •
+- Tim Fite •
+- Tim Hagans •
+- tim haufe •
+- Tim Pourbaix •
+- Tim Reynolds •
+- Tim Reynolds & Tr3 •
+- Time Jumpers •
+- Timo Andres •
+- Tiny Hazard •
+- Tiny Victories •
+- Tipsy Oxcart •
+- Toad the Wet Sprocket •
+- Today Is the Day •
+- Todd Baker •
+- Todd Carey •
+- Tom Carter •
+- Tom Freund •
+- Tom Keifer •
+- Tombs •
+- Tommy Kodak & the Loaders •
+- Tonight Alive •
+- Tonstartssbandht •
+- Tony Harnell •
+- Tony Tedesco •
+- Tor Miller •
+- Torche •
+- Torres •
+- Tortured Soul •
+- Total Slacker •
+- Toubab Krewe •
+- Toxic Holocaust •
+- Toy •
+- Toy Cities •
+- Toy Soldiers •
+- Tracy Thorne •
+- Tragedy (All Metal Tribute to the Bee Gees & Beyond) •
+- Trails and Ways •
+- Trails to Town •
+- Trampled Under Foot •
+- Trans Charger Metropolis •
+- Transit •
+- Trapped in Static •
+- Travis Scott •
+- Treasure Fingers •
+- Trevor the Trashman •
+- Tribal Seeds •
+- Trio Feral.... Jonathan Maron •
+- Trisha Ivy •
+- Tristan Omand •
+- Trixie Little •
+- Trixie Little & the Evil Hate Monkey •
+- Trumpet Grrrl •
+- Truth •
+- Truthers •
+- Tuff Sunshine •
+- Turkuaz •
+- Turtle Soup •
+- Tv Tramps •
+- Twin Berlin •
+- Twin Guns •
+- Twin Peaks •
+- Twin Wave •
+- Two Man Advantage •
+- Two Seconds to Midnight •
+- Ty Dolla $ign •
+- Ty Stephens •
+- Tyler Hilton •
+- Tyler Sherritt •
+- Tyrone Wells •
+- Tyshawn Sorey Trio •
+- u •
+- U.S. Royalty •
+- Ufotofu •
+- Ula Ruth •
+- Ultrasphinx •
+- Underground Horns •
+- Union Street Preservation Society •
+- Unknown Mortal Orchestra •
+- Up for Nothing •
+- Urban Cone •
+- Ursula 1000 •
+- Usurp The King •
+- v •
+- Vacationer •
+- Valerie Orth •
+- Valient Thorr •
+- Vana Gierig •
+- Vandana Jain •
+- Vanna •
+- Vatican Shadow •
+- Vaz •
+- Veil of Maya •
+- Vektor •
+- Venlo •
+- Venus X •
+- Verde •
+- Vernon Reid •
+- Versus •
+- Viceroy •
+- Victor Calderone •
+- Victor Lewis •
+- Video Beast •
+- Video Daughters •
+- Vijay Iyer •
+- Vijay Iyer Trio •
+- Vikesh Kapoor •
+- Viking •
+- Villagers •
+- villains in love •
+- Vinicius Cantuaria Quintet •
+- Vinyette •
+- Violent Mae •
+- Violent Past •
+- Violet Machine •
+- Viva •
+- Vladimir Cetkar •
+- Voices Of Ascension •
+- Vomitface •
+- Von Mons •
+- Vulfpeck •
+- Vulture Shit •
+- w •
+- Wailin Storms •
+- Waiting for Henry •
+- Wake Island •
+- Waking Heroes •
+- Walk Off The Earth •
+- Walking Shapes •
+- Wallace Roney •
+- Walter Lure & the Waldos •
+- Walter Parks •
+- War on Women •
+- Ward White •
+- Wardell •
+- Warpaint •
+- Warren Wolf •
+- Warrior Soul •
+- Water (NYC) •
+- Water Liars •
+- Water Seed •
+- Watts Family Reunion Band •
+- Wavves •
+- Wax Darts •
+- Wax Poetic •
+- Waxahatchee •
+- Waylon Speed •
+- Wayne Hancock •
+- We Are Scientists •
+- We Are the 9 •
+- Wednesday 13 •
+- Weedeater •
+- Weekend •
+- Weeknight •
+- Weep •
+- Welcome to Night Vale •
+- Welf Dorr Unit •
+- Whale Belly •
+- Whale Blue Eye •
+- What Model Citizens •
+- What Moon Things •
+- What Prey Tell •
+- Wheatus •
+- When Particles Collide •
+- Whetherman •
+- Whirr •
+- Whiskey Bitches •
+- White Collar Crime •
+- White Denim •
+- White Fence •
+- White Like Fire •
+- Whitehorse •
+- Whores. •
+- Wicked Messengers •
+- Widowspeak •
+- WigJam •
+- Wild Belle •
+- Wild Child •
+- Wild Cub •
+- Wild Leaves •
+- Wild Nothing •
+- Wild Ponies •
+- Wild Yaks •
+- Wildcat Apollo •
+- Will Bernard •
+- Will Calhoun •
+- Will Dailey •
+- Will Hoge •
+- Will Sellenraad •
+- Will Stratton •
+- William Control •
+- William Tyler •
+- Williamsburg Salsa Orchestra •
+- Willie Villegas y Entre Amigos •
+- Willy Mason •
+- Willy Porter •
+- Wilsen •
+- Windhand •
+- Windsor Circle •
+- Wino •
+- Winter Nights •
+- Wire •
+- Wise Girl •
+- Woes •
+- Wolf Eyes •
+- Wooden Indian Burial Ground •
+- Woods •
+- Woods of Arden •
+- Woodsman •
+- Woody Pines •
+- Workman Song •
+- World Party •
+- Worriers •
+- Wovenhand •
+- Wreaths •
+- Wreck and Reference •
+- Wussy •
+- Wyatt •
+- Wyldlife •
+- x •
+- X Ambassadors •
+- Xavier Cardriche •
+- Xenia Rubinos •
+- Xenia Sky •
+- Xiomara Laugart •
+- Xny •
+- XXYYXX •
+- y •
+- Y & T •
+- Yabadum •
+- YACHT •
+- Yacht Rock Revue •
+- Yael Kraus •
+- Yazan •
+- Yellowjackets •
+- Yemen Blues •
+- Yes William •
+- Ymusic •
+- Yo Mama's Big Fat Booty Band •
+- Yob •
+- Yonder Mountain String Band •
+- YOU •
+- You Bred Raptors •
+- You Won't •
+- You're the Expert •
+- Young Empires •
+- Young Galaxy •
+- Young Magic •
+- Your 33 Black Angels •
+- Your Ex-Girlfriends •
+- Youth Code •
+- Youth Posse •
+- Yummy Bingham •
+- Yvette •
+- z •
+- Zach Brock •
+- Zach Deputy •
+- Zachary Cale •
+- Zachery Allan Starkey •
+- Zak Smith •
+- Zakk Wylde •
+- Zenbi •
+- Zevious •
+- zimmer •
+- Zo! •
+- Zoe Sundra •
+- Zomboy •
+- Zomes •
+- Zongo Junction •
+- Zoso – the Ultimate Led Zeppelin Experience •
+- ZulÃ •
+- Ásgeir •

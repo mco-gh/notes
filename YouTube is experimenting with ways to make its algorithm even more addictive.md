@@ -1,0 +1,67 @@
+YouTube is experimenting with ways to make its algorithm even more addictive
+
+### [Artificial Intelligence](https://www.technologyreview.com/artificial-intelligence/) / [Machine Learning](https://www.technologyreview.com/artificial-intelligence/machine-learning/)
+
+# YouTube is experimenting with ways to make its algorithm even more addictive
+
+## Publicly, the platform says it’s trying to do what it can to minimize the amplification of extreme content. But it’s still looking for ways to keep users on the site.
+
+by [Karen Hao](https://www.technologyreview.com/profile/karen-hao/)
+Sep 27, 2019
+
+Recommendation algorithms are some of the most powerful machine-learning systems today because of their ability to shape the information we consume. YouTube’s algorithm, especially, has an outsize influence. The platform is estimated to be second only to Google in web traffic, and [70%](https://www.cnet.com/news/youtube-ces-2018-neal-mohan/) of what users watch is fed to them through recommendations.
+
+In recent years, this influence has come under heavy scrutiny. Because the algorithm is optimized for getting people to engage with videos, it tends to offer choices that reinforce what someone already likes or believes, which can create an addictive experience that shuts out other views. This also often rewards the most extreme and controversial videos, which [studies](https://datasociety.net/output/alternative-influence/) have shown can quickly push people into [deep rabbit holes of content](https://www.nytimes.com/interactive/2019/06/08/technology/youtube-radical.html) and lead to political [radicalization](https://www.nytimes.com/2019/08/11/world/americas/youtube-brazil.html).
+
+While YouTube has publicly said that it’s working on addressing these problems, a [new paper](https://dl.acm.org/citation.cfm?id=3346997) from Google, which owns YouTube, seems to tell a different story. It proposes an update to the platform’s algorithm that is meant to recommend even more targeted content to users in the interest of increasing engagement.
+
+![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 58 60.1' class='jsx-3449101280 js-evernote-checked' data-evernote-id='736'%3e%3cg class='jsx-3449101280 js-evernote-checked' data-evernote-id='737'%3e%3cg class='jsx-3449101280 js-evernote-checked' data-evernote-id='738'%3e%3cg class='jsx-3449101280 js-evernote-checked' data-evernote-id='739'%3e%3cg class='jsx-3449101280 js-evernote-checked' data-evernote-id='740'%3e%3cg class='jsx-3449101280 js-evernote-checked' data-evernote-id='741'%3e%3cpolyline points='42.6%2c18.5 55.9%2c58.6 43.3%2c58.6 39.7%2c49.6 18.9%2c49.6 15.4%2c58.6 2.1%2c58.6 6.7%2c46.2' class='jsx-3449101280 st0 js-evernote-checked' data-evernote-id='742'%3e%3c/polyline%3e%3cg class='jsx-3449101280 js-evernote-checked' data-evernote-id='743'%3e%3cpath d='M38.9%2c19.9c-0.7-2.1%2c0.4-4.3%2c2.5-5c2.1-0.7%2c4.3%2c0.4%2c5%2c2.5c0.7%2c2.1-0.4%2c4.3-2.5%2c5 C41.8%2c23.1%2c39.6%2c22%2c38.9%2c19.9z' class='jsx-3449101280 st1 js-evernote-checked' data-evernote-id='744'%3e%3c/path%3e%3c/g%3e%3cg class='jsx-3449101280 js-evernote-checked' data-evernote-id='745'%3e%3cpath d='M10.3%2c47.7c0.7-2-0.3-4.3-2.4-5.1c-2-0.7-4.3%2c0.3-5.1%2c2.4c-0.7%2c2%2c0.3%2c4.3%2c2.4%2c5.1 C7.3%2c50.8%2c9.6%2c49.8%2c10.3%2c47.7z' class='jsx-3449101280 st1 js-evernote-checked' data-evernote-id='746'%3e%3c/path%3e%3c/g%3e%3c/g%3e%3c/g%3e%3c/g%3e%3cg class='jsx-3449101280 js-evernote-checked' data-evernote-id='747'%3e%3cg class='jsx-3449101280 js-evernote-checked' data-evernote-id='748'%3e%3cpolyline points='37.4%2c39.6 29.9%2c12.5 29.7%2c12.5 22.3%2c38.4 29%2c38.4' class='jsx-3449101280 st0 js-evernote-checked' data-evernote-id='749'%3e%3c/polyline%3e%3cg class='jsx-3449101280 js-evernote-checked' data-evernote-id='750'%3e%3cpath d='M41.1%2c38.3c0.6%2c2.1-0.7%2c4.3-2.8%2c4.9s-4.3-0.7-4.9-2.8c-0.6-2.1%2c0.7-4.3%2c2.8-4.9 C38.4%2c35%2c40.5%2c36.2%2c41.1%2c38.3z' class='jsx-3449101280 st1 js-evernote-checked' data-evernote-id='751'%3e%3c/path%3e%3c/g%3e%3c/g%3e%3c/g%3e%3cg class='jsx-3449101280 js-evernote-checked' data-evernote-id='752'%3e%3cg class='jsx-3449101280 js-evernote-checked' data-evernote-id='753'%3e%3cpolyline points='10.8%2c34.3 22.6%2c1.5 36.2%2c1.5 38.4%2c7.5' class='jsx-3449101280 st0 js-evernote-checked' data-evernote-id='754'%3e%3c/polyline%3e%3cg class='jsx-3449101280 js-evernote-checked' data-evernote-id='755'%3e%3cpath d='M14.5%2c35.5c-0.7%2c2.1-3%2c3.1-5.1%2c2.4c-2.1-0.7-3.1-3-2.4-5.1c0.7-2.1%2c3-3.1%2c5.1-2.4 C14.2%2c31.2%2c15.3%2c33.4%2c14.5%2c35.5z' class='jsx-3449101280 st1 js-evernote-checked' data-evernote-id='756'%3e%3c/path%3e%3c/g%3e%3cg class='jsx-3449101280 js-evernote-checked' data-evernote-id='757'%3e%3cpath d='M34.6%2c8.6c0.7%2c2.1%2c3%2c3.1%2c5.1%2c2.4c2.1-0.7%2c3.1-3%2c2.4-5.1c-0.7-2.1-3-3.1-5.1-2.4 C34.9%2c4.3%2c33.9%2c6.6%2c34.6%2c8.6z' class='jsx-3449101280 st1 js-evernote-checked' data-evernote-id='758'%3e%3c/path%3e%3c/g%3e%3c/g%3e%3c/g%3e%3c/g%3e%3c/g%3e%3c/svg%3e)
+
+#### Sign up for **The Algorithm** — artificial intelligence, demystified
+
+Also stay updated on MIT Technology Review initiatives and events?
+YesNo
+
+Here’s how YouTube’s recommendation system [currently works](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45530.pdf). To populate the recommended-videos sidebar, it first compiles a shortlist of several hundred videos by finding ones that match the topic and other features of the one you are watching. Then it ranks the list according to the user’s preferences, which it learns by feeding all your clicks, likes, and other interactions into a machine-learning algorithm.
+
+Among the proposed updates, the researchers specifically target a problem they identify as “implicit bias.” It refers to the way recommendations themselves can affect user behavior, making it hard to decipher whether you clicked on a video because you liked it or because it was highly recommended. The effect is that over time, the system can push users further and further away from the videos they actually want to watch.
+
+To reduce this bias, the researchers suggest a tweak to the algorithm: each time a user clicks on a video, it also factors in the video’s rank in the recommendation sidebar. Videos that are near the top of the sidebar are given less weight when fed into the machine-learning algorithm; videos deep down in the ranking, which require a user to scroll, are given more. When the researchers tested the changes live on YouTube, they found significantly more user engagement.
+
+Though the paper doesn’t say whether the new system will be deployed permanently, Guillaume Chaslot, an ex-YouTube engineer who now runs AlgoTransparency.org, said he was “pretty confident” that it would happen relatively quickly: “They said that it increases the watch time by 0.24%. If you compute the amount, I think that’s maybe tens of millions of dollars.”
+
+Several experts who reviewed the paper said the changes could have perverse effects. “In our research, we have found that YouTube’s algorithms created an isolated far-right community, pushed users toward videos of children, and promoted misinformation,” Jonas Kaiser, an affiliate at the Berkman Klein Center for Internet & Society, said. “On the fringes, this change might […] foster the formation of more isolated communities than we have already seen.” Jonathan Albright, the director of the digital forensics initiative at the Tow Center for Digital Journalism, said that while “reducing position bias is a good start to slow the low-quality content feedback loop,” in theory the change could also further favor extreme content.
+
+Becca Lewis, a former researcher at Data & Society who studies online extremism, said that it was difficult to know how the changes would play out. “That’s true for YouTube internally as well,” she said. “There are so many different communities on YouTube, different ways that people use YouTube, different types of content, that the implications are going to be different in so many cases. We become test subjects for YouTube.”
+
+When reached for comment, a YouTube spokesperson said its engineers and product teams had determined that the changes would not lead to filter bubbles. In contrast, the company expects the changes to decrease them and diversify recommendations overall.
+
+All three outside researchers MIT Technology Review contacted recommend that YouTube spend more time exploring the impact of algorithmic changes through methods such as interviews, surveys, and user input. YouTube has done this to some extent, the spokesperson said, working to remove extreme content in the form of hate speech on its platform.
+
+“YouTube should spend more energy in understanding which actors their algorithms favors and amplifies than how to keep users on the platform,” Kaiser said.
+
+“The frustrating thing is it’s not in YouTube’s business interest to do that,” Lewis added. “But there is an ethical imperative.”
+
+***Corrections: **The impact of YouTube’s change would likely be on the order of tens of millions, not billions, of dollars. The story was also updated on Sept. 27, 2019 at 3:30pm ET to reflect YouTube's response. *![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 288 287.99' class='jsx-671803276 glyph js-evernote-checked' data-evernote-id='797'%3e%3cpath d='M199.49%2c66.67%2c133%2c133.11H66.56V66.67Zm44.31%2c0-66.46%2c66.44V354.66h66.46V133.11H354.56V66.67Z' transform='translate(-66.56 -66.67)' class='jsx-671803276 js-evernote-checked' data-evernote-id='798'%3e%3c/path%3e%3c/svg%3e)
+
+Share
+
+[**](https://www.facebook.com/dialog/share?app_id=140586622674265&display=popup&title=YouTube%20is%20experimenting%20with%20ways%20to%20make%20its%20algorithm%20even%20more%20addictive&description=Publicly%2C%20the%20platform%20says%20it%E2%80%99s%20trying%20to%20do%20what%20it%20can%20to%20minimize%20the%20amplification%20of%20extreme%20content.%20But%20it%E2%80%99s%20still%20looking%20for%20ways%20to%20keep%20users%20on%20the%20site.&href=https%3A%2F%2Fwww.technologyreview.com%2Fs%2F614432%2Fyoutube-algorithm-gets-more-addictive%2F%3Futm_campaign%3Dsite_visitor.unpaid.engagement%26utm_source%3Dfacebook%26utm_medium%3Dsocial_share%26utm_content%3D2019-10-04)
+
+[**](https://twitter.com/intent/tweet?text=YouTube%20is%20experimenting%20with%20ways%20to%20make%20its%20algorithm%20even%20more%20addictive%20-%20via%20%40techreview&url=https%3A%2F%2Fwww.technologyreview.com%2Fs%2F614432%2Fyoutube-algorithm-gets-more-addictive%2F%3Futm_campaign%3Dsite_visitor.unpaid.engagement%26utm_source%3Dtwitter%26utm_medium%3Dsocial_share%26utm_content%3D2019-10-04)
+
+[**](https://reddit.com/submit?text=YouTube%20is%20experimenting%20with%20ways%20to%20make%20its%20algorithm%20even%20more%20addictive&url=https%3A%2F%2Fwww.technologyreview.com%2Fs%2F614432%2Fyoutube-algorithm-gets-more-addictive%2F%3Futm_campaign%3Dsite_visitor.unpaid.engagement%26utm_source%3Dreddit%26utm_medium%3Dsocial_share%26utm_content%3D2019-10-04)
+
+[**](https://linkedin.com/shareArticle?text=YouTube%20is%20experimenting%20with%20ways%20to%20make%20its%20algorithm%20even%20more%20addictive&url=https%3A%2F%2Fwww.technologyreview.com%2Fs%2F614432%2Fyoutube-algorithm-gets-more-addictive%2F%3Futm_campaign%3Dsite_visitor.unpaid.engagement%26utm_source%3Dlinkedin%26utm_medium%3Dsocial_share%26utm_content%3D2019-10-04&summary=Publicly%2C%20the%20platform%20says%20it%E2%80%99s%20trying%20to%20do%20what%20it%20can%20to%20minimize%20the%20amplification%20of%20extreme%20content.%20But%20it%E2%80%99s%20still%20looking%20for%20ways%20to%20keep%20users%20on%20the%20site.)
+
+[**](https://api.whatsapp.com/send?text=YouTube%20is%20experimenting%20with%20ways%20to%20make%20its%20algorithm%20even%20more%20addictive%20https%3A%2F%2Fwww.technologyreview.com%2Fs%2F614432%2Fyoutube-algorithm-gets-more-addictive%2F%3Futm_campaign%3Dsite_visitor.unpaid.engagement%26utm_source%3Dwhatsapp%26utm_medium%3Dsocial_share%26utm_content%3D2019-10-04)
+
+[**](https://www.technologyreview.com/s/614432/youtube-algorithm-gets-more-addictive/mailto:?subject=YouTube%20is%20experimenting%20with%20ways%20to%20make%20its%20algorithm%20even%20more%20addictive&body=From%20MIT%20Technology%20Review%3A%0A%0AYouTube%20is%20experimenting%20with%20ways%20to%20make%20its%20algorithm%20even%20more%20addictive%0APublicly%2C%20the%20platform%20says%20it%E2%80%99s%20trying%20to%20do%20what%20it%20can%20to%20minimize%20the%20amplification%20of%20extreme%20content.%20But%20it%E2%80%99s%20still%20looking%20for%20ways%20to%20keep%20users%20on%20the%20site.%0A%0Ahttps%3A%2F%2Fwww.technologyreview.com%2Fs%2F614432%2Fyoutube-algorithm-gets-more-addictive%2F%3Futm_campaign%3Dsite_visitor.unpaid.engagement%26utm_source%3Demail%26utm_medium%3Dsocial_share%26utm_content%3D2019-10-04)
+
+Link[![copy-link.png](../_resources/1f2d0e76c4674f750857baa589d577a5.png)](https://www.technologyreview.com/s/614432/youtube-algorithm-gets-more-addictive/)
+
+Tagged[Google](https://www.technologyreview.com/g/google/), [AI Ethics](https://www.technologyreview.com/g/ai-ethics/), [Humans and Technology](https://www.technologyreview.com/g/humans-and-technology/)
+
+Author
+[(L)](https://www.technologyreview.com/profile/karen-hao/)
+[Karen Hao](https://www.technologyreview.com/profile/karen-hao/)

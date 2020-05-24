@@ -1,0 +1,15 @@
+tscizzle/IPD_Morality: Run Iterated Prisoner's Dilemma tournaments, Judge the bots according to various morality metrics
+
+# [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='74'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='805' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/tscizzle/IPD_Morality#ipd_morality)IPD_Morality
+
+Run Iterated Prisoner's Dilemma tournaments. Judge the bots according to various morality metrics.
+
+If you define your own bots or morality metrics, I would love for you to let me know about them at `tscizzle@gmail.com`. Also, if you see any mistakes, ways to improve, or just comments in general, feel free to contact me by that email as well.
+
+## [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='75'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='809' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/tscizzle/IPD_Morality#usage)Usage
+
+Fill in the `if __name__ == '__main__':` block at the bottom of `arena.py` (an example is given in `arena.py` already), navigate in your terminal to the root directory of IPD_Morality, and run `python arena.py`.
+
+## [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='76'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='812' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/tscizzle/IPD_Morality#some-cool-stuff)Some Cool Stuff
+
+Robin Berjon made http://darobin.github.io/ipd-morality/, a cool interface for running tournaments, and it even includes an interesting evolutionary variation.

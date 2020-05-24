@@ -1,0 +1,34 @@
+ActivityPub, the secret weapon of the Fediverse – HomeHack
+
+# ActivityPub, the secret weapon of the Fediverse
+
+If you’re new to the Fediverse you should know about ActivityPub and why it gives the Fediverse an edge over other social networks.
+
+![1280px-ActivityPub-logo.png](../_resources/6c2e4c6bfecf431200c20bc3a25379d7.png)
+
+The [Fediverse](http://fediverse.party/) is the name for a number of interconnected (federated) social networks running on free and open software on hundreds or even thousands of servers all over the globe. These servers and networks are owned and maintained by a community of people and, contrary to networks like Facebook or Twitter, are not owned by a single corporation or organisation. Therefore all data and control of that data is distributed over individuals and (mostly) small organisations. That all users of these servers are able to socially interact with each other is because of the protocol behind most of the Fediverse, [ActivityPub](https://en.wikipedia.org/wiki/ActivityPub).
+
+![Fediverse_logo_proposal.png](../_resources/d1864c8565aa6bd29ac5721cc6bec166.png)
+
+Fediverse logo, 5 nodes in pentagon shape with all diagonals, multicoloured Creative Commons CC0 1.0 Universal Public Domain Dedication. Created by Eukombos
+
+Now the boring stuff (which is actually very exciting). ActivityPub is a social networking protocol that enables the user (that’s you) to create, update and delete content over the network. In other words when you type a message, like a video or share a photo, the protocol ensures that these messages are exchanged properly. But that’s not what makes ActivityPub special. Other social networking protocols do the same thing, right? However ActivityPub is both open source software and it’s decentralized. This means that any developer can use the protocol to create an application for social media be it a micro-blog, a photo sharing app or a video sharing platform. Others (in fact anyone) can download the application, install it on a server and join an existing network (federate). Now this server becomes publicly available and you as a user can create an account and automatically join the Fediverse. Popular applications are [Mastodon](https://joinmastodon.org/) (microblogging), [Pleroma](https://git.pleroma.social/pleroma/pleroma) (microblogging), [PeerTube](https://joinpeertube.org/en/) (video-streaming) and [Pixelfed](https://pixelfed.org/) (image sharing)
+
+![Silos_Acatlán_Hidalgo_México_2013-10-11_DD_02.jpg](../_resources/bc8ca75eccdfd946f5992f747776232f.jpg)
+
+Silos in [Acatlán](https://en.wikipedia.org/wiki/Acatl%C3%A1n,_Hidalgo), [Hidalgo](https://en.wikipedia.org/wiki/Hidalgo_(state)), Mexico. (Photo by [Diego Delso](https://www.wikidata.org/wiki/Q28147777), [License CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/), Source: Wikimedia Commons)
+
+ActivityPub prevents that a social media platform becomes a silo (see photo) that can’t communicate with other platforms. Not only can a Mastodon user communicate with users on different servers on Mastodon, perhaps more importantly this user can also communicate e.g with a [Friendica](https://friendi.ca/) (macroblogging) user or a Pleroma user. These are totally different networks that all support ActivityPub. But this is even taken a step further where that same Mastodon user can follow his favourite PeerTube channel or someone that shares great photos on Pixelfed. This is like you were able to follow someone with your Twitter account on YouTube or Instagram. This also means that this Mastodon user can comment or like the PeerTube video from his/her Mastodon user interface. This is the true power of ActivityPub!
+
+I already mentioned a few but there are [dozens of applications that support ActivityPub](https://fediverse.party/). All have their different purposes and one has more ActivityPub integration than the other. One that I would like to highlight is [Funkwhale](https://funkwhale.audio/). Funkwhale is a music streaming application. Like all applications mentioned above anyone can create a Funkwhale server and federate with other Funkwhale servers. The user is able to stream music from a different server, but also create favourites, make a playlist etc. Currently Funkwhale isn’t integrated with the rest of the Fediverse. Now recently the Funkwhale head developer, Eliot Berriot, started integration and made it possible to share music on Mastodon (perhaps also in Pleroma and Friendica but I haven’t tried that). This all works seamlessly thanks to ActivityPub.
+
+The Funkwhale example demonstrates the power of ActivityPub. Applications with different purposes can work hand in hand. It avoids that Mastodon, which is by far the largest party in the Fediverse, becomes de-facto a silo. The Fediverse is supposed to be diverse and Funkwhale and other apps are enforcing that. In January 2018, the [World Wide Web Consortium](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium) (W3C) published the [ActivityPub standard as a Recommendation](https://www.w3.org/blog/news/archives/6785). This is an important step for the acceptance of ActivityPub by developers and leads to more applications supporting ActivityPub therefore creating even greater diversity in the Fediverse.
+
+With the support of W3C the future of ActivityPub and the Fediverse looks bright. Chances are that more networks will start supporting ActivityPub and will join the Fediverse. And that both developers and (wannabe) admins adopt ActivityPub either for their app or their own server. I’m convinced that this is the only viable way out of the mess created of Big Tech companies like Facebook or Google.
+
+## **Further listening about the Federation and ActivityPub:**
+
+- *Serge and Chris from the Libre Lounge podcast talk about the concept of Federation, how ActivityPub fits in. https://librelounge.org/episodes/episode-11-what-is-federation-reviewpub.html*
+- *https://librelounge.org/episodes/episode-12-activitypub-part-1.html More in depth discussion of the ActivityPub protocol from Libre Lounge. First of a series of three.*
+
+![a90a46e04d18b0f85b8b54368a30dfe4](../_resources/6d49ba447be1edad1a77a9025cbeacf0.jpg)Author   [eribuijs](https://homehack.nl/author/eribuijs/)/Posted on [January 14, 2020](https://homehack.nl/activitypub-the-secret-weapon-of-the-fediverse/)/Categories [open source](https://homehack.nl/category/open-source/), [social](https://homehack.nl/category/social/)/Tags [ActivityPub](https://homehack.nl/tag/activitypub/), [Fediverse](https://homehack.nl/tag/fediverse/), [Funkwhale](https://homehack.nl/tag/funkwhale/), [Mastodon](https://homehack.nl/tag/mastodon/), [PeerTube](https://homehack.nl/tag/peertube/)

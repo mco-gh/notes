@@ -1,0 +1,113 @@
+WorldBrain/Memex: Browser Extension to full-text search your browsing history & bookmarks.
+
+# [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='94'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1416' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/WorldBrain/Memex#worldbrains-memex)WorldBrain's Memex
+
+[![68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f776f726c64627261696e2f616c6c2f62616467652e7376673f6c6162656c3d66696e616e6369616c2b636f6e7472696275746f7273](../_resources/073fd1d3cbbb7eaa54322bdfd6315a70.png)](https://opencollective.com/worldbrain)
+
+## [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='95'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1419' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/WorldBrain/Memex#table-of-content)Table Of Content
+
+1. [Memex Features](https://github.com/WorldBrain/Memex#memex-features)
+
+2. [Changelog and Roadmap](https://github.com/WorldBrain/Memex#changelog--roadmap)
+
+3. [Contributing](https://github.com/WorldBrain/Memex#contributing)
+
+    1. [Report Bugs & Feature Requests](https://github.com/WorldBrain/Memex#bugs--feature-requests)
+
+    2. [Getting started as a developer](https://github.com/WorldBrain/Memex#getting-started-as-a-developer)
+
+4. [License](https://github.com/WorldBrain/Memex#license)
+5. [Our Funders](https://github.com/WorldBrain/Memex#funders)
+
+# [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='96'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1429' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/WorldBrain/Memex#memex-features)Memex Features
+
+A browser extension to eliminate time spent bookmarking, retracing steps to recall an old webpage, or copy-pasting notes into scattered documents. Its name and functionalities are heavily inspired by [Vannevar Bush's vision of a Memex](http://memex.link/S1zVMgKzX/en.wikipedia.org/wiki/Memex).[![75159434-0bf63700-5710-11ea-9179-2d49b8810400.png](../_resources/6dbff09cf11b305413f18bd7161a3293.png)](https://user-images.githubusercontent.com/7870039/75159434-0bf63700-5710-11ea-9179-2d49b8810400.png)
+
+## [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='97'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1432' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/WorldBrain/Memex#full-text-search-in-web-history--bookmarks)Full-Text Search in Web History & Bookmarks:
+
+Search with every word of all websites & PDFs you visited & filter by time, domain, tags or bookmarks.[![75158724-a8b7d500-570e-11ea-9d35-0255cb9ea2da.gif](../_resources/528b7cde9839a70d6cd11bca57c45599.gif)](https://user-images.githubusercontent.com/7870039/75158724-a8b7d500-570e-11ea-9d35-0255cb9ea2da.gif)
+
+## [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='98'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1435' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/WorldBrain/Memex#highlights-notes--annotations)Highlights, Notes & Annotations:
+
+Add notes to websites and pieces of text in them[![75158717-a3f32100-570e-11ea-901d-8241b0710d60.gif](../_resources/35b71201ba81876737e7dbcef360f0f9.gif)](https://user-images.githubusercontent.com/7870039/75158717-a3f32100-570e-11ea-901d-8241b0710d60.gif)
+
+## [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='99'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1438' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/WorldBrain/Memex#tags-lists-bookmarks)Tags, Lists, Bookmarks
+
+Add bookmarks, tags or sort websites into lists on the fly.[![75158720-a786a800-570e-11ea-9891-0ef26f7066f3.gif](../_resources/1cec6f51e666fa0380de38db001a7776.gif)](https://user-images.githubusercontent.com/7870039/75158720-a786a800-570e-11ea-9891-0ef26f7066f3.gif)
+
+## [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='100'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1441' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/WorldBrain/Memex#all-data-stored-locally)All Data stored locally
+
+All personal data is stored and processed on your own computer and will **never** leave your computer without you either sharing, syncing or backing it up to an external cloud. For more info please see our [privacy policy](https://worldbrain.io/privacy)
+
+## [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='101'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1444' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/WorldBrain/Memex#mobile-apps-for-ios--android--encrypted-sync)Mobile apps for iOS & Android + Encrypted Sync
+
+With [Memex Go](https://getmemex.com/) you can save & organise content on the go. Sync is end2end encrypted with [TweetNaCl](https://github.com/dchest/tweetnacl-js)
+
+[![75159422-07ca1980-5710-11ea-845e-25f5157bcfd0.png](../_resources/aa433ed9dd56bc88095616b227f011bc.png)](https://user-images.githubusercontent.com/7870039/75159422-07ca1980-5710-11ea-845e-25f5157bcfd0.png)
+
+## [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='102'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1448' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/WorldBrain/Memex#no-vc-money-no-exit-your-data--attention-stays-yours)No VC money, no Exit: Your data & attention stays yours
+
+Memex is funded without VC money or selling shares. Instead we are funded with a model called "Steward Ownership". This model ensures that the company can never be sold and our investors are rewarded with a capped profit share. This way we will never get the incentives to optimise our company for maximising growth & shareholder profits to the expense of your privacy, provider freedom or attention. More about our choice you find [in this post](https://community.worldbrain.io/t/why-worldbrain-io-does-not-take-venture-capital/75).
+
+## [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='103'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1451' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/WorldBrain/Memex#other)Other:
+
+⛅Backup and restore your data to any of your favorite cloud providers & Google Drive
+
+Import bookmarks and history from other services
+⌨ Keyboard Shortcuts for everything
+Tab manager: add all open tabs to a collection or tag
+
+## [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='104'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1461' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/WorldBrain/Memex#changelog--roadmap)Changelog & Roadmap:
+
+See a list of our past updates and upcoming features [here](https://worldbrain.io/roadmap).
+
+# [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='105'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1463' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/WorldBrain/Memex#contributing)Contributing
+
+## [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='106'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1465' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/WorldBrain/Memex#near-term-features-where-contributions-are-welcome)Near term features where contributions are welcome
+
+⭐️Archiving websites + reader mode + offline-viewing on mobile
+⭐️Mobile Annotations
+⭐️Support for Brave and Firefox on mobile
+⭐️API to import/export your data & integrate with other apps
+⭐️Bulk tag, delete, add to lists & bookmark of items
+⭐️Nested Collections
+
+Drop by in our [team chat](https://join.slack.com/t/worldbrain/shared_invite/enQtOTcwMjQxNTgyNTE4LTRhYTAzN2QwNmM3ZjQwMGE5MzllZDM3N2E5OTFjY2FmY2JmOTY3ZWJhNGEyNWRiMzU5NTZjMzU0MWJhOTA2ZDA) if you're interested in contributing to those features.***Experience in React or React Native & Test Driven Development required***
+
+## [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='107'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1481' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/WorldBrain/Memex#bugs--feature-requests)Bugs & Feature Requests
+
+Head over to our [community forums](https://community.worldbrain.io/) to post your requests.
+
+## [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='108'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1484' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/WorldBrain/Memex#getting-started-as-a-developer)Getting started as a developer
+
+[Click here](https://github.com/WorldBrain/Memex/blob/develop/GETTING-STARTED.md#installation) for all instructions on how to build Memex so you can hack on it.
+
+## [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='109'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1487' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/WorldBrain/Memex#contributors)Contributors
+
+### [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='110'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1489' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/WorldBrain/Memex#code-contributors)Code Contributors
+
+This project exists thanks to all the people who contribute. [[Contribute](https://github.com/WorldBrain/Memex/blob/develop/CONTRIBUTING.md)].
+
+[![68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f776f726c64627261696e2f636f6e7472696275746f72732e7376673f77696474683d38393026627574746f6e3d66616c7365](../_resources/d70fc76b38d28494f3948be5501e10d0.png)](https://github.com/worldbrain/memex/graphs/contributors)
+
+### [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='111'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1493' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/WorldBrain/Memex#financial-contributors)Financial Contributors
+
+Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/worldbrain/contribute)]
+
+#### [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='112'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1496' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/WorldBrain/Memex#individuals)Individuals
+
+[![68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f776f726c64627261696e2f696e646976696475616c732e7376673f77696474683d383930](../_resources/a9bc4fff589c45e0ddc51ba64afff341.png)](https://opencollective.com/worldbrain)
+
+#### [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='113'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1499' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/WorldBrain/Memex#organizations)Organizations
+
+Support this project with your organization. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/worldbrain/contribute)]
+
+[![68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f776f726c64627261696e2f6f7267616e697a6174696f6e2f302f6176617461722e737667](../_resources/d9945840b37b3b30328fd5c998225699.png)](https://opencollective.com/worldbrain/organization/0/website)
+
+# [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='114'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1502' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/WorldBrain/Memex#license)License
+
+Memex is MIT licensed. View full [License](https://github.com/WorldBrain/Memex/blob/develop/License)
+
+# [![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' class='octicon octicon-link js-evernote-checked' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true' data-evernote-id='115'%3e%3cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z' data-evernote-id='1504' class='js-evernote-checked'%3e%3c/path%3e%3c/svg%3e)](https://github.com/WorldBrain/Memex#funders)Funders
+
+WorldBrain.io, the company behind Memex, has been funded by a set of courageous investors & grant givers. See a full & up-to-date list [here](https://www.notion.so/worldbrain/The-Worldbrain-io-Team-9ca5429f6a5c480289386a5cb49f173c#480df7140d124dc68595316dd666fd9a).

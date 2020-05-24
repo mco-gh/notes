@@ -1,0 +1,5 @@
+Magenta
+
+## About Magenta
+
+ **Magenta** is a research project exploring the role of machine learning in the process of creating art and music. Primarily this involves developing new deep learning and reinforcement learning algorithms for generating songs, images, drawings, and other materials. But it's also an exploration in building smart tools and interfaces that allow artists and musicians to extend (not replace!) their processes using these models. Magenta was started by some researchers and engineers from the [Google Brain team](https://research.google.com/teams/brain/) but many others have contributed significantly to the project. We use [TensorFlow](https://www.tensorflow.org/) and release our models and tools in open source on our [GitHub](https://github.com/tensorflow/magenta). If you’d like to learn more about Magenta, follow this blog, where we post technical details. You can also join our [discussion group](https://groups.google.com/a/tensorflow.org/forum/#!forum/magenta-discuss).

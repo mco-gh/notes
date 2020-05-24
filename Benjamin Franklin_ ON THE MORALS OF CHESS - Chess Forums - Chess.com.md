@@ -1,0 +1,25 @@
+Benjamin Franklin: ON THE MORALS OF CHESS - Chess Forums - Chess.com
+
+-
+
+# Benjamin Franklin: ON THE MORALS OF CHESS(1779)
+
+The game of Chess is not merely an idle amusement. Several very valuable qualities of the mind, useful in the course of human life, are to be acquired or strengthened by it, so as to become habits, ready on all occasions.
+
+1. **Foresight**, which looks a little into futurity, and considers the consequences that may attend an action; for it is continually occuring to the player, 'If I move this piece, what will be the advantages or disadvantages of my new situation? What use can my adversary make of it to annoy me? What other moves can I make to support it, and to defend myself from his attacks?
+
+2. **Circumspection**, which surveys the whole chessboard, or scene of action; the relations of the several pieces and situations, the dangers they are respectively exposed to, the several possibilities of their aiding each other, the probabilities that the adversary may make this or that move, and attack this or the other piece, and what different means can be used to avoid his stroke, or turn its consequences against him.
+
+3. **Caution**, not to make our moves too hastily. This habit is best acquired, by observing strictly the laws of the game; such as, If you touch a piece, you must move it somewhere; if you set it down, you must let it stand. And it is therefore best that these rules should be observed, as the game becomes thereby more the image of human life, and particularly of war . . .
+
+And lastly, we learn by Chess the habit of not being discouraged by present appearances in the state of our affairs, the habit of hoping for a favourable change, and that of persevering in the search of resources. The game is so full of events, there is such a variety of turns in it, the fortune of it is so subject to sudden vicissitudes, and one so frequently, after long contemplation, discovers the means of extricating one's self from a supposed insurmountable difficulty, that one is encouraged to continue the contest to the last, in hopes of victory from our own skill, or at least of getting a stalemate from the negligence of our adversary . . .
+
+If your adversary is long in playing, you ought not to hurry him, or express any uneasiness at his delay. You should not sing, nor whistle, nor look at your watch, not take up a book to read, nor make a tapping with your feet on the floor, or with your fingers on the table, nor do anything that may disturb his attention. For all these things displease; and they do not show your skill in playing, but your craftiness or your rudeness.
+
+You ought not to endeavour to amuse and deceive your adversary, by pretending to have made bad moves, and saying that you have now lost the game, in order to make him secure and careless, and inattentive to your schemes: for this is fraud and deceit, not skill in the game.
+
+You must not, when you have gained a victory, use any triumphing or insulting expression, nor show too much pleasure; but endeavour to console your adversary, and make him less dissatisfied with himself, by every kind of civil expression that may be used with truth, such as 'you understand the game better than I, but you are a little inattentive;' or, 'you play too fast;' or, 'you had the best of the game, but something happened to divert your thoughts, and that turned it in my favour.'
+
+If you are a spectator while others play, observe the most perfect silence. For, if you give advice, you offend both parties, him against whom you give it, because it may cause the loss of his game, him in whose favour you give it, because, though it be good, and he follows it, he loses the pleasure he might have had, if you had permitted him to think until it had occurred to himself. Even after a move or moves, you must not, by replacing the pieces, show how they might have been placed better; for that displeases, and may occasion disputes and doubts about their true situation. All talking to the players lessens or diverts their attention, and is therefore unpleasing.
+
+Lastly, if the game is not to be played rigorously, according to the rules above mentioned, then moderate your desire of victory over your adversary, and be pleased with one over yourself. Snatch not eagerly at every advantage offered by his unskilfulness or inattention; but point out to him kindly, that by such a move he places or leaves a piece in danger and unsupported; that by another he will put his king in a perilous situation, etc. By this generous civility (so opposite to the unfairness above forbidden) you may, indeed, happen to lose the game to your opponent; but you will win what is better, his esteem, his respect, and his affection, together with the silent approbation and goodwill of impartial spectators.

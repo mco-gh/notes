@@ -1,0 +1,7 @@
+Cryptography As a Teaching Tool
+
+Cryptography As a Teaching Tool
+
+![](../_resources/49d1a1b2d3d6ae471fe1a3bb6a9a4667.png)https://sites.math.washington.edu/~koblitz/crlogia.html
+
+The following is a slightly shortened version of my article in Cryptologia , Vol. 21, No. 4 (1997). Cryptography As a Teaching Tool Cryptography has a tremendous potential to enrich math education. In the first place, it puts mathematics in a dramatic setting. Children are fascinated by intrigue and adventure. More is at stake than a grade on a test: if you make a mistake, your agent will be betrayed. In the second place, cryptography provides a natural way to get students to discover certain key mathematical concepts and techniques on their own. Too often math teachers present everything on a silver platter, thereby depriving the children of the joy of discovery. In contrast, if after many hours the youngsters finally develop a method to break a cryptosystem, then they will be more likely to appreciate the power and beauty of the mathematics that they have uncovered. Later I shall describe cryptosystems that the children can break if they rediscover such fundamental techniques of classical mathematics as the Euclidean algorithm and Gaussian elimination.

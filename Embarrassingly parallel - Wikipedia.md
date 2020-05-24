@@ -1,0 +1,132 @@
+Embarrassingly parallel - Wikipedia
+
+# ![wikipedia-wordmark-en.png](../_resources/c3c7d3eaa24fa41cf516cec0bf591564.png)Embarrassingly parallel
+
+From Wikipedia, the free encyclopedia
+
+[Jump to navigation](https://en.wikipedia.org/wiki/Embarrassingly_parallel#mw-head)[Jump to search](https://en.wikipedia.org/wiki/Embarrassingly_parallel#p-search)
+
+In [parallel computing](https://en.wikipedia.org/wiki/Parallel_computing), an **embarrassingly parallel** workload or problem (also called **perfectly parallel** or **pleasingly parallel**) is one where little or no effort is needed to separate the problem into a number of parallel tasks.[[1]](https://en.wikipedia.org/wiki/Embarrassingly_parallel#cite_note-1) This is often the case where there is little or no dependency or need for communication between those parallel tasks, or for results between them.[[2]](https://en.wikipedia.org/wiki/Embarrassingly_parallel#cite_note-dbpp-2)
+
+Thus, these are different from [distributed computing](https://en.wikipedia.org/wiki/Distributed_computing) problems that need communication between tasks, especially communication of intermediate results. They are easy to perform on [server farms](https://en.wikipedia.org/wiki/Server_farm) which lack the special infrastructure used in a true [supercomputer](https://en.wikipedia.org/wiki/Supercomputer) cluster. They are thus well suited to large, Internet-based distributed platforms such as [BOINC](https://en.wikipedia.org/wiki/BOINC), and do not suffer from [parallel slowdown](https://en.wikipedia.org/wiki/Parallel_slowdown). The opposite of embarrassingly parallel problems are [inherently serial problems](https://en.wikipedia.org/wiki/Inherently_serial_problem), which cannot be parallelized at all.
+
+A common example of an embarrassingly parallel problem is 3D video rendering handled by a [graphics processing unit](https://en.wikipedia.org/wiki/Graphics_processing_unit), where each frame (forward method) or pixel ([ray tracing](https://en.wikipedia.org/wiki/Ray_tracing_(graphics)) method) can be handled with no interdependency. [Password cracking](https://en.wikipedia.org/wiki/Password_cracking) is another embarrassingly parallel task that is easily distributed on [central processing units](https://en.wikipedia.org/wiki/Central_processing_unit), [CPU cores](https://en.wikipedia.org/wiki/CPU_core), or clusters.
+
+## Contents
+
+[hide]
+
+- [1  Etymology](https://en.wikipedia.org/wiki/Embarrassingly_parallel#Etymology)
+- [2  Examples](https://en.wikipedia.org/wiki/Embarrassingly_parallel#Examples)
+- [3  Implementations](https://en.wikipedia.org/wiki/Embarrassingly_parallel#Implementations)
+- [4  See also](https://en.wikipedia.org/wiki/Embarrassingly_parallel#See_also)
+- [5  References](https://en.wikipedia.org/wiki/Embarrassingly_parallel#References)
+- [6  External links](https://en.wikipedia.org/wiki/Embarrassingly_parallel#External_links)
+
+## Etymology[[edit](https://en.wikipedia.org/w/index.php?title=Embarrassingly_parallel&action=edit&section=1)]
+
+"Embarrassingly" is used here in the same sense as in the phrase "an [embarrassment of riches](https://en.wikipedia.org/wiki/Embarrassment_of_riches)", meaning an overabundance—here referring to parallelization problems which are "embarrassingly easy".[[3]](https://en.wikipedia.org/wiki/Embarrassingly_parallel#cite_note-3) The term may also imply embarrassment on the part of developers or compilers: "Because so many important problems remain unsolved mainly due to their intrinsic computational complexity, it would be embarrassing not to develop parallel implementations of polynomial homotopy continuation methods."[[4]](https://en.wikipedia.org/wiki/Embarrassingly_parallel#cite_note-4) The term is first found in the literature in a 1986 book on multiprocessors by [MATLAB](https://en.wikipedia.org/wiki/MATLAB)'s creator [Cleve Moler](https://en.wikipedia.org/wiki/Cleve_Moler),[[5]](https://en.wikipedia.org/wiki/Embarrassingly_parallel#cite_note-hcmp-5) who claims to have invented the term.[[6]](https://en.wikipedia.org/wiki/Embarrassingly_parallel#cite_note-6)
+
+An alternative term, *pleasingly parallel*, has gained some use, perhaps to avoid the negative connotations of embarrassment in favor of a positive reflection on the parallelizability of the problems: "Of course, there is nothing embarrassing about these programs at all."[[7]](https://en.wikipedia.org/wiki/Embarrassingly_parallel#cite_note-7)
+
+## Examples[[edit](https://en.wikipedia.org/w/index.php?title=Embarrassingly_parallel&action=edit&section=2)]
+
+Some examples of embarrassingly parallel problems include:
+
+- [Monte Carlo analysis](https://en.wikipedia.org/wiki/Monte_Carlo_analysis)[[8]](https://en.wikipedia.org/wiki/Embarrassingly_parallel#cite_note-Kontoghiorghes2005-8)
+- Distributed relational database queries using [distributed set processing](http://www.mysqlperformanceblog.com/2011/05/14/distributed-set-processing-with-shard-query/).
+- [Numerical integration](https://en.wikipedia.org/wiki/Numerical_integration)[[9]](https://en.wikipedia.org/wiki/Embarrassingly_parallel#cite_note-Deng2013-9)
+- Serving static files on a webserver to multiple users at once.[*[citation needed](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed)*]
+- The [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set), [Perlin noise](https://en.wikipedia.org/wiki/Perlin_noise) and similar images, where each point is calculated independently.
+- [Rendering](https://en.wikipedia.org/wiki/Rendering_(computer_graphics)) of [computer graphics](https://en.wikipedia.org/wiki/Computer_graphics). In [computer animation](https://en.wikipedia.org/wiki/Computer_animation), each [frame](https://en.wikipedia.org/wiki/Video_frame) or pixel may be rendered independently (see [parallel rendering](https://en.wikipedia.org/wiki/Parallel_rendering)).
+- [Brute-force searches](https://en.wikipedia.org/wiki/Brute-force_search) in [cryptography](https://en.wikipedia.org/wiki/Cryptography).[[10]](https://en.wikipedia.org/wiki/Embarrassingly_parallel#cite_note-10) Notable real-world examples include [distributed.net](https://en.wikipedia.org/wiki/Distributed.net) and [proof-of-work](https://en.wikipedia.org/wiki/Proof-of-work) systems used in [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency).
+- [BLAST](https://en.wikipedia.org/wiki/BLAST) searches in [bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics) for multiple queries (but not for individual large queries).[[11]](https://en.wikipedia.org/wiki/Embarrassingly_parallel#cite_note-11)
+- Large scale [facial recognition systems](https://en.wikipedia.org/wiki/Facial_recognition_system) that compare thousands of arbitrary acquired faces (e.g., a security or surveillance video via [closed-circuit television](https://en.wikipedia.org/wiki/Closed-circuit_television)) with similarly large number of previously stored faces (e.g., a *[rogues gallery](https://en.wikipedia.org/wiki/Rogues_gallery)* or similar [watch list](https://en.wikipedia.org/wiki/No_Fly_List)).[[12]](https://en.wikipedia.org/wiki/Embarrassingly_parallel#cite_note-12)
+- Computer simulations comparing many independent scenarios.
+- [Genetic algorithms](https://en.wikipedia.org/wiki/Genetic_algorithm).[[13]](https://en.wikipedia.org/wiki/Embarrassingly_parallel#cite_note-TsutsuiCollet2013-13)
+- [Ensemble calculations](https://en.wikipedia.org/wiki/Statistical_ensemble_(mathematical_physics)) of [numerical weather prediction](https://en.wikipedia.org/wiki/Numerical_weather_prediction).
+- Event simulation and reconstruction in [particle physics](https://en.wikipedia.org/wiki/Particle_physics).
+- The [marching squares](https://en.wikipedia.org/wiki/Marching_squares) algorithm.
+- Sieving step of the [quadratic sieve](https://en.wikipedia.org/wiki/Quadratic_sieve) and the [number field sieve](https://en.wikipedia.org/wiki/Number_field_sieve).
+- Tree growth step of the [random forest](https://en.wikipedia.org/wiki/Random_forest) machine learning technique.
+- [Discrete Fourier transform](https://en.wikipedia.org/wiki/Discrete_Fourier_transform) where each harmonic is independently calculated.
+- [Convolutional neural networks](https://en.wikipedia.org/wiki/Convolutional_neural_network) running on [GPUs](https://en.wikipedia.org/wiki/GPU).
+- [Hyperparameter grid search](https://en.wikipedia.org/wiki/Hyperparameter_optimization#Grid_search) in machine learning.[*[citation needed](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed)*]
+- Parallel search in [constraint programming](https://en.wikipedia.org/wiki/Constraint_programming)[[14]](https://en.wikipedia.org/wiki/Embarrassingly_parallel#cite_note-HamadiSais2018-14)
+
+## Implementations[[edit](https://en.wikipedia.org/w/index.php?title=Embarrassingly_parallel&action=edit&section=3)]
+
+- In [R (programming language)](https://en.wikipedia.org/wiki/R_(programming_language)) – The Simple Network of Workstations (SNOW) package implements a simple mechanism for using a set of workstations or a [Beowulf cluster](https://en.wikipedia.org/wiki/Beowulf_cluster) for embarrassingly parallel computations.[[15]](https://en.wikipedia.org/wiki/Embarrassingly_parallel#cite_note-15)
+
+## See also[[edit](https://en.wikipedia.org/w/index.php?title=Embarrassingly_parallel&action=edit&section=4)]
+
+- [Amdahl's law](https://en.wikipedia.org/wiki/Amdahl%27s_law) defines value *[P](https://en.wikipedia.org/wiki/Amdahl%27s_law#Parallelization)*, which would be almost or exactly equal to 1 for embarrassingly parallel problems.
+- [Map (parallel pattern)](https://en.wikipedia.org/wiki/Map_(parallel_pattern))
+- [Multiprocessing](https://en.wikipedia.org/wiki/Multiprocessing)
+- [Massively parallel](https://en.wikipedia.org/wiki/Massively_parallel)
+- [Parallel computing](https://en.wikipedia.org/wiki/Parallel_computing)
+- [Process-oriented programming](https://en.wikipedia.org/wiki/Process-oriented_programming)
+- [Shared-nothing architecture](https://en.wikipedia.org/wiki/Shared-nothing_architecture) (SN)
+- [Symmetric multiprocessing](https://en.wikipedia.org/wiki/Symmetric_multiprocessing) (SMP)
+- [Connection Machine](https://en.wikipedia.org/wiki/Connection_Machine)
+- [Cellular automaton](https://en.wikipedia.org/wiki/Cellular_automaton)
+- [CUDA framework](https://en.wikipedia.org/wiki/CUDA)
+- [Manycore processor](https://en.wikipedia.org/wiki/Manycore_processor)
+- [Vector processor](https://en.wikipedia.org/wiki/Vector_processor)
+
+## References[[edit](https://en.wikipedia.org/w/index.php?title=Embarrassingly_parallel&action=edit&section=5)]
+
+1. **[^](https://en.wikipedia.org/wiki/Embarrassingly_parallel#cite_ref-1)**  Herlihy, Maurice; Shavit, Nir (2012). [*The Art of Multiprocessor Programming, Revised Reprint*](https://books.google.com/books?id=vfvPrSz7R7QC&q=embarrasingly#v=onepage&q=embarrasingly&f=false) (revised ed.). Elsevier. p. 14. [ISBN](https://en.wikipedia.org/wiki/International_Standard_Book_Number) [9780123977953](https://en.wikipedia.org/wiki/Special:BookSources/9780123977953). Retrieved 28 February 2016. "Some computational problems are “embarrassingly parallel”: they can easily be divided into components that can be executed concurrently."
+
+2. **[^](https://en.wikipedia.org/wiki/Embarrassingly_parallel#cite_ref-dbpp_2-0)**  Section 1.4.4 of: Foster, Ian (1995). [*Designing and Building Parallel Programs*](https://www.webcitation.org/5wfSkP1Ia?url=http://www.mcs.anl.gov/~itf/dbpp/text/node10.html). Addison–Wesley. [ISBN](https://en.wikipedia.org/wiki/International_Standard_Book_Number) [9780201575941](https://en.wikipedia.org/wiki/Special:BookSources/9780201575941). Archived from [the original](http://www.mcs.anl.gov/~itf/dbpp/text/node10.html) on 2011-02-21.
+
+3. **[^](https://en.wikipedia.org/wiki/Embarrassingly_parallel#cite_ref-3)**  Matloff, Norman (2011). *The Art of R Programming: A Tour of Statistical Software Design*, p.347. No Starch. [ISBN](https://en.wikipedia.org/wiki/International_Standard_Book_Number) [9781593274108](https://en.wikipedia.org/wiki/Special:BookSources/9781593274108).
+
+4. **[^](https://en.wikipedia.org/wiki/Embarrassingly_parallel#cite_ref-4)**  Leykin, Anton; Verschelde, Jan; Zhuang, Yan (2006). *Parallel Homotopy Algorithms to Solve Polynomial Systems*. *Proceedings of ICMS*. Lecture Notes in Computer Science. **4151**. pp. 225–234. [doi](https://en.wikipedia.org/wiki/Digital_object_identifier):[10.1007/11832225_22](https://doi.org/10.1007%2F11832225_22). [ISBN](https://en.wikipedia.org/wiki/International_Standard_Book_Number) [978-3-540-38084-9](https://en.wikipedia.org/wiki/Special:BookSources/978-3-540-38084-9).
+
+5. **[^](https://en.wikipedia.org/wiki/Embarrassingly_parallel#cite_ref-hcmp_5-0)**  Moler, Cleve (1986). Heath, Michael T. (ed.). *Matrix Computation on Distributed Memory Multiprocessors*. *Hypercube Multiprocessors*. Society for Industrial and Applied Mathematics, Philadelphia. [ISBN](https://en.wikipedia.org/wiki/International_Standard_Book_Number) [978-0898712094](https://en.wikipedia.org/wiki/Special:BookSources/978-0898712094).
+
+6. **[^](https://en.wikipedia.org/wiki/Embarrassingly_parallel#cite_ref-6)**  [The Intel hypercube part 2 reposted on Cleve's Corner blog on The MathWorks website](http://blogs.mathworks.com/cleve/2013/11/12/the-intel-hypercube-part-2-reposted/#096367ea-045e-4f28-8fa2-9f7db8fb7b01)
+
+7. **[^](https://en.wikipedia.org/wiki/Embarrassingly_parallel#cite_ref-7)**  Kepner, Jeremy (2009). *Parallel MATLAB for Multicore and Multinode Computers*, p.12. SIAM. [ISBN](https://en.wikipedia.org/wiki/International_Standard_Book_Number) [9780898716733](https://en.wikipedia.org/wiki/Special:BookSources/9780898716733).
+
+8. **[^](https://en.wikipedia.org/wiki/Embarrassingly_parallel#cite_ref-Kontoghiorghes2005_8-0)**  Erricos John Kontoghiorghes (21 December 2005). [*Handbook of Parallel Computing and Statistics*](https://books.google.com/books?id=BnNnKPkFH2kC&printsec=frontcover#v=onepage&q=%22embarrassingly%20parallel%22&f=false). CRC Press. [ISBN](https://en.wikipedia.org/wiki/International_Standard_Book_Number) [978-1-4200-2868-3](https://en.wikipedia.org/wiki/Special:BookSources/978-1-4200-2868-3).
+
+9. **[^](https://en.wikipedia.org/wiki/Embarrassingly_parallel#cite_ref-Deng2013_9-0)**  Yuefan Deng (2013). [*Applied Parallel Computing*](https://books.google.com/books?id=YS9wvVeWrXgC&printsec=frontcover#v=onepage&q=%22embarrassingly%20parallel%22&f=false). World Scientific. [ISBN](https://en.wikipedia.org/wiki/International_Standard_Book_Number) [978-981-4307-60-4](https://en.wikipedia.org/wiki/Special:BookSources/978-981-4307-60-4).
+
+10. **[^](https://en.wikipedia.org/wiki/Embarrassingly_parallel#cite_ref-10)**  Simon, Josefsson; Colin, Percival (August 2016). ["The scrypt Password-Based Key Derivation Function"](https://tools.ietf.org/html/rfc7914#page-2). *tools.ietf.org*. Retrieved 2016-12-12.
+
+11. **[^](https://en.wikipedia.org/wiki/Embarrassingly_parallel#cite_ref-11)**  [SeqAnswers forum](http://seqanswers.com/forums/showpost.php?p=21050&postcount=3)
+
+12. **[^](https://en.wikipedia.org/wiki/Embarrassingly_parallel#cite_ref-12)**  [How we made our face recognizer 25 times faster](http://lbrandy.com/blog/2008/10/how-we-made-our-face-recognizer-25-times-faster/) (developer blog post)
+
+13. **[^](https://en.wikipedia.org/wiki/Embarrassingly_parallel#cite_ref-TsutsuiCollet2013_13-0)**  Shigeyoshi Tsutsui; Pierre Collet (5 December 2013). [*Massively Parallel Evolutionary Computation on GPGPUs*](https://books.google.com/books?id=Hv68BAAAQBAJ&printsec=frontcover#v=onepage&q=%22embarrassingly%20parallel%22&f=false). Springer Science & Business Media. [ISBN](https://en.wikipedia.org/wiki/International_Standard_Book_Number) [978-3-642-37959-8](https://en.wikipedia.org/wiki/Special:BookSources/978-3-642-37959-8).
+
+14. **[^](https://en.wikipedia.org/wiki/Embarrassingly_parallel#cite_ref-HamadiSais2018_14-0)**  Youssef Hamadi; Lakhdar Sais (5 April 2018). [*Handbook of Parallel Constraint Reasoning*](https://books.google.com/books?id=w5JUDwAAQBAJ&printsec=frontcover#v=onepage&q=%22embarrassingly%20parallel%22&f=false). Springer. [ISBN](https://en.wikipedia.org/wiki/International_Standard_Book_Number) [978-3-319-63516-3](https://en.wikipedia.org/wiki/Special:BookSources/978-3-319-63516-3).
+
+15. **[^](https://en.wikipedia.org/wiki/Embarrassingly_parallel#cite_ref-15)**  [Simple Network of Workstations (SNOW) package](http://www.stat.uiowa.edu/~luke/R/cluster/cluster.html)
+
+## External links[[edit](https://en.wikipedia.org/w/index.php?title=Embarrassingly_parallel&action=edit&section=6)]
+
+- [Embarrassingly Parallel Computations](http://www.phy.duke.edu/~rgb/Beowulf/beowulf_book/beowulf_book/node30.html), Engineering a Beowulf-style Compute Cluster
+- "[Star-P: High Productivity Parallel Computing](http://www.cs.ucsb.edu/~gilbert/reports/hpec04.pdf)"
+
+| [[hide]()]<br>- [v](https://en.wikipedia.org/wiki/Template:Parallel_computing) ·<br>- [t](https://en.wikipedia.org/wiki/Template_talk:Parallel_computing) ·<br>- [e](https://en.wikipedia.org/w/index.php?title=Template:Parallel_computing&action=edit)<br>[Parallel computing](https://en.wikipedia.org/wiki/Parallel_computing) |
+| --- |
+| General | - [Distributed computing](https://en.wikipedia.org/wiki/Distributed_computing) ·<br>- [Parallel computing](https://en.wikipedia.org/wiki/Parallel_computing) ·<br>- [Massively parallel](https://en.wikipedia.org/wiki/Massively_parallel) ·<br>- [Cloud computing](https://en.wikipedia.org/wiki/Cloud_computing) ·<br>- [High-performance computing](https://en.wikipedia.org/wiki/Supercomputer) ·<br>- [Multiprocessing](https://en.wikipedia.org/wiki/Multiprocessing) ·<br>- [Manycore processor](https://en.wikipedia.org/wiki/Manycore_processor) ·<br>- [GPGPU](https://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units) ·<br>- [Computer network](https://en.wikipedia.org/wiki/Computer_network) ·<br>- [Systolic array](https://en.wikipedia.org/wiki/Systolic_array) |
+| Levels | - [Bit](https://en.wikipedia.org/wiki/Bit-level_parallelism) ·<br>- [Instruction](https://en.wikipedia.org/wiki/Instruction-level_parallelism) ·<br>- [Thread](https://en.wikipedia.org/wiki/Task_parallelism) ·<br>- [Task](https://en.wikipedia.org/wiki/Task_parallelism) ·<br>- [Data](https://en.wikipedia.org/wiki/Data_parallelism) ·<br>- [Memory](https://en.wikipedia.org/wiki/Memory-level_parallelism) ·<br>- [Loop](https://en.wikipedia.org/wiki/Loop-level_parallelism) ·<br>- [Pipeline](https://en.wikipedia.org/wiki/Pipeline_(computing)) |
+| [Multithreading](https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)) | - [Temporal](https://en.wikipedia.org/wiki/Temporal_multithreading) ·<br>- [Simultaneous](https://en.wikipedia.org/wiki/Simultaneous_multithreading) (SMT) ·<br>- [Speculative](https://en.wikipedia.org/wiki/Speculative_multithreading) (SpMT) ·<br>- [Preemptive](https://en.wikipedia.org/wiki/Preemption_(computing)) ·<br>- [Cooperative](https://en.wikipedia.org/wiki/Computer_multitasking#Cooperative_multitasking) ·<br>- [Clustered Multi-Thread](https://en.wikipedia.org/wiki/Bulldozer_(microarchitecture)#Bulldozer_core) (CMT) ·<br>- [Hardware scout](https://en.wikipedia.org/wiki/Hardware_scout) |
+| Theory | - [PRAM model](https://en.wikipedia.org/wiki/Parallel_random-access_machine) ·<br>- [PEM Model](https://en.wikipedia.org/wiki/Parallel_external_memory) ·<br>- [Analysis of parallel algorithms](https://en.wikipedia.org/wiki/Analysis_of_parallel_algorithms) ·<br>- [Amdahl's law](https://en.wikipedia.org/wiki/Amdahl%27s_law) ·<br>- [Gustafson's law](https://en.wikipedia.org/wiki/Gustafson%27s_law) ·<br>- [Cost efficiency](https://en.wikipedia.org/wiki/Cost_efficiency) ·<br>- [Karp–Flatt metric](https://en.wikipedia.org/wiki/Karp%E2%80%93Flatt_metric) ·<br>- [Slowdown](https://en.wikipedia.org/wiki/Parallel_slowdown) ·<br>- [Speedup](https://en.wikipedia.org/wiki/Speedup) |
+| Elements | - [Process](https://en.wikipedia.org/wiki/Process_(computing)) ·<br>- [Thread](https://en.wikipedia.org/wiki/Thread_(computing)) ·<br>- [Fiber](https://en.wikipedia.org/wiki/Fiber_(computer_science)) ·<br>- [Instruction window](https://en.wikipedia.org/wiki/Instruction_window) ·<br>- [Array data structure](https://en.wikipedia.org/wiki/Array_data_structure) |
+| Coordination | - [Multiprocessing](https://en.wikipedia.org/wiki/Multiprocessing) ·<br>- [Memory coherency](https://en.wikipedia.org/wiki/Memory_coherence) ·<br>- [Cache coherency](https://en.wikipedia.org/wiki/Cache_coherence) ·<br>- [Cache invalidation](https://en.wikipedia.org/wiki/Cache_invalidation) ·<br>- [Barrier](https://en.wikipedia.org/wiki/Barrier_(computer_science)) ·<br>- [Synchronization](https://en.wikipedia.org/wiki/Synchronization_(computer_science)) ·<br>- [Application checkpointing](https://en.wikipedia.org/wiki/Application_checkpointing) |
+| [Programming](https://en.wikipedia.org/wiki/Computer_programming) | - [Stream processing](https://en.wikipedia.org/wiki/Stream_processing) ·<br>- [Dataflow programming](https://en.wikipedia.org/wiki/Dataflow_programming) ·<br>- [Models](https://en.wikipedia.org/wiki/Parallel_programming_model)<br>    - ([Implicit parallelism](https://en.wikipedia.org/wiki/Implicit_parallelism) ·<br>    - [Explicit parallelism](https://en.wikipedia.org/wiki/Explicit_parallelism) ·<br>    - [Concurrency](https://en.wikipedia.org/wiki/Concurrency_(computer_science)))<br>·<br>- [Non-blocking algorithm](https://en.wikipedia.org/wiki/Non-blocking_algorithm) |
+| [Hardware](https://en.wikipedia.org/wiki/Computer_hardware) | - [Flynn's taxonomy](https://en.wikipedia.org/wiki/Flynn%27s_taxonomy)<br>    - ([SISD](https://en.wikipedia.org/wiki/SISD) ·<br>    - [SIMD](https://en.wikipedia.org/wiki/SIMD) ·<br>    - [SIMT](https://en.wikipedia.org/wiki/Single_instruction,_multiple_threads) ·<br>    - [MISD](https://en.wikipedia.org/wiki/MISD) ·<br>    - [MIMD](https://en.wikipedia.org/wiki/MIMD))<br>·<br>- [Dataflow architecture](https://en.wikipedia.org/wiki/Dataflow_architecture) ·<br>- [Pipelined processor](https://en.wikipedia.org/wiki/Instruction_pipelining) ·<br>- [Superscalar processor](https://en.wikipedia.org/wiki/Superscalar_processor) ·<br>- [Vector processor](https://en.wikipedia.org/wiki/Vector_processor) ·<br>- [Multiprocessor](https://en.wikipedia.org/wiki/Multiprocessing)<br>    - ([symmetric](https://en.wikipedia.org/wiki/Symmetric_multiprocessing) ·<br>    - [asymmetric](https://en.wikipedia.org/wiki/Asymmetric_multiprocessing))<br>·<br>- [Memory](https://en.wikipedia.org/wiki/Semiconductor_memory)<br>    - ([shared](https://en.wikipedia.org/wiki/Shared_memory) ·<br>    - [distributed](https://en.wikipedia.org/wiki/Distributed_memory) ·<br>    - [distributed shared](https://en.wikipedia.org/wiki/Distributed_shared_memory) ·<br>    - [UMA](https://en.wikipedia.org/wiki/Uniform_memory_access) ·<br>    - [NUMA](https://en.wikipedia.org/wiki/Non-uniform_memory_access) ·<br>    - [COMA](https://en.wikipedia.org/wiki/Cache-only_memory_architecture))<br>·<br>- [Massively parallel computer](https://en.wikipedia.org/wiki/Massively_parallel) ·<br>- [Computer cluster](https://en.wikipedia.org/wiki/Computer_cluster) ·<br>- [Grid computer](https://en.wikipedia.org/wiki/Grid_computing) ·<br>- [Hardware acceleration](https://en.wikipedia.org/wiki/Hardware_acceleration) |
+| [APIs](https://en.wikipedia.org/wiki/Application_programming_interface) | - [Ateji PX](https://en.wikipedia.org/wiki/Ateji_PX) ·<br>- [Boost.Thread](https://en.wikipedia.org/wiki/Boost_(C%2B%2B_libraries)#Multithreading_%E2%80%93_Boost.Thread) ·<br>- [Chapel](https://en.wikipedia.org/wiki/Chapel_(programming_language)) ·<br>- [Charm++](https://en.wikipedia.org/wiki/Charm%2B%2B) ·<br>- [Cilk](https://en.wikipedia.org/wiki/Cilk) ·<br>- [Coarray Fortran](https://en.wikipedia.org/wiki/Coarray_Fortran) ·<br>- [CUDA](https://en.wikipedia.org/wiki/CUDA) ·<br>- [Dryad](https://en.wikipedia.org/wiki/Dryad_(programming)) ·<br>- [C++ AMP](https://en.wikipedia.org/wiki/C%2B%2B_AMP) ·<br>- [Global Arrays](https://en.wikipedia.org/wiki/Global_Arrays) ·<br>- [MPI](https://en.wikipedia.org/wiki/Message_Passing_Interface) ·<br>- [OpenMP](https://en.wikipedia.org/wiki/OpenMP) ·<br>- [OpenCL](https://en.wikipedia.org/wiki/OpenCL) ·<br>- [OpenHMPP](https://en.wikipedia.org/wiki/OpenHMPP) ·<br>- [OpenACC](https://en.wikipedia.org/wiki/OpenACC) ·<br>- [TPL](https://en.wikipedia.org/wiki/Parallel_Extensions#Task_Parallel_Library) ·<br>- [PLINQ](https://en.wikipedia.org/wiki/Parallel_Extensions#PLINQ) ·<br>- [PVM](https://en.wikipedia.org/wiki/Parallel_Virtual_Machine) ·<br>- [POSIX Threads](https://en.wikipedia.org/wiki/POSIX_Threads) ·<br>- [RaftLib](https://en.wikipedia.org/wiki/RaftLib) ·<br>- [UPC](https://en.wikipedia.org/wiki/Unified_Parallel_C) ·<br>- [TBB](https://en.wikipedia.org/wiki/Threading_Building_Blocks) ·<br>- [ZPL](https://en.wikipedia.org/wiki/ZPL_(programming_language)) |
+| Problems | - [Deadlock](https://en.wikipedia.org/wiki/Deadlock) ·<br>- [Livelock](https://en.wikipedia.org/wiki/Deadlock#Livelock) ·<br>- [Deterministic algorithm](https://en.wikipedia.org/wiki/Deterministic_algorithm) ·<br>- [Embarrassingly parallel]() ·<br>- [Parallel slowdown](https://en.wikipedia.org/wiki/Parallel_slowdown) ·<br>- [Race condition](https://en.wikipedia.org/wiki/Race_condition#Computing) ·<br>- [Software lockout](https://en.wikipedia.org/wiki/Software_lockout) ·<br>- [Scalability](https://en.wikipedia.org/wiki/Scalability) ·<br>- [Starvation](https://en.wikipedia.org/wiki/Starvation_(computer_science)) |
+| - ![24px-Folder_Hexagonal_Icon.svg.png](../_resources/ef604b276645c68361f7c97d18f51691.png) [Category: parallel computing](https://en.wikipedia.org/wiki/Category:Parallel_computing) ·<br>- ![18px-Commons-logo.svg.png](../_resources/5d155d8542bd01a80f976c19e42a7478.png) Media related to [Parallel computing](https://commons.wikimedia.org/wiki/Category:Parallel_computing) at Wikimedia Commons |
+
+[Categories](https://en.wikipedia.org/wiki/Help:Category):
+
+- [Parallel computing](https://en.wikipedia.org/wiki/Category:Parallel_computing)
+- [Distributed computing problems](https://en.wikipedia.org/wiki/Category:Distributed_computing_problems)
+- [Applications of distributed computing](https://en.wikipedia.org/wiki/Category:Applications_of_distributed_computing)

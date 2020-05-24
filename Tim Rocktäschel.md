@@ -1,0 +1,6 @@
+Tim Rocktäschel
+
+Tim Rocktäschel
+[](../_resources/7d1129b796bc46a766e93bf61fcc95ce.bin)https://rockt.github.io/2018/04/30/einsum
+
+1 Einsum Notation 2 If you are anything like me, you find it difficult to remember the names and signatures of all the different functions in PyTorch/TensorFlow for calculating dot products, outer products, transposes and matrix-vector or matrix-matrix multiplications. Einsum notation is an elegant way to express all of these, as well as complex operations on tensors, using essentially a domain-specific language. This has benefits beyond not having to memorize or regularly looking up specific library functions. Once you understand and make use of einsum, you will be able to write more concise and efficient code more quickly. When not using einsum it is easy to introduce unnecessary reshaping and transposing of tensors, as well as intermediate tensors that could be omitted. Furthermore, domain-specific languages like einsum can sometimes be compiled to high-performing code, and an einsum-like domain-specific language is in fact the basis for the recently introduced

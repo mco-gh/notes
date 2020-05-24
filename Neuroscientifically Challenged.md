@@ -1,0 +1,3 @@
+Neuroscientifically Challenged
+
+https://www.youtube.com/user/neurochallenged/videos?utm_medium=email&utm_source=other&utm_campaign=opencourse.GdeNrll1EeSROyIACtiVvg.announcements%7Eopencourse.GdeNrll1EeSROyIACtiVvg.JYKQze9ZSYK9lojQJ6h6NQ
