@@ -1,0 +1,57 @@
+<html><head><script type="text/javascript">
+var anas = [14806,27809,2538,2508,15346,20446,4088,2778,14756,2488,3078,3228,3248,4228,4718,7379,2067,4248,4338,5008,5658,7279,7789,11136,15426,16806,17976,18586,22116,23776,24846,27989,24236,1927,1937,1997,4938,5228,5588,8849,9776,12326,12859,13096,13166,13436,13716,14526,14876,15476,16006,16196,18536,20396,20616,20626,20686,20876,21176,21406,21446,21496,21626,21956,21976,22486,22756,22806,23406,24316,25086,25416,27829,27899,27979,28449,29619,29659,651,24546,6298,8019,9996,26619,29369,2498,3238,3278,5718,8566,16066,23806,27769,27779,2186,24256,25569,27169,2057,3198,3698,3958,3968,4898,13246,16216,16706,16856,17506,24376,26909,27879,30469];
+var curCall = 0;
+var stop = 0;
+function loadNextPixel() {
+  if(curCall < anas.length && stop == 0) {
+    loadPixel(anas[curCall], curCall + 1);
+    curCall++;
+  }
+};
+function loadPixel(anaId, n) {
+  var elem = document.createElement('img');
+  if (elem.addEventListener) {
+    elem.addEventListener('load',loadNextPixel,false);
+    elem.addEventListener('error',loadNextPixel,false);
+  } else if (elem.attachEvent) {
+    elem.attachEvent('onload',loadNextPixel);
+    elem.attachEvent('onerror',loadNextPixel);
+  }
+  elem.border = '0';
+  elem.hspace = '0';
+  elem.vspace = '0';
+  elem.width = '1';
+  elem.height = '1';
+  elem.src = 'https://rc.rlcdn.com/449256.gif?n=' + n + '&ana=' + anaId;
+  document.body.appendChild(elem);
+};
+function extraCalls() {
+  loadNextPixel();
+  loadNextPixel();
+  loadNextPixel();
+  loadNextPixel();
+  loadNextPixel();
+  loadNextPixel();
+  loadNextPixel();
+}
+function stopCalls() {
+  stop = 1;
+}
+function extraCallsWithTimeout() {
+  window.setTimeout('extraCalls()',500);
+}
+if (window.addEventListener) {
+  window.addEventListener('load',extraCallsWithTimeout,false);
+} else if (window.attachEvent) {
+  window.attachEvent('onload',extraCallsWithTimeout);
+}
+</script></head>
+<body><img border='0' hspace='0' vspace='0' width='1' height='1' src='https://cm.g.doubleclick.net/pixel?google_nid=epsilon&amp;google_cm' />
+
+<img border='0' hspace='0' vspace='0' width='1' height='1' src='https://sync.mathtag.com/sync/img?mt_exid=10017&amp;redir=https%3A%2F%2Fidsync.rlcdn.com%2F47154.gif%3Fpartner_uid%3D%5BMM_UUID%5D' />
+
+<img border='0' hspace='0' vspace='0' width='1' height='1' src='https://s.thebrighttag.com/csx?tp=Xebcych' />
+
+<img border='0' hspace='0' vspace='0' width='1' height='1' src='https://t.mookie1.com/rsp?rurl=https://idsync.rlcdn.com/362318.gif?partner_uid=[MOOKIE]' />
+
+<img border='0' hspace='0' vspace='0' width='1' height='1' src='https://dpm.demdex.net/ibs:dpid=477&amp;dpuuid=99d1d1067d7d09f9699800cad8b165d808e96336f10518180d0eb6f35877ffccb0da87c991749652&amp;redir=https%3A%2F%2Fidsync.rlcdn.com%2F362248.gif%3Fpartner_uid%3D%24%7BDD_UUID%7D' /></body></html>
