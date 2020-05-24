@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.1 (12005) - http://www.bohemiancoding.com/sketch -->
+    <title>social-youtube</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="social-youtube" sketch:type="MSArtboardGroup">
+            <circle id="Oval-5" fill="#5C5C5C" sketch:type="MSShapeGroup" cx="10" cy="10" r="10"></circle>
+            <path d="M10.125903,14.6222101 C10.125903,14.6222101 12.0728306,14.6222101 13.9397784,14.527586 C15.8067261,14.432962 16.1480486,13.917411 16.326783,12.3185648 C16.5629676,10.2030411 16.303127,7.39060376 16.303127,7.39060376 C16.303127,7.39060376 16.2794709,5.66521661 14.3178991,5.59462406 C12.3563273,5.52365602 10.128907,5.5 10.128907,5.5 L9.72299978,5.5 C9.72299978,5.5 7.49557942,5.52365602 5.53400761,5.59462406 C3.5724358,5.66559211 3.54877978,7.39060376 3.54877978,7.39060376 C3.54877978,7.39060376 3.28893911,10.2030411 3.52512377,12.3185648 C3.7038581,13.917411 4.04518061,14.4333375 5.91212836,14.527586 C7.77907611,14.6222101 9.72600372,14.6222101 9.72600372,14.6222101 L10.125903,14.6222101 L10.125903,14.6222101 Z" id="Shape" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M7.6,7.06110505 L7.6,13.061105 L13.2937653,10.1002249 L7.6,7.06110505 Z" id="Shape" fill="#5C5C5C" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

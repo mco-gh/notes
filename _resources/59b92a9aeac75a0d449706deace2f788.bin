@@ -1,0 +1,57 @@
+<html><head><script type="text/javascript">
+var anas = [3238,3278,5718,7279,8566,16066,24236,23806,27769,27779,13436,14756,14876,18586,20396,20616,20626,4088,1927,2067,2488,2508,2778,3228,8019,15346,16806,20876,23776,24256,25569,27169,27449,27829,27989,28669,29659,651,1937,1997,2057,3198,3248,3698,3958,3968,4248,4898,4938,5008,5228,5588,5658,6298,7379,8849,9776,9996,11136,12326,12859,13096,13166,13246,13716,14526,15426,16006,16216,16706,16856,17506,18536,20446,20686,21176,21496,22116,22486,22756,22806,24316,24376,25086,25416,26909,27879,27899,29619,30119];
+var curCall = 0;
+var stop = 0;
+function loadNextPixel() {
+  if(curCall < anas.length && stop == 0) {
+    loadPixel(anas[curCall], curCall + 1);
+    curCall++;
+  }
+};
+function loadPixel(anaId, n) {
+  var elem = document.createElement('img');
+  if (elem.addEventListener) {
+    elem.addEventListener('load',loadNextPixel,false);
+    elem.addEventListener('error',loadNextPixel,false);
+  } else if (elem.attachEvent) {
+    elem.attachEvent('onload',loadNextPixel);
+    elem.attachEvent('onerror',loadNextPixel);
+  }
+  elem.border = '0';
+  elem.hspace = '0';
+  elem.vspace = '0';
+  elem.width = '1';
+  elem.height = '1';
+  elem.src = 'https://rc.rlcdn.com/449256.gif?n=' + n + '&ana=' + anaId;
+  document.body.appendChild(elem);
+};
+function extraCalls() {
+  loadNextPixel();
+  loadNextPixel();
+  loadNextPixel();
+  loadNextPixel();
+  loadNextPixel();
+  loadNextPixel();
+  loadNextPixel();
+}
+function stopCalls() {
+  stop = 1;
+}
+function extraCallsWithTimeout() {
+  window.setTimeout('extraCalls()',500);
+}
+if (window.addEventListener) {
+  window.addEventListener('load',extraCallsWithTimeout,false);
+} else if (window.attachEvent) {
+  window.attachEvent('onload',extraCallsWithTimeout);
+}
+</script></head>
+<body><img border='0' hspace='0' vspace='0' width='1' height='1' src='https://fzlnk.com/pfzcb.ashx' />
+
+<img border='0' hspace='0' vspace='0' width='1' height='1' src='https://jadserve.postrelease.com/dmp/8?ntv_r=https://idsync.rlcdn.com/450266.gif?partner_uid=NTV_USER_ID' />
+
+<img border='0' hspace='0' vspace='0' width='1' height='1' src='https://i.liadm.com/s/28214' />
+
+<img border='0' hspace='0' vspace='0' width='1' height='1' src='https://app.link/track/b.gif?data_partner_id=43f43bc6&amp;partner_cookie=ef29026af7bc977c194ed231488536ff40fb5019f39cb8ce5aa5f0939f58a335c1af7d1145ab8339' />
+
+<img border='0' hspace='0' vspace='0' width='1' height='1' src='https://pixel.advertising.com/ups/17504/sync?uid=104a5e8e3a0b57866e37961eaf3cc53bf1b56b63b98d34b5610f904452d8a4c53234ad9a33ac0bc4&amp;_origin=1&amp;redir=true' /></body></html>

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="google-site-verification" content="cn5-gurGUvjtlzniBhOIPjfKHzuAplh_R9Ju9tuL0DM" />
+
+  <link rel="shortcut icon" href="/favicon.ico" sizes="128x128" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+
+  <title>Page not found</title>
+  <link rel="stylesheet" href="/vendor/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/style.css">
+
+  <!--Google Analytics-->
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  </script>
+  <!-- End Google Analytics -->
+  
+  <!-- Global site tag (gtag.js) - Google AdWords: 881159895 -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=AW-881159895"></script>
+  <script>
+  function loadGA () {
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+  
+    gtag('config', 'AW-881159895', { 'anonymize_ip': true });
+    window.gtag = gtag;
+  }
+  
+  if (document.cookie.indexOf('MSCC=') !== -1) {
+    loadGA();
+  } else {
+    if (mscc && mscc.on) {
+      mscc.on('consent', function () {
+        loadGA();
+      })
+    }
+  }
+  </script>
+  
+  <!-- AppInsights -->
+  <script>
+  if (document.cookie.indexOf('MSCC=') !== -1) {
+    var appInsights=window.appInsights||function(config){
+        function r(config){t[config]=function(){var i=arguments;t.queue.push(function(){t[config].apply(t,i)})}}var t={config:config},u=document,e=window,o="script",s=u.createElement(o),i,f;for(s.src=config.url||"//az416426.vo.msecnd.net/scripts/a/ai.0.js",u.getElementsByTagName(o)[0].parentNode.appendChild(s),t.cookie=u.cookie,t.queue=[],i=["Event","Exception","Metric","PageView","Trace"];i.length;)r("track"+i.pop());return r("setAuthenticatedUserContext"),r("clearAuthenticatedUserContext"),config.disableExceptionTracking||(i="onerror",r("_"+i),f=e[i],e[i]=function(config,r,u,e,o){var s=f&&f(config,r,u,e,o);return s!==!0&&t["_"+i](config,r,u,e,o),s}),t
+    }({
+        instrumentationKey:"f18193ef-b93a-4f73-b640-e2ddd40507ae"
+    });
+  
+    window.appInsights=appInsights;
+    appInsights.trackPageView();
+  }
+  </script>
+</head>
+
+<body class="errors">
+  <div class="container">
+    <img class="graphic notfound" src="/assets/images/404-graphic.svg" />
+<h1>Sorry!</h1>
+<h2>It seems the page can't be found</h2>
+
+
+    <div class="support">
+      <a href="/">Home</a>
+      <a href="http://www.github.com/Microsoft/vscode/issues">Report an issue</a>
+      <a href="http://twitter.com/code">@code</a>
+    </div>
+  </div>
+
+  <!-- [Begin] JSLL script includes -->
+  
+  <script type="text/javascript">
+    var config = {
+      coreData: {
+        appId: "vscode"
+      }
+    };
+    awa.init(config);
+  </script>
+  <!-- [End] JSLL script includes -->
+</body>
+
+</html>

@@ -1,0 +1,57 @@
+<html><head><script type="text/javascript">
+var anas = [14876,16006,16196,18536,20616,20626,20686,20876,21176,21406,21446,21496,21626,21956,21976,22486,22756,22806,23406,24316,25086,25416,27829,27979,28449,29659,651,24546,6298,8019,9996,26619,29369,2498,3238,3278,5718,7279,8566,16066,24236,24846,27779,13436,14756,18586,20396,4088,1927,2067,2488,2778,3228,15476,16806,23776,24256,27169,27989,1937,1997,2057,3078,3198,3248,3698,3958,3968,4248,4338,4718,4898,4938,5008,5228,5588,7379,8849,11136,12326,12859,13166,13246,13716,15426,16216,16706,16856,17506,22116,24376,26909,27879];
+var curCall = 0;
+var stop = 0;
+function loadNextPixel() {
+  if(curCall < anas.length && stop == 0) {
+    loadPixel(anas[curCall], curCall + 1);
+    curCall++;
+  }
+};
+function loadPixel(anaId, n) {
+  var elem = document.createElement('img');
+  if (elem.addEventListener) {
+    elem.addEventListener('load',loadNextPixel,false);
+    elem.addEventListener('error',loadNextPixel,false);
+  } else if (elem.attachEvent) {
+    elem.attachEvent('onload',loadNextPixel);
+    elem.attachEvent('onerror',loadNextPixel);
+  }
+  elem.border = '0';
+  elem.hspace = '0';
+  elem.vspace = '0';
+  elem.width = '1';
+  elem.height = '1';
+  elem.src = 'https://rc.rlcdn.com/449256.gif?n=' + n + '&ana=' + anaId;
+  document.body.appendChild(elem);
+};
+function extraCalls() {
+  loadNextPixel();
+  loadNextPixel();
+  loadNextPixel();
+  loadNextPixel();
+  loadNextPixel();
+  loadNextPixel();
+  loadNextPixel();
+}
+function stopCalls() {
+  stop = 1;
+}
+function extraCallsWithTimeout() {
+  window.setTimeout('extraCalls()',500);
+}
+if (window.addEventListener) {
+  window.addEventListener('load',extraCallsWithTimeout,false);
+} else if (window.attachEvent) {
+  window.attachEvent('onload',extraCallsWithTimeout);
+}
+</script></head>
+<body><img border='0' hspace='0' vspace='0' width='1' height='1' src='https://s.thebrighttag.com/csx?tp=Xebcych' />
+
+<img border='0' hspace='0' vspace='0' width='1' height='1' src='https://elr.sfr.fr/rpset/sfr-fr/pix1x1.gif?lrid=c7c39dfc04954eb6581e7b1896fa482f38effdfb4861c5641589f0d1b86cb3609aa479e6a67a949a' />
+
+<img border='0' hspace='0' vspace='0' width='1' height='1' src='https://cmi.netseer.com/redirect?ex=31' />
+
+<img border='0' hspace='0' vspace='0' width='1' height='1' src='https://x.skimresources.com/?provider=liveramp' />
+
+<img border='0' hspace='0' vspace='0' width='1' height='1' src='https://b1sync.zemanta.com/usersync/liveramp/' /></body></html>
