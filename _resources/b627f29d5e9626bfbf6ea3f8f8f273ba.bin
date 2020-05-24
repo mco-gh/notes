@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.1 (12005) - http://www.bohemiancoding.com/sketch -->
+    <title>social-tumblr</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="social-tumblr" sketch:type="MSArtboardGroup">
+            <circle id="Oval-5" fill="#5C5C5C" sketch:type="MSShapeGroup" cx="10" cy="10" r="10"></circle>
+            <path d="M9.74231913,4.00066072 L9.74231913,6.81598943 L12.5401388,6.81598943 L12.5401388,8.58242484 L9.74231913,8.58242484 L9.74231913,12.2196895 C9.74231913,12.2196895 9.68979187,14.2481004 12.8549719,12.8490254 L12.8549719,14.5801123 C12.8549719,14.5801123 11.753221,15 9.98711596,15 C8.22068054,15 7.39907499,14.0726792 7.39907499,12.9712587 L7.39907499,8.54674595 L6,8.54674595 L6,7.14767096 C6,7.14767096 8.27353816,6.32573505 8.29071688,4 L9.74231913,4 L9.74231913,4.00066072 Z" id="Shape" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

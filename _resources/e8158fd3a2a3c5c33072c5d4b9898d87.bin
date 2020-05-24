@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Play</title>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Play">
+            <circle id="Circle" stroke="#4D5668" stroke-width="2" opacity="0.200000003" cx="40" cy="40" r="39"></circle>
+            <path d="M23,39 C23,30.163444 30.1615011,23 39,23 C47.836556,23 55,30.1615011 55,39 C55,47.836556 47.8384989,55 39,55 C30.163444,55 23,47.8384989 23,39 Z M44.0724562,37.4495252 L37.2460623,33.0838082 C36.3124486,32.4867296 35.562963,32.9066283 35.562963,34.0158734 L35.562963,43.0359784 C35.562963,44.1483561 36.3165122,44.5625234 37.2460623,43.9680437 L44.0724562,39.6023267 C45.0060699,39.0052482 45.0020063,38.0440049 44.0724562,37.4495252 Z" id="Play-Icon" fill="#BE3F3F"></path>
+        </g>
+    </g>
+</svg>

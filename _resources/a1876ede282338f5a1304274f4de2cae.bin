@@ -1,0 +1,680 @@
+
+<!DOCTYPE html>
+<html>
+<head profile="http://www.w3.org/2005/10/profile">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="UTF-8">
+	<meta name="description" content="DefenseCode delivers products and services designed to analyze and test web, desktop and mobile applications for security vulnerabilities.">
+	<meta property="og:image" content="http://www.defensecode.com/images/capture.png"/>
+	<base href="/" />
+	
+	<link rel="stylesheet" type="text/css" href="css/ionicons.min.css">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+        <link rel="shortcut icon" href="favicon.png" type="image/png">
+	
+	<script type="text/javascript" src="js/libraries/jquery-3.1.1.min.js"></script>
+	<script type="text/javascript" src="js/menu.js"></script>
+	<script type="text/javascript" src="js/slider.js"></script>
+
+	<title>DefenseCode - Home</title>
+</head>
+<body>
+	<header>
+	<script type="text/javascript" src="js/scroll.js"></script>
+	<nav>
+		<span id="logo" class="float-left">Defense<span class="second-color">Code</span></span>				
+			<div id="menu-icon" class="icon" onclick="toggleMenu();"><a href="javascript:void(0);" class="ion-navicon"></a></div>
+				
+		<ul id="topnav" class="topnav">
+			<li class="active"><a href="index.php">Home</a></li>
+			
+			<li onclick="toggleDropdown(this);"
+						>
+				<a>Products
+					<span class="ion-android-arrow-dropdown"></span>
+				</a>
+				<ul>
+					<div class="arrow-up"></div>
+					<li  href="thunderscan.php">
+						<a href="thunderscan.php">ThunderScan</a>
+					</li>
+					<li >
+						<a href="webscanner.php">Web Security Scanner</a>
+					</li>
+				</ul>
+			</li>
+			
+			<li onclick="toggleDropdown(this);"
+						>
+				<a>Services
+					<span class="ion-android-arrow-dropdown"></span>
+				</a>
+				<ul>
+					<div class="arrow-up"></div>
+					<li >
+						<a href="sourcecodeanalysis.php">Source Code Security Analysis</a>
+					</li>
+					<li >
+						<a href="webapptesting.php">Web Application Security Testing</a>
+					</li>
+					<li >
+						<a href="penetrationtesting.php">Penetration Testing</a>
+					</li>
+					<li >
+						<a href="securityeducation.php">Security Education</a>
+					</li>
+				</ul>
+			</li>
+			<li onclick="toggleDropdown(this);"
+						>
+				<a>News
+					<span class="ion-android-arrow-dropdown"></span>
+				</a>
+				<ul>
+					<div class="arrow-up"></div>
+					<li >
+						<a href="news.php">News</a>
+					</li>
+					<li >
+						<a href="advisories.php">Advisories</a>
+					</li>
+					<li >
+						<a href="whitepapers.php">WhitePapers</a>
+					</li>
+					<li><a href="http://blog.defensecode.com/" target="_blank">Blog</a></li>
+				</ul>
+			</li>
+			<li  onclick="toggleDropdown(this);">
+				<a href="aboutus.php">About Us</a>
+			</li>
+			<li onclick="toggleDropdown(this);"
+						>
+				<a>Pricing
+					<span class="ion-android-arrow-dropdown"></span>
+				</a>
+				<ul>
+					<div class="arrow-up"></div>
+					<li >
+						<a href="pricing-products.php">Products</a>
+					</li>
+			
+				</ul>
+			</li>
+			<li><a href="contact.php">Contact</a></li>	
+		</ul>
+	</nav>
+</header>	<div id="slider">
+		<ul id="slider-images">					
+			<li class="slide" id="slide1">
+				<a href="aboutus.php">
+				<div class="overlay">
+					<div class="header-content">						
+						<div class="headings">
+							<h1>DEFENSECODE</h1>
+							<h2>About the company</h2>
+						</div>
+						<div class="desc">DefenseCode is developing both, dynamic and static application security testing solutions that are fast, easy to use, effective and accurate.</div>
+						<a class="button button-basic button-big" href="aboutus.php"><span class="bg"></span><span class="txt">READ MORE</span></a>
+					</div>
+				</div>
+				</a>				
+			</li>
+			<li class="slide" id="slide2">
+				<a href="thunderscan.php">
+				<div class="overlay">
+					<div class="header-content">
+						<div class="headings">
+							<img class="software-logo" src="images/assets/thunderscan_icon-hexagon.svg">		
+							<h1>THUNDERSCAN</h1>
+							<h2>Source Code Security Analysis (SAST)</h2>
+						</div>
+						<div class="clearfix"></div>
+						<div class="desc">Attacks on applications present the greatest threat to the security of organizations. The best way to ensure that your applications are free from critical vulnerabilities is to perform a comprehensive audit of application source code using DefenseCode ThunderScan.</div>
+						<a class="button button-basic button-big" href="thunderscan.php"><span class="bg"></span><span class="txt">READ MORE</span></a>
+					</div>
+				</div>	
+				</a>			
+			</li>
+			<li class="slide" id="slide3">
+				<a href="webscanner.php">
+				<div class="overlay">
+					<div class="header-content">
+						<img class="software-logo" src="images/assets/webscanner_icon-hexagon.svg">		
+						<div class="headings">
+							<h1>WEBSCANNER</h1>
+							<h2>Dynamic Application Security Testing</h2>
+						</div>
+						<div class="clearfix"></div>
+						<div class="desc">Active web applications (websites) are constantly exposed to malicious attacks. The best practice is to regularly use DefenseCode WebScanner for performing security audits of your websites.</div>
+						<a class="button button-basic button-big" href="webscanner.php"><span class="bg"></span><span class="txt">READ MORE</span></a>
+					</div>
+				</div>	
+				</a>			
+			</li>
+			<li class="slide" id="slide4">
+				<a href="sourcecodeanalysis.php">
+				<div class="overlay">
+					<div class="header-content">						
+						<div class="headings">
+							<h1>SOURCE CODE</h1>
+							<h2>Security Scanning Service</h2>
+						</div>
+						<div class="desc">Application security is one of the most overlooked aspects of information security. We can provide you with an independent review of the security of your applications using our Source Code Security solution.</div>
+						<a class="button button-basic button-big" href="#footer-contact"><span class="bg"></span><span class="txt">CONTACT US</span></a>
+					</div>
+				</div>
+				</a>				
+			</li>
+			<li class="slide" id="slide5">
+				<a href="webapptesting.php">
+				<div class="overlay">
+					<div class="header-content">						
+						<div class="headings">
+							<h1>WEB APPLICATION</h1>
+							<h2>Security Analysis Service</h2>
+						</div>
+						<div class="desc">Your internet websites are a target for malicious attackers. DefenseCode Web Application Scanning Service will identify potential security issues using advanced testing methods.</div>
+						<a class="button button-basic button-big" href="#footer-contact"><span class="bg"></span><span class="txt">CONTACT US</span></a>
+					</div>
+				</div>	
+				</a>			
+			</li>
+			<li class="slide" id="slide6">
+				<a href="aboutus.php">
+				<div class="overlay">
+					<div class="header-content">						
+						<div class="headings">
+							<h1>DEFENSECODE</h1>
+							<h2>About the company</h2>
+						</div>
+						<div class="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam convallis velit diam, eu elementum risus euismod vel. In sagittis ante non nisl lobortis fringilla.</div>
+						<a class="button button-basic button-big" href="aboutus.php"><span class="bg"></span><span class="txt">READ MORE</span></a>
+					</div>
+				</div>	
+				</a>			
+			</li>
+		</ul>		
+		<div id="slider-back">
+			<a class="ion-chevron-left"></a>
+		</div>
+		<div id="slider-middle-section">
+			<div class="indicators">
+				<div class="circle"><div class="circle-inner"></div></div>
+				<div class="circle"><div class="circle-inner"></div></div>
+				<div class="circle"><div class="circle-inner"></div></div>
+				<div class="circle"><div class="circle-inner"></div></div>
+				<div class="circle"><div class="circle-inner"></div></div>
+			</div>				
+		</div>
+		<div id="slider-next">
+			<a class="ion-chevron-right"></a>
+		</div>			
+	</div>
+	<div id="products" class="row">		
+		<h2><span class="ion-cube"></span> Products</h2>		
+		<div class="product-wrapper">
+			<div class="product">
+				<h3>ThunderScan</h3>
+				<div class="product-img" id="product-img1"></div>
+				<div id="product-text1" class="product-text">
+					<h4>Source Code Security Analysis (SAST)</h4>
+					<p>DefenseCode ThunderScan is a SAST (Static Application Security Testing, WhiteBox Testing) solution for performing extensive security audits of application source code. ThunderScan is easy to use, requires almost no user input and can be deployed during or after development. It is an efficient alternative to the demanding and time-consuming manual code reviews. ThunderScan will perform fast and accurate analyses of large and complex source code projects delivering precise results and low false positive rate.</p>
+				</div>
+				<div class="product-buttons">
+					<div class="button-wrapper">
+						<a class="button button-cta" href="pricing-products.php#thunder"><span class="bg">					
+							</span><span class="txt">PURCHASE LICENCE</span>
+						</a>
+					</div>
+					<div class="button-wrapper">
+						<a class="button button-basic" href="thunderscan.php">
+							<span class="bg"></span><span class="txt">READ MORE</span>
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="product-wrapper">
+			<div class="product">
+				<h3>WebScanner</h3>
+				<div class="product-img" id="product-img2"></div>
+				<div id="product-text2" class="product-text">
+					<h4>Web Application Security Scanner (DAST)</h4>
+					<p>DefenseCode WebScanner is a DAST (Dynamic Application Security Testing, BlackBox Testing) solution for comprehensive security audits of active web applications (websites). WebScanner will test a website's security by carrying out a large number of attacks using the most advanced techniques, just as a real attacker would. DefenseCode WebScanner can be used regardless of the web application development platform and even when application source code is no longer available.</p>
+				</div>
+				<div class="product-buttons">
+					<div class="button-wrapper">
+						<a class="button button-cta" href="pricing-products.php"><span class="bg">					
+							</span><span class="txt">PURCHASE LICENCE</span>
+						</a>
+					</div>
+					<div class="button-wrapper">
+						<a class="button button-basic" href="webscanner.php">
+							<span class="bg"></span><span class="txt">READ MORE</span>
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>		
+	</div>
+	<div class="row">
+		<div id="services" class="float-left">
+			<h2><span class="ion-settings"></span> Services <div class="section-border"></div></h2>
+			<div class="service-wrapper">
+				<div class="service">
+					<h3 id="service-heading1">Source Code Security Analysis Service</h3>				
+					<div class="service-img" id="service-img1"></div>			
+					<a href="sourcecodeanalysis.php"><span class="ion-ios-book-outline"></span> READ MORE</a>			
+				</div>
+			</div>
+			<div class="service-wrapper">
+				<div class="service">
+					<h3 id="service-heading2">Web Application Security Testing Service</h3>
+					<div class="service-img" id="service-img2"></div>			
+					<a href="webapptesting.php"><span class="ion-ios-book-outline"></span> READ MORE</a>	
+				</div>
+			</div>
+		</div>
+		<div id="news">
+			<h2><span class="ion-ios-paper"></span> News</h2>
+			<div id="news-articles">			
+				<ul>
+						    			    	
+			    	<li class='news-article' href='news_article.php?id=30'>
+			    		<a href='news_article.php?id=30'>
+				    	<div class='meta'>
+					    	<span class='date'>2018-03-06 18:11:06</span>
+					    	<span class='user'>Author: DefenseCode Team</span>
+				    	</div>
+				    	<div class="clearfix"></div>
+				        <h4>DefenseCode ThunderScan Added Support for Python and Ruby/RoR</h4>
+				        </a>
+			        </li>	        		       		    
+			    		    			    	
+			    	<li class='news-article' href='news_article.php?id=29'>
+			    		<a href='news_article.php?id=29'>
+				    	<div class='meta'>
+					    	<span class='date'>2017-10-25 11:24:51</span>
+					    	<span class='user'>Author: DefenseCode Team</span>
+				    	</div>
+				    	<div class="clearfix"></div>
+				        <h4>DefenseCode ThunderScan SAST Official OWASP Benchmark Results</h4>
+				        </a>
+			        </li>	        		       		    
+			    		    			    	
+			    	<li class='news-article' href='news_article.php?id=27'>
+			    		<a href='news_article.php?id=27'>
+				    	<div class='meta'>
+					    	<span class='date'>2017-10-12 09:46:59</span>
+					    	<span class='user'>Author: DefenseCode Team</span>
+				    	</div>
+				    	<div class="clearfix"></div>
+				        <h4>Announcing DefenseCode and DSquare partnership</h4>
+				        </a>
+			        </li>	        		       		    
+			    		    			    	
+			    	<li class='news-article' href='news_article.php?id=25'>
+			    		<a href='news_article.php?id=25'>
+				    	<div class='meta'>
+					    	<span class='date'>2017-07-11 15:07:11</span>
+					    	<span class='user'>Author: DefenseCode Team</span>
+				    	</div>
+				    	<div class="clearfix"></div>
+				        <h4>Multiple Buffer Overflow Vulnerabilities in IBM Database Software (DB2 and Informix)</h4>
+				        </a>
+			        </li>	        		       		    
+			    		    			    	
+			    	<li class='news-article' href='news_article.php?id=23'>
+			    		<a href='news_article.php?id=23'>
+				    	<div class='meta'>
+					    	<span class='date'>2017-05-19 17:20:21</span>
+					    	<span class='user'>Author: DefenseCode Team</span>
+				    	</div>
+				    	<div class="clearfix"></div>
+				        <h4>DefenseCode Is Looking for New Partners and Resellers</h4>
+				        </a>
+			        </li>	        		       		    
+			    		    	
+			    </ul>	
+			</div>
+		</div>		
+	</div>
+	<footer>
+	<div id="modal1" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <div class="body">
+	    <h3>Terms of Use</h3>
+	    <ol>
+	    	<li>Terms
+	    		<p>By accessing this web site, you are agreeing to be bound by these web site Terms and Conditions of Use, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this web site are protected by applicable copyright and trade mark law.</p>
+	    	</li>
+	    	<li>Use License
+	    		<p>Permission is granted to temporarily download one copy of the materials (information or software) on Defensecode's web site for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not: modify or copy the materials; use the materials for any commercial purpose, or for any public display (commercial or non-commercial); attempt to decompile or reverse engineer any software contained on Defensecode's web site; remove any copyright or other proprietary notations from the materials; or transfer the materials to another person or "mirror" the materials on any other server. This license shall automatically terminate if you violate any of these restrictions and may be terminated by Defensecode at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.</p>
+	    	</li>
+	    	<li>Disclaimer
+	    		<p>The materials on Defensecode's web site are provided "as is". Defensecode makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties, including without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights. Further, Defensecode does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its Internet web site or otherwise relating to such materials or on any sites linked to this site.</p>
+	    	</li>
+	    	<li>Limitations
+	    		<p>In no event shall Defensecode or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption,) arising out of the use or inability to use the materials on Defensecode's Internet site, even if Defensecode or a Defensecode authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.</p>
+	    	</li>
+	    	<li>Revisions and Errata
+	    		<p>The materials appearing on Defensecode's web site could include technical, typographical, or photographic errors. Defensecode does not warrant that any of the materials on its web site are accurate, complete, or current. Defensecode may make changes to the materials contained on its web site at any time without notice. Defensecode does not, however, make any commitment to update the materials.</p>
+	    	</li>
+	    	<li>Links
+	    		<p>Defensecode has not reviewed all of the sites linked to its Internet web site and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by Defensecode of the site. Use of any such linked web site is at the user's own risk.</p>
+	    	</li>
+	    	<li>Site Terms of Use Modifications
+	    		<p>Defensecode may revise these terms of use for its web site at any time without notice. By using this web site you are agreeing to be bound by the then current version of these Terms and Conditions of Use.</p>
+	    	</li>
+	    	<li>Governing Law
+	    		<p>Any claim relating to Defensecode's web site shall be governed by the laws of the Croatia without regard to its conflict of law provisions. General Terms and Conditions applicable to Use of a Web Site.</p>
+	    	</li>
+	    </ol>
+    </div>
+  </div>
+
+</div>
+
+<div id="modal2" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <div class="body">
+    	<h3>Privacy Policy</h3>
+    	<p>Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.</p>
+    	<ul>
+	    	<li>
+    		Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
+	    	</li>
+	    	<li>
+			We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.		
+	    	</li>
+	    	<li>
+			We will only retain personal information as long as necessary for the fulfillment of those purposes.
+	    	</li>
+	    	<li>	    		
+			We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.	    		
+	    	</li>
+	    	<li>	    		
+			Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
+	    	</li>
+	    	<li>
+			We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
+	    	</li>
+	    	<li>
+			We will make readily available to customers information about our policies and practices relating to the management of personal information.	    			    		
+	    	</li>
+	    	<li>	    		
+			We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.	
+	    	</li>
+    	</ul>
+    </div>
+  </div>
+</div>	<script type="text/javascript" src="js/modal.js"></script>
+
+
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+
+<script>
+function getCookie(cname) {
+  var name = cname + "=";
+  var decodedCookie = decodeURIComponent(document.cookie);
+  var ca = decodedCookie.split(';');
+  for(var i = 0; i <ca.length; i++) {
+    var c = ca[i];
+    while (c.charAt(0) == ' ') {
+      c = c.substring(1);
+    }
+    if (c.indexOf(name) == 0) {
+      return c.substring(name.length, c.length);
+    }
+  }
+  return "";
+}
+
+
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#efefef",
+      "text": "#404040"
+    },
+    "button": {
+      "background": "#8ec760",
+      "text": "#ffffff"
+    }
+  },
+  "type": "opt-in",
+  "content": {
+    "XXXmessage": "Message",
+    "XXXdismiss": "Dismiss",
+    "XXXallow": "Got it",
+    "XXXlink": "Read more",
+    "XXXhref": "Link to cookie and privacy policy"
+  },
+
+
+  onInitialise: function (status) {
+		 var type = this.options.type;
+		 var didConsent = this.hasConsented();
+		 if (type == 'opt-in' && didConsent && getCookie('cookieconsent_status') == 'allow') {
+                    console.log('Ready to fire cookies1');
+                   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+                  ga('create', 'UA-97164710-1', 'auto');
+                  ga('send', 'pageview');
+		  }
+		  if (type == 'opt-in' &&  getCookie('cookieconsent_status') == 'dismiss') {
+		    console.log('NO COOKIES1');
+                    window['ga-disable-UA-97164710-1'] = true;
+                    document.cookie = '_ga'  + '=; Path=/; Domain=.defensecode.com; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+                    document.cookie = '_gid' + '=; Path=/; Domain=.defensecode.com; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+                    document.cookie = '_gat' + '=; Path=/; Domain=.defensecode.com; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+		  }
+  },
+
+  onStatusChange: function(status, chosenBefore) {
+	  	  var type = this.options.type;
+		  var didConsent = this.hasConsented();
+		  if (type == 'opt-in' && didConsent && getCookie('cookieconsent_status') == 'allow') {
+		    console.log('Ready to fire cookies2');		  
+                   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+                  ga('create', 'UA-97164710-1', 'auto');
+                  ga('send', 'pageview');
+                  }
+		  if (type == 'opt-in' && getCookie('cookieconsent_status') == 'dismiss') {
+		    console.log('NO COOKIES2');
+                    window['ga-disable-UA-97164710-1'] = true;
+                    document.cookie = '_ga'  + '=; Path=/; Domain=.defensecode.com; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+                    document.cookie = '_gid' + '=; Path=/; Domain=.defensecode.com; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+                    document.cookie = '_gat' + '=; Path=/; Domain=.defensecode.com; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+		  }
+},		
+})
+});
+</script>
+
+
+
+
+
+	<div class="row">
+		<div id="footer-contact">
+			<h4>Contact Us</h4>
+			<form id="footer-contact-form" action="api/mail.php" method="post">
+				<div id="notification"></div>
+				<div id="footer-contact-inputs" class="float-left">
+					<label>Your Name *</label>
+					<input type="text" name="name" id="name">
+					<label>Your Email *</label>
+					<input type="email" name="email" id="email">
+					<label>Message Subject</label>
+					<input type="text" name="subject" id="subject">
+				</div>
+				<div id="footer-message">
+					<label>Message *</label>
+					<textarea name="message" id="message"></textarea>
+				</div>
+				<a class="button button-basic" onclick="submitForm();return false;"><span class="bg"></span><span class="txt">SEND MESSAGE</span></a>
+			</form>
+		</div>				
+		<div id="footer-links">
+			<div id="footer-products"> 
+				<h4>Products</h4>
+				<ul>
+					<li><a href="thunderscan.php">ThunderScan</a></li>
+					<li><a href="webscanner.php">Web Security Scanner</a></li>
+				</ul>
+			</div>
+			<div id="footer-services">
+				<h4>Services</h4>
+				<ul>
+					<li><a href="penetrationtesting.php">Penetration testing</a></li>
+					<li><a href="webapptesting.php">Web Application Security Testing</a></li>
+					<li><a href="sourcecodeanalysis.php">Web Application Source Code Security Analysis</a></li>
+					<li><a href="securityeducation.php">Security Education</a></li>
+				</ul>
+			</div>
+			<div id="footer-soc">
+				<h4>Social Media:</h4>
+				<a href="https://www.facebook.com/DefenseCode-196618297045592/" class="soc-media">f</a>
+				<a href="https://twitter.com/DefenseCode" class="soc-media">l</a>
+				<a href="https://www.linkedin.com/company/defensecode/" class="soc-media">i</a>
+				<a href="https://www.youtube.com/channel/UC1Dej6GzkUUloihmdM8qceA" class="soc-media">x</a>
+			</div>
+			<img src="images/assets/mail.svg" />
+		</div>
+	</div>		
+	<div class="clearfix"></div>
+	<div id="footer-copyright">
+		<span>
+			<a href="#" onclick="openModal(2); return false;">Privacy Policy</a>
+			<a href="#" onclick="openModal(1); return false;">Terms of use</a>
+		</span>
+		<div>© Copyright DefenseCode 2018, All Rights Reserved</div>
+	</div>
+	<script type="text/javascript">
+		function submitForm() {
+		var not = $('#notification');
+		var namefield = $('#name').val();
+		var emailfield = $('#email').val();
+		var messagefield = $('#message').val();
+		var subjectfield = $('#subject').val();
+		var request;
+		if (
+			!namefield ||
+			!emailfield ||
+			!messagefield
+			) {	
+			not.css('display', 'block');
+			not.css('color', '#cd433e');
+			not.html("All required fields must be populated.");
+		}
+		else {
+			var data = {
+				name: namefield,
+				email: emailfield,
+				message: messagefield,
+				subject: subjectfield
+			};	
+
+			namefield = $('#name').val("");
+			emailfield = $('#email').val("");
+			messagefield = $('#message').val("");
+			subjectfield = $('#subject').val("");
+
+			request = $.ajax({
+		        url: "api/mail.php",
+		        type: "post",
+		        data: data
+			});
+
+			request.done(function (response, textStatus, jqXHR){		      
+		        console.log(response);
+		        var color;
+					if (response=='Message successfully sent.') {
+						color='#6ea55b';
+					}
+					else {
+						color='#cd433e';
+					}	
+					not.css('display', 'block');
+					not.css('color', color);
+					not.html(response);	    
+			});
+		}
+	}
+	</script>
+</footer></body>
+<script type="text/javascript">
+	window.onload = resize();
+	window.onresize = resize();
+
+	function resize() {
+		
+		var element1;
+		var element2;
+		var h1;
+		var h2;
+		var max;
+
+		// product text boxes
+		element1 = $('#product-text1');
+		element2 = $('#product-text2');
+		h1 = element1.height();
+		h2 = element2.height();
+		max = Math.max(h1, h2);
+		element1.height(max);
+		element2.height(max);
+		if($(window).width() > 500) {
+			element1.height(max);
+			element2.height(max);
+		}	
+		else {
+			element1.height('auto');
+			element2.height('auto');
+		}
+
+		element1 = $('#product-img1');
+		element2 = $('#product-img2');
+		h1 = element1.height();
+		h2 = element2.height();
+		max = Math.max(h1, h2);
+		element1.height(max);
+		element2.height(max);
+		if($(window).width() > 500) {
+			element1.height(max);
+			element2.height(max);
+		}	
+
+		// product text boxes
+		element1 = $('#service-heading1');
+		element2 = $('#service-heading2');
+		element1.height('auto');
+		element2.height('auto');
+		h1 = element1.height();
+		h2 = element2.height();
+		max = Math.max(h1, h2);
+		
+		if($(window).width() > 500) {
+			element1.height(max);
+			element2.height(max);
+		}	
+		else {
+			element1.height('auto');
+			element2.height('auto');
+		}	
+	}
+</script>
+</html>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

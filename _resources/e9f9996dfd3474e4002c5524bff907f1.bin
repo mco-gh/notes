@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="38px" height="48px" viewBox="0 0 38 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>certificate</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="52" height="52"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="52" height="52" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="0" y="0" width="36.4" height="47.84"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="36.4" height="47.84" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <circle id="path-5" cx="5.2" cy="5.2" r="5.2"></circle>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="10.4" height="10.4" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <path d="M8.32,8.68832615 L8.32,14.56 L5.2,13 L2.08,14.56 L2.08,8.68832615 C2.90798013,9.42938843 4.00136708,9.88 5.2,9.88 C6.39863292,9.88 7.49201987,9.42938843 8.32,8.68832615 Z" id="path-7"></path>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="6.24" height="5.87167385" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+    </defs>
+    <g id="SDP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SDP---Default-State" transform="translate(-877.000000, -739.000000)">
+            <g id="Description-Detail---Specializations" transform="translate(484.000000, 736.000000)">
+                <g id="Featured-1">
+                    <g id="Step-3" transform="translate(386.000000, 0.000000)">
+                        <g id="certificate" transform="translate(0.000000, 1.000000)">
+                            <use id="Icon" stroke="#0083EA" mask="url(#mask-2)" stroke-width="1.04" fill-opacity="0.5" fill="#0083EB" opacity="0" xlink:href="#path-1"></use>
+                            <g id="Group" transform="translate(7.800000, 2.080000)">
+                                <use id="Paper" stroke="#1F1F1F" mask="url(#mask-4)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-3"></use>
+                                <g id="Text" transform="translate(6.240000, 7.800000)" fill="#1F1F1F">
+                                    <rect id="Title" x="0" y="0" width="23.92" height="2.6"></rect>
+                                    <rect id="Title-Copy" x="0" y="4.68" width="23.92" height="0.52"></rect>
+                                    <rect id="Title-Copy-2" x="0" y="6.24" width="23.92" height="0.52"></rect>
+                                    <rect id="Title-Copy-3" x="0" y="7.8" width="23.92" height="0.52"></rect>
+                                    <rect id="Title-Copy-4" x="0" y="9.36" width="23.92" height="0.52"></rect>
+                                    <rect id="Title-Copy-5" x="0" y="10.92" width="23.92" height="0.52"></rect>
+                                    <rect id="Title-Copy-6" x="0" y="12.48" width="23.92" height="0.52"></rect>
+                                </g>
+                                <g id="Stamp" transform="translate(22.360000, 29.640000)" stroke="#1F1F1F" stroke-width="2">
+                                    <use id="Oval-20" mask="url(#mask-6)" xlink:href="#path-5"></use>
+                                    <use id="Rectangle-521-Copy" mask="url(#mask-8)" xlink:href="#path-7"></use>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
