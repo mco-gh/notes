@@ -1,56 +1,56 @@
 grpc / grpc.io
 
- [![GRPC](../_resources/cfde0f4c08a6593492a47e890de73165.png)](http://www.grpc.io/grpc.github.io/)
+ [![GRPC](../_resources/cfde0f4c08a6593492a47e890de73165.png)](https://grpc.io/)
 
-[Home](http://www.grpc.io/grpc.github.io/)
-
-* * *
-
-[About](http://www.grpc.io/grpc.github.io/about/)
+[Home](https://grpc.io/)
 
 * * *
 
-[Docs](http://www.grpc.io/grpc.github.io/docs/)
-
- [(L)](http://www.grpc.io/grpc.github.io/docs)  [(L)](http://www.grpc.io/grpc.github.io/docs/quickstart)  [(L)](http://www.grpc.io/grpc.github.io/docs/guides)  [(L)](http://www.grpc.io/grpc.github.io/docs/tutorials)  [(L)](http://www.grpc.io/grpc.github.io/docs/reference)  [(L)](http://www.grpc.io/grpc.github.io/docs/samples)
+[About](https://grpc.io/about/)
 
 * * *
 
-[Blog](http://www.grpc.io/grpc.github.io/blog/)
+[Docs](https://grpc.io/docs/)
+
+ [(L)](https://grpc.io/docs)  [(L)](https://grpc.io/docs/quickstart)  [(L)](https://grpc.io/docs/guides)  [(L)](https://grpc.io/docs/tutorials)  [(L)](https://grpc.io/docs/reference)  [(L)](https://grpc.io/docs/samples)
 
 * * *
 
-[Community](http://www.grpc.io/grpc.github.io/community/)
+[Blog](https://grpc.io/blog/)
 
 * * *
 
-[FAQ](http://www.grpc.io/grpc.github.io/faq/)
-
- [![GRPC](../_resources/cfde0f4c08a6593492a47e890de73165.png)](http://www.grpc.io/grpc.github.io/)
-
-[Home](http://www.grpc.io/grpc.github.io/)
+[Community](https://grpc.io/community/)
 
 * * *
 
-[About](http://www.grpc.io/grpc.github.io/about/)
+[FAQ](https://grpc.io/faq/)
+
+ [![GRPC](../_resources/cfde0f4c08a6593492a47e890de73165.png)](https://grpc.io/)
+
+[Home](https://grpc.io/)
 
 * * *
 
-[Docs](http://www.grpc.io/grpc.github.io/docs/)
-
- [(L)](http://www.grpc.io/grpc.github.io/docs)  [(L)](http://www.grpc.io/grpc.github.io/docs/quickstart)  [(L)](http://www.grpc.io/grpc.github.io/docs/guides)  [(L)](http://www.grpc.io/grpc.github.io/docs/tutorials)  [(L)](http://www.grpc.io/grpc.github.io/docs/reference)  [(L)](http://www.grpc.io/grpc.github.io/docs/samples)
+[About](https://grpc.io/about/)
 
 * * *
 
-[Blog](http://www.grpc.io/grpc.github.io/blog/)
+[Docs](https://grpc.io/docs/)
+
+ [(L)](https://grpc.io/docs)  [(L)](https://grpc.io/docs/quickstart)  [(L)](https://grpc.io/docs/guides)  [(L)](https://grpc.io/docs/tutorials)  [(L)](https://grpc.io/docs/reference)  [(L)](https://grpc.io/docs/samples)
 
 * * *
 
-[Community](http://www.grpc.io/grpc.github.io/community/)
+[Blog](https://grpc.io/blog/)
 
 * * *
 
-[FAQ](http://www.grpc.io/grpc.github.io/faq/)
+[Community](https://grpc.io/community/)
+
+* * *
+
+[FAQ](https://grpc.io/faq/)
 
 #
 
@@ -60,13 +60,13 @@ grpc / grpc.io
 
 # A high performance, open-source universal RPC framework
 
- [(L)](http://www.grpc.io/grpc.github.io/docs)
+ [(L)](https://grpc.io/docs)
 
 ### Simple service definition
 
 Define your service using Protocol Buffers, a powerful binary serialization toolset and language
 
- [(L)](http://www.grpc.io/grpc.github.io/docs/guides/concepts.html#service-definition)
+ [(L)](https://grpc.io/docs/guides/concepts.html#service-definition)
 
  ![Microservices](../_resources/2561fe97fe9f91bf82485c0badab014c.png)
 
@@ -76,13 +76,13 @@ Define your service using Protocol Buffers, a powerful binary serialization tool
 
 Automatically generate idiomatic client and server stubs for your service in a variety of languages and platforms
 
- [(L)](http://www.grpc.io/grpc.github.io/about#osp)
+ [(L)](https://grpc.io/about#osp)
 
 ### Start quickly and scale
 
 Install runtime and dev environments with a single line and also scale to millions of RPCs per second with the framework
 
- [(L)](http://www.grpc.io/grpc.github.io/docs/quickstart)
+ [(L)](https://grpc.io/docs/quickstart)
  ![Web](../_resources/1f81bd389f103127b9cd688c3e4edbf7.png)
 
  ![Efficient Apis](../_resources/34f290e0daea3a97b9da86192f1b0dc5.png)
@@ -91,7 +91,7 @@ Install runtime and dev environments with a single line and also scale to millio
 
 Bi-directional streaming and fully integrated pluggable authentication with http/2 based transport
 
- [(L)](http://www.grpc.io/grpc.github.io/docs/guides/auth.html)
+ [(L)](https://grpc.io/docs/guides/auth.html)
 
 * * *
 
@@ -99,41 +99,41 @@ Bi-directional streaming and fully integrated pluggable authentication with http
 
 Get started by learning concepts and doing our hello world quickstart in language of your choice.
 
- [(L)](http://www.grpc.io/grpc.github.io/docs)
+ [(L)](https://grpc.io/docs)
 
 Or go straight to Quick Start in the language of your choice:
 
- [C++](http://www.grpc.io/grpc.github.io/docs/quickstart/cpp.html)  [Java](http://www.grpc.io/grpc.github.io/docs/quickstart/java.html)  [Python](http://www.grpc.io/grpc.github.io/docs/quickstart/python.html)
+ [C++](https://grpc.io/docs/quickstart/cpp.html)  [Java](https://grpc.io/docs/quickstart/java.html)  [Python](https://grpc.io/docs/quickstart/python.html)
 
- [Go](http://www.grpc.io/grpc.github.io/docs/quickstart/go.html)  [Ruby](http://www.grpc.io/grpc.github.io/docs/quickstart/ruby.html)  [C#](http://www.grpc.io/grpc.github.io/docs/quickstart/csharp.html)
+ [Go](https://grpc.io/docs/quickstart/go.html)  [Ruby](https://grpc.io/docs/quickstart/ruby.html)  [C#](https://grpc.io/docs/quickstart/csharp.html)
 
- [Node.js](http://www.grpc.io/grpc.github.io/docs/quickstart/node.html)  [Android Java](http://www.grpc.io/grpc.github.io/docs/quickstart/android.html)  [Objective-C](http://www.grpc.io/grpc.github.io/docs/quickstart/objective-c.html)
+ [Node.js](https://grpc.io/docs/quickstart/node.html)  [Android Java](https://grpc.io/docs/quickstart/android.html)  [Objective-C](https://grpc.io/docs/quickstart/objective-c.html)
 
- [PHP](http://www.grpc.io/grpc.github.io/docs/quickstart/php.html)
+ [PHP](https://grpc.io/docs/quickstart/php.html)
 
 ©2015 gRPC | a high performance, open-source universal RPC framework
 
  Documentation
 
-- [Overview](http://www.grpc.io/grpc.github.io/docs/)
+- [Overview](https://grpc.io/docs/)
 
-- [Quick Start](http://www.grpc.io/grpc.github.io/docs/quickstart)
+- [Quick Start](https://grpc.io/docs/quickstart)
 
-- [Guides](http://www.grpc.io/grpc.github.io/docs/guides)
+- [Guides](https://grpc.io/docs/guides)
 
-- [Tutorials](http://www.grpc.io/grpc.github.io/docs/tutorials)
+- [Tutorials](https://grpc.io/docs/tutorials)
 
-- [Reference APIs](http://www.grpc.io/grpc.github.io/docs/reference)
+- [Reference APIs](https://grpc.io/docs/reference)
 
 * * *
 
  Resources
 
-- [About](http://www.grpc.io/grpc.github.io/about)
+- [About](https://grpc.io/about)
 
-- [Blog](http://www.grpc.io/grpc.github.io/blog)
+- [Blog](https://grpc.io/blog)
 
-- [FAQ](http://www.grpc.io/grpc.github.io/faq)
+- [FAQ](https://grpc.io/faq)
 
 * * *
 
